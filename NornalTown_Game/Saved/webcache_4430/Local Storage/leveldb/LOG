@@ -1,2 +1,6 @@
-2026/04/28-14:41:24.097 710c Creating DB C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/28-14:41:24.108 710c Reusing MANIFEST C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/28-20:15:48.703 5eb0 Reusing MANIFEST C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/28-20:15:48.712 5eb0 Recovering log #3
+2026/04/28-20:15:48.713 5eb0 Reusing old log C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/04/28-20:18:51.754 6e04 Level-0 table #5: started
+2026/04/28-20:18:51.763 6e04 Level-0 table #5: 38721 bytes OK
+2026/04/28-20:18:51.766 6e04 Delete type=0 #3
