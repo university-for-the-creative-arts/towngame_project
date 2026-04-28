@@ -153,6 +153,7 @@
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/FirstPerson/Anims/CtrlRig_FPWarp.uasset",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/LevelPrototyping/Interactable/Target/BP_WobbleTarget.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/NewMap.umap",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/tdcrdbur_tier_3/Textures/T_tdcrdbur_1K_N.uasset",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/tdcrdbur_tier_3/Textures/T_tdcrdbur_1K_ORT.uasset",
@@ -179,6 +180,8 @@
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Fab/Megascans/Surfaces/Soil_Mud_pjuph20/Low/pjuph20_tier_3/Textures/T_pjuph20_1K_B.uasset",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Fab/Megascans/Surfaces/Soil_Mud_pjuph20/Low/pjuph20_tier_3/Materials/MI_pjuph20.uasset",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap",
+=======
+>>>>>>> Stashed changes
 				"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/AssetsvilleTown/Maps/Demonstration.umap",
 				"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset"
 			]

@@ -2036,6 +2036,7 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.04.28-13.24.51:198][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2015.220337
 [2026.04.28-13.24.52:199][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.28-13.24.52:199][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2015.886230, Update Interval: 322.169250
+<<<<<<< Updated upstream
 [2026.04.28-13.26.42:870][337]LogTexture: Display: Building textures: /Temp/Untitled_1.Untitled:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
 [2026.04.28-13.29.45:838][809]LogDebuggerCommands: Repeating last play command: Selected Viewport
 [2026.04.28-13.29.45:863][809]LogPlayLevel: [PlayLevel] Compiling BP_HorrorCharacter before play...
@@ -3696,3 +3697,5 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.04.28-17.50.59:628][507]LogWindows: Error: [Callstack] 0x00007ffde0d3c91f UnrealEditor-Core.dll!UnknownFunction []
 [2026.04.28-17.50.59:628][507]LogWindows: Error: [Callstack] 0x00007ffe8424e8d7 KERNEL32.DLL!UnknownFunction []
 [2026.04.28-17.50.59:628][507]LogWindows: Error: 
+=======
+>>>>>>> Stashed changes
