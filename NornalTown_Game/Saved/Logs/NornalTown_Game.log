@@ -4733,3 +4733,763 @@ Sampler Limit: 32
 [2026.05.15-16.17.41:535][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2436.842285
 [2026.05.15-16.17.42:535][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.15-16.17.42:535][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2437.509766, Update Interval: 330.024719
+[2026.05.15-16.23.59:397][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2814.665771
+[2026.05.15-16.23.59:617][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-16.23.59:617][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2814.876953, Update Interval: 319.446381
+[2026.05.15-16.26.03:920][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.05.15-16.26.03:922][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TextureTesting' took 0.031
+[2026.05.15-16.26.03:924][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NurseMary/Animations/NurseMary_Stand_Anim] ([1] browsable assets)...
+[2026.05.15-16.26.03:989][913]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/NurseMary/Animations/NurseMary_Stand_Anim.NurseMary_Stand_Anim]
+[2026.05.15-16.26.03:989][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NurseMary/Animations/NurseMary_Stand_Anim]
+[2026.05.15-16.26.04:008][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_Anim_Auto3
+[2026.05.15-16.26.04:008][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/NurseMary_Stand_Anim_Auto3E18EBD2348867BA5DFF8B4B39886D4DF.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_Anim_Auto3.uasset'
+[2026.05.15-16.26.04:010][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NurseMary/Animations/NurseMary_Stand] ([1] browsable assets)...
+[2026.05.15-16.26.04:020][913]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/NurseMary/Animations/NurseMary_Stand.NurseMary_Stand]
+[2026.05.15-16.26.04:020][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NurseMary/Animations/NurseMary_Stand]
+[2026.05.15-16.26.04:036][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_Auto3
+[2026.05.15-16.26.04:036][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/NurseMary_Stand_Auto3225C9C1C4FFFD6765F0ADA959D49111E.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_Auto3.uasset'
+[2026.05.15-16.26.04:037][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NurseMary/Animations/NurseMary_Stand_Skeleton] ([1] browsable assets)...
+[2026.05.15-16.26.04:048][913]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/NurseMary/Animations/NurseMary_Stand_Skeleton.NurseMary_Stand_Skeleton]
+[2026.05.15-16.26.04:048][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NurseMary/Animations/NurseMary_Stand_Skeleton]
+[2026.05.15-16.26.04:055][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_Skeleton_Auto3
+[2026.05.15-16.26.04:055][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/NurseMary_Stand_Skeleton_Auto3E2592E5C43CA637AF6417EB7FBDA5171.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_Skeleton_Auto3.uasset'
+[2026.05.15-16.26.04:057][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NurseMary/Animations/NurseMary_Stand_PhysicsAsset] ([1] browsable assets)...
+[2026.05.15-16.26.04:065][913]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/NurseMary/Animations/NurseMary_Stand_PhysicsAsset.NurseMary_Stand_PhysicsAsset]
+[2026.05.15-16.26.04:065][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NurseMary/Animations/NurseMary_Stand_PhysicsAsset]
+[2026.05.15-16.26.04:082][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_PhysicsAsset_Auto3
+[2026.05.15-16.26.04:082][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/NurseMary_Stand_PhysicsAsset_AutDEAC90014A1490FD9466209F474755EA.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/NurseMary/Animations/NurseMary_Stand_PhysicsAsset_Auto3.uasset'
+[2026.05.15-16.26.04:084][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NurseMary/Animations/initialShadingGroup] ([1] browsable assets)...
+[2026.05.15-16.26.04:096][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/NurseMary/Animations/initialShadingGroup.initialShadingGroup]
+[2026.05.15-16.26.04:096][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NurseMary/Animations/initialShadingGroup]
+[2026.05.15-16.26.04:104][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/NurseMary/Animations/initialShadingGroup_Auto3
+[2026.05.15-16.26.04:104][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/initialShadingGroup_Auto3D10238E94870D57CE9CFD98E756ABC3A.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/NurseMary/Animations/initialShadingGroup_Auto3.uasset'
+[2026.05.15-16.26.04:105][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/NurseMary/Animations/CubeSG] ([1] browsable assets)...
+[2026.05.15-16.26.04:114][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/NurseMary/Animations/CubeSG.CubeSG]
+[2026.05.15-16.26.04:114][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/NurseMary/Animations/CubeSG]
+[2026.05.15-16.26.04:122][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/NurseMary/Animations/CubeSG_Auto3
+[2026.05.15-16.26.04:122][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/CubeSG_Auto37F8A700447153E5994AC1EBDDD5FC8F0.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/NurseMary/Animations/CubeSG_Auto3.uasset'
+[2026.05.15-16.26.04:124][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Stand_Anim] ([1] browsable assets)...
+[2026.05.15-16.26.04:134][913]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Samantha/Animations/Samantha_Stand_Anim.Samantha_Stand_Anim]
+[2026.05.15-16.26.04:134][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Stand_Anim]
+[2026.05.15-16.26.04:151][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_Anim_Auto3
+[2026.05.15-16.26.04:152][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Stand_Anim_Auto329DABEA24563E2AF51C015862DC6ED10.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_Anim_Auto3.uasset'
+[2026.05.15-16.26.04:153][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Stand] ([1] browsable assets)...
+[2026.05.15-16.26.04:162][913]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Samantha/Animations/Samantha_Stand.Samantha_Stand]
+[2026.05.15-16.26.04:162][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Stand]
+[2026.05.15-16.26.04:177][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_Auto3
+[2026.05.15-16.26.04:177][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Stand_Auto304F30C1E4DF31F5BDDD27892BE62C614.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_Auto3.uasset'
+[2026.05.15-16.26.04:178][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Stand_Skeleton] ([1] browsable assets)...
+[2026.05.15-16.26.04:187][913]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Samantha/Animations/Samantha_Stand_Skeleton.Samantha_Stand_Skeleton]
+[2026.05.15-16.26.04:187][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Stand_Skeleton]
+[2026.05.15-16.26.04:194][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_Skeleton_Auto3
+[2026.05.15-16.26.04:194][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Stand_Skeleton_Auto31795E491408C9BEFCEED65BA7CE4E49B.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_Skeleton_Auto3.uasset'
+[2026.05.15-16.26.04:195][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Stand_PhysicsAsset] ([1] browsable assets)...
+[2026.05.15-16.26.04:204][913]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Samantha/Animations/Samantha_Stand_PhysicsAsset.Samantha_Stand_PhysicsAsset]
+[2026.05.15-16.26.04:204][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Stand_PhysicsAsset]
+[2026.05.15-16.26.04:214][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_PhysicsAsset_Auto3
+[2026.05.15-16.26.04:215][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Stand_PhysicsAsset_AutoDD55A2C94C0A5AA35AA1F4A0411BC1CD.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Stand_PhysicsAsset_Auto3.uasset'
+[2026.05.15-16.26.04:216][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Run_Anim] ([1] browsable assets)...
+[2026.05.15-16.26.04:224][913]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Samantha/Animations/Samantha_Run_Anim.Samantha_Run_Anim]
+[2026.05.15-16.26.04:224][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Run_Anim]
+[2026.05.15-16.26.04:239][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_Anim_Auto3
+[2026.05.15-16.26.04:239][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Run_Anim_Auto31D89DDAF4C4BE33B9FBC4DB53BC72CEA.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_Anim_Auto3.uasset'
+[2026.05.15-16.26.04:240][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/lambert2] ([1] browsable assets)...
+[2026.05.15-16.26.04:249][913]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Samantha/Animations/lambert2.lambert2]
+[2026.05.15-16.26.04:249][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/lambert2]
+[2026.05.15-16.26.04:256][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/lambert2_Auto3
+[2026.05.15-16.26.04:256][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/lambert2_Auto3036F06E14BCE07EC38FD1BB5F01FC863.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/lambert2_Auto3.uasset'
+[2026.05.15-16.26.04:257][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Run_PhysicsAsset] ([1] browsable assets)...
+[2026.05.15-16.26.04:266][913]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Samantha/Animations/Samantha_Run_PhysicsAsset.Samantha_Run_PhysicsAsset]
+[2026.05.15-16.26.04:266][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Run_PhysicsAsset]
+[2026.05.15-16.26.04:276][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_PhysicsAsset_Auto3
+[2026.05.15-16.26.04:276][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Run_PhysicsAsset_Auto353534B484F842AAD703834A70BA79FBC.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_PhysicsAsset_Auto3.uasset'
+[2026.05.15-16.26.04:278][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Run_Skeleton] ([1] browsable assets)...
+[2026.05.15-16.26.04:288][913]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Samantha/Animations/Samantha_Run_Skeleton.Samantha_Run_Skeleton]
+[2026.05.15-16.26.04:288][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Run_Skeleton]
+[2026.05.15-16.26.04:295][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_Skeleton_Auto3
+[2026.05.15-16.26.04:295][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Run_Skeleton_Auto3CA3F0AD44E583326AFF02394A4261371.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_Skeleton_Auto3.uasset'
+[2026.05.15-16.26.04:297][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Samantha/Animations/Samantha_Run] ([1] browsable assets)...
+[2026.05.15-16.26.04:306][913]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Samantha/Animations/Samantha_Run.Samantha_Run]
+[2026.05.15-16.26.04:306][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Samantha/Animations/Samantha_Run]
+[2026.05.15-16.26.04:321][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_Auto3
+[2026.05.15-16.26.04:321][913]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Samantha_Run_Auto3C47BBCBC4D3636761C4B2C9BE3B015F6.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/Samantha/Animations/Samantha_Run_Auto3.uasset'
+[2026.05.15-16.26.04:322][913]LogFileHelpers: Auto-saving content packages took 0.400
+[2026.05.15-16.29.57:472][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3172.736084
+[2026.05.15-16.29.57:625][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-16.29.57:625][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3172.880615, Update Interval: 345.056305
+[2026.05.15-16.36.21:780][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3557.062256
+[2026.05.15-16.36.21:931][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-16.36.21:931][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3557.203613, Update Interval: 354.197205
+[2026.05.15-16.38.52:760][591]LogDerivedDataCache: C:/Users/2504926/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.15-16.43.04:246][403]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3959.531250
+[2026.05.15-16.43.04:389][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-16.43.04:389][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3959.666260, Update Interval: 347.729736
+[2026.05.15-16.49.39:819][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4355.049316
+[2026.05.15-16.49.39:973][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-16.49.39:973][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4355.197754, Update Interval: 301.309235
+[2026.05.15-16.55.35:841][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4710.999023
+[2026.05.15-16.55.35:984][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-16.55.35:986][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4711.133789, Update Interval: 321.619934
+[2026.05.15-17.01.43:452][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5078.591309
+[2026.05.15-17.01.43:611][528]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.01.43:611][528]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5078.742188, Update Interval: 356.163818
+[2026.05.15-17.08.16:359][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5471.479980
+[2026.05.15-17.08.17:359][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.08.17:359][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5472.145996, Update Interval: 313.726013
+[2026.05.15-17.14.16:476][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5831.592773
+[2026.05.15-17.14.17:477][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.14.17:477][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5832.259766, Update Interval: 359.635620
+[2026.05.15-17.21.15:858][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6250.979980
+[2026.05.15-17.21.16:858][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.21.16:858][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6251.646484, Update Interval: 312.815948
+[2026.05.15-17.26.40:669][ 16]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.26.40:689][ 16]LogInterchangeEngine: [Pending] Importing
+[2026.05.15-17.26.40:689][ 16]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/James/James_lambert3_Normal.png]
+[2026.05.15-17.26.40:690][ 16]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.05.15-17.26.40:690][ 16]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/James/James_lambert3_OcclusionRoughnessMetallic.png]
+[2026.05.15-17.26.40:872][ 16]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/James/James.fbx]
+[2026.05.15-17.26.42:730][ 16]LogSlate: Window 'Import Content' being destroyed
+[2026.05.15-17.26.42:748][ 16]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.05.15-17.26.42:750][ 16]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.05.15-17.26.42:750][ 16]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/James/James_lambert3_BaseColor.png]
+[2026.05.15-17.26.42:832][ 17]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.26.42:858][ 18]LogStaticMeshOperations: Display: Mesh \Mesh\pPlane7 has NaNs in it's vertex instance uvs! Offending uvs are set to zero.
+[2026.05.15-17.26.42:859][ 18]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.26.42:896][ 20]LogStaticMesh: Display: Building static mesh James (Required Memory Estimate: 5.60613 MB)...
+[2026.05.15-17.26.42:916][ 21]LogStaticMesh: Adjacency [0.00s], tris: 3624, UVs 1
+[2026.05.15-17.26.42:930][ 21]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.05.15-17.26.42:931][ 21]LogStaticMesh: Leaves [0.00s]
+[2026.05.15-17.26.42:941][ 21]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.05.15-17.26.42:948][ 22]LogTexture: Display: Building textures: /Game/Characters/James/James_lambert3_Normal.James_lambert3_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2026.05.15-17.26.42:953][ 22]LogTexture: Display: Building textures: /Game/Characters/James/James_lambert3_OcclusionRoughnessMetallic.James_lambert3_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.05.15-17.26.42:958][ 22]LogTexture: Display: Building textures: /Game/Characters/James/James_lambert3_BaseColor.James_lambert3_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.05.15-17.26.43:145][ 23]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2504926/One...ive Narratives/James/James_lambert3_Normal.png]
+[2026.05.15-17.26.43:145][ 23]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.05.15-17.26.43:145][ 23]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2504926/One...ive Narratives/James/James_lambert3_OcclusionRoughnessMetallic.png]
+[2026.05.15-17.26.43:145][ 23]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.05.15-17.26.43:146][ 23]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2504926/One...ive Narratives/James/James_lambert3_BaseColor.png]
+[2026.05.15-17.26.43:146][ 23]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.05.15-17.26.43:154][ 24]LogStaticMesh: Reduce [0.22s]
+[2026.05.15-17.26.43:247][ 25]LogStaticMesh: Fallback [0.09s], num tris: 1609
+[2026.05.15-17.26.43:296][ 26]LogStaticMesh: Fallback [0.05s], num tris: 836
+[2026.05.15-17.26.43:298][ 26]LogStaticMesh: ConstrainClusters:
+[2026.05.15-17.26.43:298][ 26]LogStaticMesh:   Input: 59 Clusters, 7400 Triangles and 7054 Vertices
+[2026.05.15-17.26.43:298][ 26]LogStaticMesh:   Output without splits: 59 Clusters, 7400 Triangles and 7059 Vertices
+[2026.05.15-17.26.43:298][ 26]LogStaticMesh:   Output with splits: 59 Clusters, 7400 Triangles and 7059 Vertices
+[2026.05.15-17.26.43:298][ 26]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 59, Slow Path Clusters: 0, 1 Material: 59, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh: WritePages:
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh:   Root: GPU size: 31328 bytes. 1 Pages. 31328.000 bytes per page (95.605% utilization).
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh:   Streaming: GPU size: 58552 bytes. 1 Pages (1 with relative encoding). 58552.000 bytes per page (44.672% utilization).
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh:   Page data disk size: 77032 bytes. Fixup data size: 320 bytes.
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh:   Total GPU size: 89880 bytes, Total disk size: 77352 bytes.
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh: Encode [0.00s]
+[2026.05.15-17.26.43:300][ 26]LogStaticMesh: NaniteBuild [0.39s]
+[2026.05.15-17.26.43:363][ 27]LogStaticMesh: Built static mesh [0.47s] /Game/Characters/James/James.James
+[2026.05.15-17.26.43:444][ 28]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2504926/One...ive Narratives/James/James.fbx]
+[2026.05.15-17.26.43:444][ 28]Interchange: Warning: [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/James/James.fbx : 'James', StaticMesh] No smoothing group information was found for this mesh 'pPlane7' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.05.15-17.26.43:444][ 28]Interchange: Error: [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/James/James.fbx : '', Unknown] Invalid mesh data (NAN) was found and fix to zero. Mesh render can be bad.
+[2026.05.15-17.26.43:481][ 28]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.15-17.26.43:481][ 28]LogInterchangeEngine: [Success] Import Done
+[2026.05.15-17.26.43:908][ 33]LogMaterial: Display: Material /Game/Characters/James/lambert3.lambert3 needed to have new flag set bUsedWithNanite !
+[2026.05.15-17.26.46:494][246]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.15-17.26.46:572][246]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.15-17.26.46:586][247]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.15-17.26.50:062][635]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2026.05.15-17.26.50:062][635]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.15-17.27.00:651][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.27.00:651][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/Textures/James_lambert3_BaseColor] ([1] browsable assets)...
+[2026.05.15-17.27.00:654][575]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/James/Textures/James_lambert3_BaseColor.James_lambert3_BaseColor]
+[2026.05.15-17.27.00:654][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/James_lambert3_BaseColor]
+[2026.05.15-17.27.00:680][575]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/James_lambert3_BaseColor
+[2026.05.15-17.27.00:680][575]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/James_lambert3_BaseColor85484EE84EC55F107BC7B0A69C7E381B.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/James_lambert3_BaseColor.uasset'
+[2026.05.15-17.27.00:682][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/Textures/James_lambert3_Normal] ([1] browsable assets)...
+[2026.05.15-17.27.00:684][575]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/James/Textures/James_lambert3_Normal.James_lambert3_Normal]
+[2026.05.15-17.27.00:684][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/James_lambert3_Normal]
+[2026.05.15-17.27.00:727][575]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/James_lambert3_Normal
+[2026.05.15-17.27.00:727][575]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/James_lambert3_Normal79BA7A694A54BBD250E659AFA23C83E3.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/James_lambert3_Normal.uasset'
+[2026.05.15-17.27.00:729][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/Textures/James_lambert3_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.05.15-17.27.00:731][575]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/James/Textures/James_lambert3_OcclusionRoughnessMetallic.James_lambert3_OcclusionRoughnessMetallic]
+[2026.05.15-17.27.00:731][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/James_lambert3_OcclusionRoughnessMetallic]
+[2026.05.15-17.27.00:756][575]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/James_lambert3_OcclusionRoughnessMetallic
+[2026.05.15-17.27.00:756][575]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/James_lambert3_OcclusionRoughnes92F28B374C2947B79BC3B89901C333F4.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/James_lambert3_OcclusionRoughnessMetallic.uasset'
+[2026.05.15-17.27.00:758][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/Textures/lambert3] ([1] browsable assets)...
+[2026.05.15-17.27.00:826][575]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/James/Textures/lambert3.lambert3]
+[2026.05.15-17.27.00:826][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/lambert3]
+[2026.05.15-17.27.00:834][575]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/lambert3
+[2026.05.15-17.27.00:834][575]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/lambert343FCA4AE47F664DB90D0F98E67E88175.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/lambert3.uasset'
+[2026.05.15-17.27.00:835][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.872 ms (total: 3.13 sec)
+[2026.05.15-17.27.00:971][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.05.15-17.27.00:996][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.05.15-17.27.01:019][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.15-17.27.01:049][575]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.15-17.27.01:049][575]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.15-17.27.01:049][575]LogContentValidation: Enabled validators:
+[2026.05.15-17.27.01:049][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.27.01:050][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.27.01:050][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.27.01:050][575]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.27.01:050][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.27.01:050][575]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.27.01:050][575]AssetCheck: /Game/Characters/James/Textures/James_lambert3_BaseColor Validating asset
+[2026.05.15-17.27.01:050][575]AssetCheck: /Game/Characters/James/Textures/James_lambert3_Normal Validating asset
+[2026.05.15-17.27.01:050][575]AssetCheck: /Game/Characters/James/Textures/James_lambert3_OcclusionRoughnessMetallic Validating asset
+[2026.05.15-17.27.01:050][575]AssetCheck: /Game/Characters/James/Textures/lambert3 Validating asset
+[2026.05.15-17.27.01:096][575]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-17.27.07:374][101]LogContentBrowser: Attempting asset rename: lambert3 -> JamesMAT
+[2026.05.15-17.27.07:491][101]LogMaterial: Display: MaterialInterface lambert3 has a incorrectly name EditorOnlyData 'lambert3EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'JamesMATEditorOnlyData'.
+[2026.05.15-17.27.07:504][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.27.07:504][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/James/Textures/JamesMAT] ([1] browsable assets)...
+[2026.05.15-17.27.07:504][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/JamesMAT]
+[2026.05.15-17.27.07:513][101]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/JamesMAT
+[2026.05.15-17.27.07:513][101]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/JamesMAT4AC9BEDC4B99C1A4F7277EA266C87A64.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/JamesMAT.uasset'
+[2026.05.15-17.27.07:514][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.809 ms (total: 3.14 sec)
+[2026.05.15-17.27.07:584][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.15-17.27.07:617][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.15-17.27.07:650][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.15-17.27.07:733][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-17.27.07:733][101]LogContentValidation: Enabled validators:
+[2026.05.15-17.27.07:733][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.27.07:733][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.27.07:733][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.27.07:733][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.27.07:733][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.27.07:733][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.27.07:734][101]AssetCheck: /Game/Characters/James/Textures/JamesMAT Validating asset
+[2026.05.15-17.27.07:781][101]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-17.27.09:096][185]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/James/Textures/JamesMAT.JamesMAT
+[2026.05.15-17.27.09:100][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.05.15-17.27.09:783][185]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.09:783][185]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.15-17.27.09:783][185]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.09:783][185]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.09:841][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6604.956543
+[2026.05.15-17.27.09:890][187]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.15-17.27.09:890][187]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.09:890][187]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.15-17.27.09:890][187]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.15-17.27.09:890][187]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.09:890][187]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.10:009][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.27.10:009][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6605.112793, Update Interval: 338.149353
+[2026.05.15-17.27.12:001][318]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.12:001][318]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.15-17.27.12:001][318]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.12:001][318]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.12:111][320]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.15-17.27.12:111][320]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.12:111][320]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.15-17.27.12:111][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.15-17.27.12:111][320]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.12:111][320]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.13:437][416]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.13:437][416]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.15-17.27.13:437][416]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.13:437][416]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.13:519][418]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.15-17.27.13:519][418]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.13:519][418]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.15-17.27.13:519][418]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.15-17.27.13:519][418]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.13:519][418]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.14:983][536]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.14:983][536]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.15-17.27.14:983][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.14:983][536]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.14:983][536]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.15:086][538]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.15-17.27.15:087][538]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.15:087][538]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.15-17.27.15:087][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.15-17.27.15:087][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.15:087][538]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.15:087][538]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.17:281][670]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.17:281][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.15-17.27.17:281][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.17:281][670]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.17:281][670]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.17:420][672]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.18:984][798]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.18:984][798]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.27.18:984][798]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.18:984][798]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.18:984][798]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.19:079][801]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.21:775][981]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.21:775][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.27.21:775][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.21:776][981]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.21:776][981]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.21:917][983]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.24:283][164]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.24:283][164]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.24:283][164]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.24:283][164]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.24:283][164]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.24:389][166]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.28:095][456]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.28:095][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.28:095][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.28:095][456]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.28:095][456]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.28:216][458]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.27.28:216][458]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.28:217][458]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.15-17.27.28:217][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.28:217][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.28:217][458]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.28:217][458]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.29:766][579]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.27.29:766][579]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.29:766][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.29:766][579]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.27.29:766][579]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.27.29:861][582]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.30:783][650]LogMaterialEditor: Saving and Compiling material JamesMAT
+[2026.05.15-17.27.31:131][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.15-17.27.31:328][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.15-17.27.31:341][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.27.31:376][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/Textures/JamesMAT] ([1] browsable assets)...
+[2026.05.15-17.27.31:428][650]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/James/Textures/JamesMAT.JamesMAT]
+[2026.05.15-17.27.31:428][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/JamesMAT]
+[2026.05.15-17.27.31:435][650]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/JamesMAT
+[2026.05.15-17.27.31:436][650]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/JamesMAT8FC315754EA42389C8452589E44863D8.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/JamesMAT.uasset'
+[2026.05.15-17.27.31:445][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.380 ms (total: 3.25 sec)
+[2026.05.15-17.27.31:509][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-17.27.31:509][650]LogContentValidation: Enabled validators:
+[2026.05.15-17.27.31:509][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.27.31:509][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.27.31:509][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.27.31:509][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.27.31:509][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.27.31:509][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.27.31:509][650]AssetCheck: /Game/Characters/James/Textures/JamesMAT Validating asset
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Nanite Compute Shader: 849 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Shader Count: 19
+[2026.05.15-17.27.31:520][650]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.27.32:768][739]LogSlate: Window 'JamesMAT' being destroyed
+[2026.05.15-17.27.32:773][739]LogSlate: Window 'JamesMAT' being destroyed
+[2026.05.15-17.27.32:823][739]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-17.27.32:823][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-17.27.32:869][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.15-17.27.37:667][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/James/James.James
+[2026.05.15-17.27.37:667][175]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/James/James.James
+[2026.05.15-17.27.37:668][175]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/James/James.James as actor: StaticMeshActor /Game/TextureTesting.TextureTesting:PersistentLevel.StaticMeshActor_14
+[2026.05.15-17.27.38:429][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.05.15-17.27.38:431][255]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.05.15-17.27.38:445][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/James/James.James
+[2026.05.15-17.27.38:445][255]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/James/James.James
+[2026.05.15-17.27.38:447][255]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/James/James.James as actor: StaticMeshActor /Game/TextureTesting.TextureTesting:PersistentLevel.StaticMeshActor_15
+[2026.05.15-17.28.03:373][749]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/James/Textures/JamesMAT.JamesMAT
+[2026.05.15-17.28.03:377][749]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.15-17.28.04:054][749]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.28.04:054][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.28.04:054][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.04:054][749]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.28.04:054][749]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.28.04:166][751]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.28.06:834][886]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.28.06:834][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.28.06:834][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.06:834][886]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.28.06:834][886]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.28.06:910][888]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.28.08:451][  8]LogMaterialEditor: Saving and Compiling material JamesMAT
+[2026.05.15-17.28.08:773][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.05.15-17.28.11:408][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.15-17.28.11:423][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.28.11:479][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/Textures/JamesMAT] ([1] browsable assets)...
+[2026.05.15-17.28.11:546][  8]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/James/Textures/JamesMAT.JamesMAT]
+[2026.05.15-17.28.11:546][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/Textures/JamesMAT]
+[2026.05.15-17.28.11:553][  8]LogSavePackage: Moving output files for package: /Game/Characters/James/Textures/JamesMAT
+[2026.05.15-17.28.11:553][  8]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/JamesMAT9A031B4A46DF4A06E2FA96B87D3E8A47.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/James/Textures/JamesMAT.uasset'
+[2026.05.15-17.28.11:564][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.180 ms (total: 3.39 sec)
+[2026.05.15-17.28.11:628][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-17.28.11:628][  8]LogContentValidation: Enabled validators:
+[2026.05.15-17.28.11:628][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.28.11:628][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.28.11:628][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.28.11:628][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.28.11:628][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.28.11:628][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.28.11:628][  8]AssetCheck: /Game/Characters/James/Textures/JamesMAT Validating asset
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Nanite Compute Shader: 844 instructions
+Stats: Resources Used: 11
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Shader Count: 19
+[2026.05.15-17.28.11:641][  8]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: ================================================
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Total job queries 2,411, among them cache hits 1,156 (47.95%), DDC hits 808 (33.51%), Duplicates 270 (11.20%)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Tracking 985 distinct input hashes that result in 672 distinct outputs (68.22%)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: RAM used: 7.46 MiB of 1.60 GiB budget. Usage: 0.46%
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Shaders Compiled: 177
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Jobs assigned 177, completed 177 (100%)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Average time worker was idle: 396.35 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 3.34 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 4.40 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 6.40
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Shader code size: total 2.021 MiB, numShaders 179, average 11.56 KiB, min 2.695 KiB, max 30.035 KiB
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.57 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.24%
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Jobs were issued in 177 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Average processing rate: 2.70 jobs/sec
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Total thread time: 233.381 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Total thread preprocess time: 42.136 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Percentage time preprocessing: 18.05%
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Effective parallelization: 3.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.355909
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   12 times, average 2.99 sec, max 3.80 sec, min 2.11 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   12 times, average 2.75 sec, max 3.18 sec, min 2.05 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   12 times, average 2.38 sec, max 3.06 sec, min 1.64 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.78 sec, max 1.78 sec, min 1.78 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   16 times, average 1.52 sec, max 2.24 sec, min 0.87 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.44% of total time (compiled   30 times, average 1.43 sec, max 2.29 sec, min 1.04 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 15.39% of total time (compiled   12 times, average 2.99 sec, max 3.80 sec, min 2.11 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 14.12% of total time (compiled   12 times, average 2.75 sec, max 3.18 sec, min 2.05 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                                 FLumenCardCS - 12.21% of total time (compiled   12 times, average 2.38 sec, max 3.06 sec, min 1.64 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.40% of total time (compiled   16 times, average 1.52 sec, max 2.24 sec, min 0.87 sec)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: === Material stats ===
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Materials Translated:    398
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Material Translation Only: 0.13 s (49%)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: Material Cache Hits: 37 (9%)
+[2026.05.15-17.28.12:263][ 28]LogShaderCompilers: Display: ================================================
+[2026.05.15-17.28.13:584][130]LogSlate: Window 'JamesMAT' being destroyed
+[2026.05.15-17.28.13:590][130]LogSlate: Window 'JamesMAT' being destroyed
+[2026.05.15-17.28.13:641][130]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-17.28.13:641][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-17.28.13:686][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.15-17.28.30:298][734]Cmd: DELETE
+[2026.05.15-17.28.30:298][734]Cmd: ACTOR DELETE
+[2026.05.15-17.28.30:307][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.15-17.28.30:331][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.05.15-17.28.30:333][734]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.05.15-17.28.36:499][352]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.15-17.28.36:508][352]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.15-17.28.36:520][353]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.15-17.28.38:248][551]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2026.05.15-17.28.38:249][551]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.15-17.28.42:598][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.28.42:598][914]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Father/Textures/FatherEXP_lambert4_BaseColor] ([1] browsable assets)...
+[2026.05.15-17.28.42:598][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Father/Textures/FatherEXP_lambert4_BaseColor]
+[2026.05.15-17.28.42:620][914]LogSavePackage: Moving output files for package: /Game/Characters/Father/Textures/FatherEXP_lambert4_BaseColor
+[2026.05.15-17.28.42:620][914]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/FatherEXP_lambert4_BaseColorD867C9594FE8F5B7D2AB149A08D63FB3.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/Father/Textures/FatherEXP_lambert4_BaseColor.uasset'
+[2026.05.15-17.28.42:621][914]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Father/Textures/FatherEXP_lambert4_Normal] ([1] browsable assets)...
+[2026.05.15-17.28.42:621][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Father/Textures/FatherEXP_lambert4_Normal]
+[2026.05.15-17.28.42:666][914]LogSavePackage: Moving output files for package: /Game/Characters/Father/Textures/FatherEXP_lambert4_Normal
+[2026.05.15-17.28.42:666][914]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/FatherEXP_lambert4_Normal4ADD92624050086B3E34FAAC646FAA7B.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/Father/Textures/FatherEXP_lambert4_Normal.uasset'
+[2026.05.15-17.28.42:668][914]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Father/Textures/FatherEXP_lambert4_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.05.15-17.28.42:668][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Father/Textures/FatherEXP_lambert4_OcclusionRoughnessMetallic]
+[2026.05.15-17.28.42:689][914]LogSavePackage: Moving output files for package: /Game/Characters/Father/Textures/FatherEXP_lambert4_OcclusionRoughnessMetallic
+[2026.05.15-17.28.42:689][914]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/FatherEXP_lambert4_OcclusionRougAE84339440DB1AD0616CB298420B06AE.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/Father/Textures/FatherEXP_lambert4_OcclusionRoughnessMetallic.uasset'
+[2026.05.15-17.28.42:690][914]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Father/Textures/FatherMAT] ([1] browsable assets)...
+[2026.05.15-17.28.42:690][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Father/Textures/FatherMAT]
+[2026.05.15-17.28.42:696][914]LogSavePackage: Moving output files for package: /Game/Characters/Father/Textures/FatherMAT
+[2026.05.15-17.28.42:696][914]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/FatherMATCD75DDFC450A416258A5E89F4AFEDEE8.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/Father/Textures/FatherMAT.uasset'
+[2026.05.15-17.28.42:698][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.278 ms (total: 3.49 sec)
+[2026.05.15-17.28.42:832][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.15-17.28.42:860][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.05.15-17.28.42:884][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.15-17.28.42:914][914]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.15-17.28.42:914][914]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.15-17.28.42:914][914]LogContentValidation: Enabled validators:
+[2026.05.15-17.28.42:914][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.28.42:914][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.28.42:914][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.28.42:914][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.28.42:914][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.28.42:914][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.28.42:914][914]AssetCheck: /Game/Characters/Father/Textures/FatherEXP_lambert4_BaseColor Validating asset
+[2026.05.15-17.28.42:914][914]AssetCheck: /Game/Characters/Father/Textures/FatherEXP_lambert4_Normal Validating asset
+[2026.05.15-17.28.42:914][914]AssetCheck: /Game/Characters/Father/Textures/FatherEXP_lambert4_OcclusionRoughnessMetallic Validating asset
+[2026.05.15-17.28.42:914][914]AssetCheck: /Game/Characters/Father/Textures/FatherMAT Validating asset
+[2026.05.15-17.28.42:929][914]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-17.28.53:889][ 50]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.15-17.28.53:961][ 50]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.15-17.28.53:978][ 51]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.15-17.28.55:984][282]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2026.05.15-17.28.55:985][282]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.15-17.28.58:381][468]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Characters/OldMan/OldManTexture.OldManTexture
+[2026.05.15-17.28.58:385][468]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.05.15-17.28.59:047][468]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.15-17.28.59:047][468]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.28.59:047][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.59:047][468]MaterialEditorStats: Shader Count: 0
+[2026.05.15-17.28.59:047][468]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: Shader Count: 5
+[2026.05.15-17.28.59:173][470]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.15-17.29.00:744][578]LogSlate: Window 'OldManTexture' being destroyed
+[2026.05.15-17.29.00:750][578]LogSlate: Window 'OldManTexture' being destroyed
+[2026.05.15-17.29.00:799][578]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-17.29.00:799][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-17.29.00:872][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.05.15-17.29.04:521][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.29.04:521][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_BaseColor] ([1] browsable assets)...
+[2026.05.15-17.29.04:522][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_BaseColor]
+[2026.05.15-17.29.04:559][881]LogSavePackage: Moving output files for package: /Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_BaseColor
+[2026.05.15-17.29.04:559][881]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/OldManEXP_OldManTexture_BaseColoC2CE339548DC22E1654E86BC1DC9EB67.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/OldMan/Textures/OldManEXP_OldManTexture_BaseColor.uasset'
+[2026.05.15-17.29.04:561][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_Normal] ([1] browsable assets)...
+[2026.05.15-17.29.04:561][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_Normal]
+[2026.05.15-17.29.04:605][881]LogSavePackage: Moving output files for package: /Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_Normal
+[2026.05.15-17.29.04:605][881]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/OldManEXP_OldManTexture_NormalE5250DB24E523BBB46B7438888635D77.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/OldMan/Textures/OldManEXP_OldManTexture_Normal.uasset'
+[2026.05.15-17.29.04:607][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.05.15-17.29.04:607][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_OcclusionRoughnessMetallic]
+[2026.05.15-17.29.04:646][881]LogSavePackage: Moving output files for package: /Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_OcclusionRoughnessMetallic
+[2026.05.15-17.29.04:646][881]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/OldManEXP_OldManTexture_Occlusio78CB1A5B47FFC8E5CD1D438BC41951F2.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/OldMan/Textures/OldManEXP_OldManTexture_OcclusionRoughnessMetallic.uasset'
+[2026.05.15-17.29.04:647][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OldMan/Textures/OldManTexture] ([1] browsable assets)...
+[2026.05.15-17.29.04:647][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OldMan/Textures/OldManTexture]
+[2026.05.15-17.29.04:654][881]LogSavePackage: Moving output files for package: /Game/Characters/OldMan/Textures/OldManTexture
+[2026.05.15-17.29.04:654][881]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/OldManTextureF98BA61947CB162DC6BB76A95C01E36E.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Characters/OldMan/Textures/OldManTexture.uasset'
+[2026.05.15-17.29.04:655][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.309 ms (total: 3.62 sec)
+[2026.05.15-17.29.04:785][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.15-17.29.04:811][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.05.15-17.29.04:835][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.15-17.29.04:865][881]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.15-17.29.04:865][881]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.15-17.29.04:865][881]LogContentValidation: Enabled validators:
+[2026.05.15-17.29.04:865][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.29.04:865][881]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.29.04:865][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.29.04:865][881]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.29.04:865][881]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.29.04:865][881]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.29.04:866][881]AssetCheck: /Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_BaseColor Validating asset
+[2026.05.15-17.29.04:866][881]AssetCheck: /Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_Normal Validating asset
+[2026.05.15-17.29.04:866][881]AssetCheck: /Game/Characters/OldMan/Textures/OldManEXP_OldManTexture_OcclusionRoughnessMetallic Validating asset
+[2026.05.15-17.29.04:866][881]AssetCheck: /Game/Characters/OldMan/Textures/OldManTexture Validating asset
+[2026.05.15-17.29.04:878][881]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-17.29.08:165][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-17.29.08:271][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.05.15-17.29.08:283][237]LogSavePackage: Moving output files for package: /Game/TextureTesting
+[2026.05.15-17.29.08:284][237]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/TextureTesting10963F2143F3C342DDFF1A92F06B83A7.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/TextureTesting.umap'
+[2026.05.15-17.29.08:305][237]LogFileHelpers: Saving map 'TextureTesting' took 0.099
+[2026.05.15-17.29.08:316][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.077 ms (total: 3.77 sec)
+[2026.05.15-17.29.08:373][237]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-17.29.08:373][237]LogContentValidation: Enabled validators:
+[2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-17.29.08:373][237]AssetCheck: /Game/TextureTesting Validating asset
