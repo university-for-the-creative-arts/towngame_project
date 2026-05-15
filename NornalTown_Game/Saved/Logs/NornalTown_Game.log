@@ -5493,3 +5493,82 @@ Sampler Limit: 32
 [2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.15-17.29.08:373][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.15-17.29.08:373][237]AssetCheck: /Game/TextureTesting Validating asset
+[2026.05.15-17.29.46:089][499]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414374086312930277
+[2026.05.15-17.29.46:089][499]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.05.15-17.29.46:090][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-17.29.47:211][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.05.15-17.29.47:351][592]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.05.15-17.30.19:290][885]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.15-17.30.19:374][885]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.15-17.30.19:389][886]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.15-17.30.23:211][329]LogContentBrowser: Attempting asset rename: NewFolder -> BackgroundsForTown
+[2026.05.15-17.30.23:212][329]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.15-17.30.32:769][834]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.30.32:788][834]LogInterchangeEngine: [Pending] Importing
+[2026.05.15-17.30.32:788][834]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/BackgroundsForTown/Bank.png]
+[2026.05.15-17.30.33:480][836]LogStreaming: Display: FlushAsyncLoading(479): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.30.33:785][838]LogTexture: Display: Building textures: /Game/BackgroundsForTown/Bank.Bank (BGRA8, 2223x1213 x1x1x1) (Required Memory Estimate: 93.576946 MB), EncodeSpeed: Fast
+[2026.05.15-17.30.34:135][838]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2504926/One...s/BackgroundsForTown/Bank.png]
+[2026.05.15-17.30.34:222][838]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.15-17.30.34:222][838]LogInterchangeEngine: [Success] Import Done
+[2026.05.15-17.30.37:512][903]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.15-17.30.37:520][903]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.15-17.30.42:709][197]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.30.42:721][197]LogInterchangeEngine: [Pending] Importing
+[2026.05.15-17.30.42:721][197]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/2504926/OneDrive - University for the Creative Arts/Year 1/Interactive Narratives/BackgroundsForTown/GeneralStore.png]
+[2026.05.15-17.30.43:431][199]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-17.30.43:723][201]LogTexture: Display: Building textures: /Game/BackgroundsForTown/GeneralStore.GeneralStore (BGRA8, 2223x1213 x1x1x1) (Required Memory Estimate: 93.576946 MB), EncodeSpeed: Fast
+[2026.05.15-17.30.44:073][201]LogInterchangeEngine: Display: Interchange import completed [C:/Users/2504926/One...s/BackgroundsForTown/GeneralStore.png]
+[2026.05.15-17.30.44:136][201]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.15-17.30.44:136][201]LogInterchangeEngine: [Success] Import Done
+[2026.05.15-17.30.51:146][277]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.15-17.30.51:152][277]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.15-17.33.44:316][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6999.445312
+[2026.05.15-17.33.45:316][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.33.45:316][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7000.111816, Update Interval: 324.740143
+[2026.05.15-17.38.52:773][680]LogDerivedDataCache: C:/Users/2504926/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.15-17.39.08:838][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.05.15-17.39.08:841][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TextureTesting' took 0.094
+[2026.05.15-17.39.08:841][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/James/James] ([1] browsable assets)...
+[2026.05.15-17.39.08:965][727]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/James/James.James]
+[2026.05.15-17.39.08:965][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/James/James]
+[2026.05.15-17.39.08:978][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/James/James_Auto4
+[2026.05.15-17.39.08:978][727]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/James_Auto454FFB4DD443978D5E664F2A6BAC9A1AD.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Characters/James/James_Auto4.uasset'
+[2026.05.15-17.39.08:979][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BackgroundsForTown/Bank] ([1] browsable assets)...
+[2026.05.15-17.39.08:981][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/BackgroundsForTown/Bank.Bank]
+[2026.05.15-17.39.08:981][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/BackgroundsForTown/Bank]
+[2026.05.15-17.39.08:994][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackgroundsForTown/Bank_Auto4
+[2026.05.15-17.39.08:994][727]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Bank_Auto4D34F507D4481E0C05A6B16AA0F3FC5FB.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/BackgroundsForTown/Bank_Auto4.uasset'
+[2026.05.15-17.39.08:994][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BackgroundsForTown/GeneralStore] ([1] browsable assets)...
+[2026.05.15-17.39.08:996][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/BackgroundsForTown/GeneralStore.GeneralStore]
+[2026.05.15-17.39.08:996][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/BackgroundsForTown/GeneralStore]
+[2026.05.15-17.39.09:009][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BackgroundsForTown/GeneralStore_Auto4
+[2026.05.15-17.39.09:009][727]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/GeneralStore_Auto46136958F4978784F324AF39CF9E0928C.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/BackgroundsForTown/GeneralStore_Auto4.uasset'
+[2026.05.15-17.39.09:010][727]LogFileHelpers: Auto-saving content packages took 0.170
+[2026.05.15-17.40.00:380][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7375.513184
+[2026.05.15-17.40.01:380][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.40.01:380][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7376.179688, Update Interval: 356.645416
+[2026.05.15-17.46.32:767][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7767.895508
+[2026.05.15-17.46.33:767][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.46.33:767][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7768.563477, Update Interval: 324.143188
+[2026.05.15-17.52.36:491][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8131.611816
+[2026.05.15-17.52.37:491][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.52.37:491][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8132.278809, Update Interval: 338.839691
+[2026.05.15-17.59.05:543][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8520.644531
+[2026.05.15-17.59.06:543][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-17.59.06:543][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8521.310547, Update Interval: 331.894287
+[2026.05.15-18.05.20:255][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8895.324219
+[2026.05.15-18.05.21:254][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.05.21:254][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8895.988281, Update Interval: 359.185150
+[2026.05.15-18.11.59:636][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9294.656250
+[2026.05.15-18.12.00:635][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.12.00:635][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9295.322266, Update Interval: 357.647034
+[2026.05.15-18.18.55:029][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9710.019531
+[2026.05.15-18.18.56:029][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.18.56:029][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9710.687500, Update Interval: 320.869171
+[2026.05.15-18.25.15:080][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10090.040039
+[2026.05.15-18.25.16:080][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.25.16:081][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10090.707031, Update Interval: 336.885895
+[2026.05.15-18.31.51:453][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10486.396484
+[2026.05.15-18.31.52:454][217]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.15-18.31.52:454][217]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10487.065430, Update Interval: 304.257324
