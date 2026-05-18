@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2406616\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\unrealgame\\development\\nornaltown_game\\module.nornaltown_game.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2406616\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\nornaltown_game\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2406616\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\unrealgame\\development\\nornaltown_game\\definitions.nornaltown_game.h",
+            "c:\\users\\2406616\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\source\\nornaltown_game.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
