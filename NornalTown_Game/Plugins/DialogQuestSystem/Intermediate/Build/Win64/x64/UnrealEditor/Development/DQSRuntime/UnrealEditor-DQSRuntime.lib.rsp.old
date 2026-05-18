@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DQSRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/Module.DQSRuntime.cpp.obj"
+"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/Default.rc2.res"
+/OUT:"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/UnrealEditor-DQSRuntime.lib"
