@@ -18,7 +18,7 @@
 
 >Summarise your task, goals, approach, and final outcome. What was the intent of your work? What is the most important thing to know before reading on?
 
-the task
+The name of this Project is called "interactive narrative".The task for the project is to make an interactive narrative game in 4 weeks. In this project, we are given a template GitHub page, an old but slightly broken dialogue plugin and an asset pack that is appropriately named "Assetville". In addition, once the game is completed, we are to make a video of gameplay of the said game and make a link to the readme on the website GitHub, and to post it on the website "itch.io" with a description.
 
 ---
 
