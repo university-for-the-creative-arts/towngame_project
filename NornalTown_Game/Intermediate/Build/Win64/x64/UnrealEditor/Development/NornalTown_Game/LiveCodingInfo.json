@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NornalTown_Game.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"NornalTown_Game.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\student\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nornaltown_game\\module.nornaltown_game.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\student\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\nornaltown_gameeditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\student\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nornaltown_game\\definitions.nornaltown_game.h",
+            "c:\\users\\student\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nornaltown_game\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\student\\documents\\github\\towngame_project\\nornaltown_game\\intermediate\\source\\nornaltown_game.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
