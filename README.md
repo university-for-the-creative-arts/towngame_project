@@ -26,11 +26,11 @@ the task
 
 ### What sources or references have you identified as relevant to this task?
 
-Reflect on the **type** and **relevance** of sources explored. Justify your research direction in relation to the task brief and target outcomes.
+>Reflect on the **type** and **relevance** of sources explored. Justify your research direction in relation to the task brief and target outcomes.
 
-* What types of sources did you explore and why?
-* Which types of sources did you avoid and why?
-* How does the research relate to the user experience, technical approach, or creative aim?
+>* What types of sources did you explore and why?
+>* Which types of sources did you avoid and why?
+>* How does the research relate to the user experience, technical approach, or creative aim?
 
 #### Sources
 
