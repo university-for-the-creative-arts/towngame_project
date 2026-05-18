@@ -27,7 +27,7 @@ void EmptyLinkFunctionForGeneratedCodeDQSRuntime_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x9D5D87C3,
+				0xA1300A2F,
 				0x1033E46F,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -35,5 +35,5 @@ void EmptyLinkFunctionForGeneratedCodeDQSRuntime_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_DQSRuntime.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DQSRuntime(Z_Construct_UPackage__Script_DQSRuntime, TEXT("/Script/DQSRuntime"), Z_Registration_Info_UPackage__Script_DQSRuntime, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9D5D87C3, 0x1033E46F));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DQSRuntime(Z_Construct_UPackage__Script_DQSRuntime, TEXT("/Script/DQSRuntime"), Z_Registration_Info_UPackage__Script_DQSRuntime, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xA1300A2F, 0x1033E46F));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

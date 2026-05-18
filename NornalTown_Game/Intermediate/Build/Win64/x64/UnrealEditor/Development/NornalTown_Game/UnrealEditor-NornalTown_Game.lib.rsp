@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-NornalTown_Game.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Module.NornalTown_Game.cpp.obj"
-"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Default.rc2.res"
-/OUT:"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/UnrealEditor-NornalTown_Game.lib"
+"C:/Users/Student/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Student/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Module.NornalTown_Game.cpp.obj"
+"C:/Users/Student/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Default.rc2.res"
+/OUT:"C:/Users/Student/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/UnrealEditor-NornalTown_Game.lib"
