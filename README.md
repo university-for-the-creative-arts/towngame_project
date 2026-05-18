@@ -16,7 +16,7 @@
 
 ## Abstract *(Approx. 5–10% of word count)*
 
---Summarise your task, goals, approach, and final outcome. What was the intent of your work? What is the most important thing to know before reading on?
+>Summarise your task, goals, approach, and final outcome. What was the intent of your work? What is the most important thing to know before reading on?
 
 the task
 
