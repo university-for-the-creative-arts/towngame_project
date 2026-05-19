@@ -4972,3 +4972,22 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.19-15.27.10:142][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3605.242188, Update Interval: 304.949493
 [2026.05.19-15.27.12:802][191]Cmd: SELECT NONE
 [2026.05.19-15.28.54:545][252]LogDerivedDataCache: C:/Users/2511279/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.19-15.33.02:475][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3957.591553
+[2026.05.19-15.33.03:475][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.33.03:475][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3958.258057, Update Interval: 321.746277
+[2026.05.19-15.33.34:227][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.33.34:381][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.05.19-15.33.35:069][737]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-15.33.35:070][737]LogSavePackage: Moving '../../../../../../Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_MapBC767EDA4B2F0E17470C4D97E76A9ECF.tmp' to '../../../../../../Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-15.33.35:102][737]LogFileHelpers: Saving map 'Town_Map' took 0.810
+[2026.05.19-15.33.35:111][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 884.310 ms (total: 3.11 sec)
+[2026.05.19-15.33.35:160][737]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-15.33.35:160][737]LogContentValidation: Enabled validators:
+[2026.05.19-15.33.35:160][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.33.35:160][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.33.35:160][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.33.35:160][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.33.35:160][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.33.35:160][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.33.35:161][737]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-15.33.37:647][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
