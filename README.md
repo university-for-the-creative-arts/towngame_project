@@ -1,4 +1,4 @@
-# \ Autotheist
+# Autotheist
 
 **Interactive Narrative** \[Insert Unit Name]
 
