@@ -1,16 +1,16 @@
-# Autotheist
+# Autotheist (ReadMe)
 
-**Interactive Narrative** \[Insert Unit Name]
+**Interactive Narrative**
 
-**Game Development Student Name:** \[Your Full Name]
+**Game Development Student Name:** Kikachukwu Kifordu
 
-**Game Development Student ID:** \[UCA ID]
+**Game Development Student ID:** 2406616
 
-**Total Word Count:** \[XXXX]
+**Total Word Count:** 0000
 
-**Build Link:** \[URL or Embed]
+**Build Link:** https://github.com/University-for-the-Creative-Arts/TownGame_Project or Itch-io link
 
-**Video Demonstration Link:** \[URL or Embed]
+**Video Demonstration Link:** video link
 
 ---
 
