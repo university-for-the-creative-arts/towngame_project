@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Plugins\\DialogQuestSystem\\Source\\DQSEditor\\DQSEditor.Build.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Plugins\\DialogQuestSystem\\Source\\DQSRuntime\\DQSRuntime.Build.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Plugins\\DialogQuestSystem\\Source\\DQSUI\\DQSUI.Build.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Intermediate\\Source\\NornalTown_Game.Build.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Intermediate\\Source\\NornalTown_Game.Target.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Intermediate\\Source\\NornalTown_GameClient.Target.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Intermediate\\Source\\NornalTown_GameEditor.Target.cs",
+		"C:\\Users\\2504926\\Documents\\GitHub\\TownGame_Project\\NornalTown_Game\\Intermediate\\Source\\NornalTown_GameServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
