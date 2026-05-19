@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UDQSDialogueEdGraph ******************************************************
 DQSEDITOR_API UClass* Z_Construct_UClass_UDQSDialogueEdGraph_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSDialogueEdGraph(); \
 	friend struct Z_Construct_UClass_UDQSDialogueEdGraph_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSDialogueEdGraph)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSDialogueEdGraph(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UDQSDialogueEdGraph();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_11_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_GENERATED_BODY \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_11_PROLOG
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -59,7 +59,7 @@ class UDQSDialogueEdGraph;
 // ********** Begin Class UDQSQuestEdGraph *********************************************************
 DQSEDITOR_API UClass* Z_Construct_UClass_UDQSQuestEdGraph_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSQuestEdGraph(); \
 	friend struct Z_Construct_UClass_UDQSQuestEdGraph_Statics; \
@@ -70,7 +70,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSQuestEdGraph)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSQuestEdGraph(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -82,12 +82,12 @@ public: \
 	NO_API virtual ~UDQSQuestEdGraph();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_17_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_GENERATED_BODY \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_17_PROLOG
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_ENHANCED_CONSTRUCTORS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_INCLASS_NO_PURE_DECLS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_20_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -99,7 +99,7 @@ class UDQSQuestEdGraph;
 // ********** Begin Class UDQSDialogueEdGraphNode **************************************************
 DQSEDITOR_API UClass* Z_Construct_UClass_UDQSDialogueEdGraphNode_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSDialogueEdGraphNode(); \
 	friend struct Z_Construct_UClass_UDQSDialogueEdGraphNode_Statics; \
@@ -110,7 +110,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSDialogueEdGraphNode)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSDialogueEdGraphNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -122,12 +122,12 @@ public: \
 	NO_API virtual ~UDQSDialogueEdGraphNode();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_23_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_GENERATED_BODY \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_23_PROLOG
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_ENHANCED_CONSTRUCTORS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_INCLASS_NO_PURE_DECLS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -139,7 +139,7 @@ class UDQSDialogueEdGraphNode;
 // ********** Begin Class UDQSQuestEdGraphNode *****************************************************
 DQSEDITOR_API UClass* Z_Construct_UClass_UDQSQuestEdGraphNode_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSQuestEdGraphNode(); \
 	friend struct Z_Construct_UClass_UDQSQuestEdGraphNode_Statics; \
@@ -150,7 +150,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSQuestEdGraphNode)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSQuestEdGraphNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -162,12 +162,12 @@ public: \
 	NO_API virtual ~UDQSQuestEdGraphNode();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_49_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_GENERATED_BODY \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_49_PROLOG
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_ENHANCED_CONSTRUCTORS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_INCLASS_NO_PURE_DECLS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_52_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -179,7 +179,7 @@ class UDQSQuestEdGraphNode;
 // ********** Begin Class UDQSDialogueGraphSchema **************************************************
 DQSEDITOR_API UClass* Z_Construct_UClass_UDQSDialogueGraphSchema_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSDialogueGraphSchema(); \
 	friend struct Z_Construct_UClass_UDQSDialogueGraphSchema_Statics; \
@@ -190,7 +190,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSDialogueGraphSchema)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSDialogueGraphSchema(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -202,12 +202,12 @@ public: \
 	NO_API virtual ~UDQSDialogueGraphSchema();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_69_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_GENERATED_BODY \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_69_PROLOG
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_ENHANCED_CONSTRUCTORS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_INCLASS_NO_PURE_DECLS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_72_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -219,7 +219,7 @@ class UDQSDialogueGraphSchema;
 // ********** Begin Class UDQSQuestGraphSchema *****************************************************
 DQSEDITOR_API UClass* Z_Construct_UClass_UDQSQuestGraphSchema_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSQuestGraphSchema(); \
 	friend struct Z_Construct_UClass_UDQSQuestGraphSchema_Statics; \
@@ -230,7 +230,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSQuestGraphSchema)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSQuestGraphSchema(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -242,12 +242,12 @@ public: \
 	NO_API virtual ~UDQSQuestGraphSchema();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_81_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_GENERATED_BODY \
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_81_PROLOG
+#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_ENHANCED_CONSTRUCTORS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_INCLASS_NO_PURE_DECLS \
+	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h_84_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -257,6 +257,6 @@ class UDQSQuestGraphSchema;
 // ********** End Class UDQSQuestGraphSchema *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h
+#define CURRENT_FILE_ID FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
