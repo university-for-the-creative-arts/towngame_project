@@ -2,6 +2,9 @@
 	"RemapUnityFiles": 
 	{
 		"Module.DQSEditor.cpp.obj": [
+			"DQSAssetFactories.gen.cpp.obj",
+			"DQSEdGraphNodes.gen.cpp.obj",
+			"DQSEditor.init.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"DQSAssetEditorPanelUtils.cpp.obj",
 			"DQSAssetEditorToolkit.cpp.obj",
@@ -13,10 +16,7 @@
 			"DQSGraphCompiler.cpp.obj",
 			"DQSGraphEditorUtils.cpp.obj",
 			"DQSNodeStructDetails.cpp.obj",
-			"DQSUIAssetSeeder.cpp.obj",
-			"DQSAssetFactories.gen.cpp.obj",
-			"DQSEdGraphNodes.gen.cpp.obj",
-			"DQSEditor.init.gen.cpp.obj"
+			"DQSUIAssetSeeder.cpp.obj"
 		]
 	}
 }

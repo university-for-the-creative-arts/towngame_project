@@ -2,16 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.DQSRuntime.cpp.obj": [
-			"PerModuleInline.gen.cpp.obj",
-			"DialogQuestSubsystem.cpp.obj",
-			"DQSAction.cpp.obj",
-			"DQSBlueprintLibrary.cpp.obj",
-			"DQSCondition.cpp.obj",
-			"DQSDialogueGraphAsset.cpp.obj",
-			"DQSDialogueParticipantComponent.cpp.obj",
-			"DQSQuestGraphAsset.cpp.obj",
-			"DQSRuntimeModule.cpp.obj",
-			"DQSTypes.cpp.obj",
 			"DialogQuestSubsystem.gen.cpp.obj",
 			"DQSAction.gen.cpp.obj",
 			"DQSBlueprintLibrary.gen.cpp.obj",
@@ -24,7 +14,17 @@
 			"DQSSaveGame.gen.cpp.obj",
 			"DQSSpeakerStyleAsset.gen.cpp.obj",
 			"DQSTypes.gen.cpp.obj",
-			"DQSUIThemeAsset.gen.cpp.obj"
+			"DQSUIThemeAsset.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"DialogQuestSubsystem.cpp.obj",
+			"DQSAction.cpp.obj",
+			"DQSBlueprintLibrary.cpp.obj",
+			"DQSCondition.cpp.obj",
+			"DQSDialogueGraphAsset.cpp.obj",
+			"DQSDialogueParticipantComponent.cpp.obj",
+			"DQSQuestGraphAsset.cpp.obj",
+			"DQSRuntimeModule.cpp.obj",
+			"DQSTypes.cpp.obj"
 		]
 	}
 }

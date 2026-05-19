@@ -17,13 +17,13 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class UDQSDefaultQuestTrackerWidget ********************************************
-#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execHandleQuestStateChanged);
 
 
 DQSUI_API UClass* Z_Construct_UClass_UDQSDefaultQuestTrackerWidget_NoRegister();
 
-#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSDefaultQuestTrackerWidget(); \
 	friend struct Z_Construct_UClass_UDQSDefaultQuestTrackerWidget_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSDefaultQuestTrackerWidget)
 
 
-#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSDefaultQuestTrackerWidget(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -46,13 +46,13 @@ public: \
 	NO_API virtual ~UDQSDefaultQuestTrackerWidget();
 
 
-#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_11_PROLOG
-#define FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_GENERATED_BODY \
+#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_11_PROLOG
+#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -62,6 +62,6 @@ class UDQSDefaultQuestTrackerWidget;
 // ********** End Class UDQSDefaultQuestTrackerWidget **********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h
+#define CURRENT_FILE_ID FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

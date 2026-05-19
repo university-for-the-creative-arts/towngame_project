@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeDQSEditor_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000040,
-				0x069E0A78,
+				0x537EBE45,
 				0x4E9BA094,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeDQSEditor_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_DQSEditor.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DQSEditor(Z_Construct_UPackage__Script_DQSEditor, TEXT("/Script/DQSEditor"), Z_Registration_Info_UPackage__Script_DQSEditor, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x069E0A78, 0x4E9BA094));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_DQSEditor(Z_Construct_UPackage__Script_DQSEditor, TEXT("/Script/DQSEditor"), Z_Registration_Info_UPackage__Script_DQSEditor, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x537EBE45, 0x4E9BA094));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

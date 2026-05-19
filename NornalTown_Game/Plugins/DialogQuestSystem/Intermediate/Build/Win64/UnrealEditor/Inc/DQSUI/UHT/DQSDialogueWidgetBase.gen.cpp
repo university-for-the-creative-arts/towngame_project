@@ -1310,14 +1310,14 @@ UDQSDialogueWidgetBase::~UDQSDialogueWidgetBase() {}
 // ********** End Class UDQSDialogueWidgetBase *****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_Statics
+struct Z_CompiledInDeferFile_FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UDQSDialogueWidgetBase, UDQSDialogueWidgetBase::StaticClass, TEXT("UDQSDialogueWidgetBase"), &Z_Registration_Info_UClass_UDQSDialogueWidgetBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDQSDialogueWidgetBase), 2429701071U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_3088256519(TEXT("/Script/DQSUI"),
-	Z_CompiledInDeferFile_FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2504926_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_3088256519(TEXT("/Script/DQSUI"),
+	Z_CompiledInDeferFile_FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueWidgetBase_h__Script_DQSUI_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
