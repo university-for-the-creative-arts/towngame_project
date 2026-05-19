@@ -10958,3 +10958,688 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.19-15.21.53:438][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
 [2026.05.19-15.21.53:438][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
 [2026.05.19-15.21.53:440][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2026.05.19-15.26.57:466][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7728.120605
+[2026.05.19-15.26.58:467][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.26.58:467][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7728.786621, Update Interval: 344.149902
+[2026.05.19-15.30.02:294][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.02:294][704]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.02:295][704]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-15.30.02:297][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.02:299][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-15.30.02:309][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.02:350][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-15.30.02:350][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2026.05.19-15.30.02:350][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80, StreamState=4
+[2026.05.19-15.30.02:354][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80, StreamState=2
+[2026.05.19-15.30.02:362][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.02:373][704]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2026.05.19-15.30.02:515][705]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2026.05.19-15.30.21:164][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-15.30.21:164][639]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.21:173][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008828s)
+[2026.05.19-15.30.21:173][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.008908s)
+[2026.05.19-15.30.21:215][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.19-15.30.21:218][639]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-15.30.21:221][639]LogPlayLevel: PIE: World Init took: (0.002946s)
+[2026.05.19-15.30.21:222][639]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-15.30.21:222][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-15.30.21:222][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-15.30.21:222][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-15.30.21:222][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-15.30.21:222][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-15.30.21:225][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-15.30.21:337][639]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-15.30.21:339][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-15.30.21:339][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-15.30.21:340][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-15.30.21:341][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2026.05.19-15.30.21:341][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2026.05.19-15.30.21:343][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2026.05.19-15.30.21:344][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2026.05.19-15.30.21:344][639]LogInit: FAudioDevice initialized with ID 81.
+[2026.05.19-15.30.21:344][639]LogAudio: Display: Audio Device (ID: 81) registered with world 'Main_Menu'.
+[2026.05.19-15.30.21:344][639]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2026.05.19-15.30.21:349][639]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.30.21:349][639]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-15.30.21:354][639]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-16.30.21
+[2026.05.19-15.30.21:355][639]LogWorld: Bringing up level for play took: 0.004706
+[2026.05.19-15.30.21:358][639]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2026.05.19-15.30.21:358][639]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.05.19-15.30.21:363][639]PIE: Server logged in
+[2026.05.19-15.30.21:366][639]PIE: Play in editor total start time 0.203 seconds.
+[2026.05.19-15.30.22:408][699]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_FirstPersonCharacter_C]
+[2026.05.19-15.30.22:408][699]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.05.19-15.30.24:483][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.24:483][920]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.24:483][920]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-15.30.24:484][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.24:486][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-15.30.24:493][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.24:535][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.24:536][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2026.05.19-15.30.24:536][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81, StreamState=4
+[2026.05.19-15.30.24:540][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81, StreamState=2
+[2026.05.19-15.30.24:555][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.19-15.30.24:671][921]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2026.05.19-15.30.29:115][315]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-15.30.29:128][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-15.30.29:129][315]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.29:135][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006364s)
+[2026.05.19-15.30.29:135][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006412s)
+[2026.05.19-15.30.29:178][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.05.19-15.30.29:180][315]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-15.30.29:183][315]LogPlayLevel: PIE: World Init took: (0.002543s)
+[2026.05.19-15.30.29:184][315]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-15.30.29:184][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-15.30.29:184][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-15.30.29:184][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-15.30.29:184][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-15.30.29:184][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-15.30.29:187][315]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-15.30.29:299][315]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-15.30.29:301][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-15.30.29:301][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-15.30.29:301][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-15.30.29:301][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2026.05.19-15.30.29:301][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2026.05.19-15.30.29:304][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2026.05.19-15.30.29:304][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2026.05.19-15.30.29:304][315]LogInit: FAudioDevice initialized with ID 82.
+[2026.05.19-15.30.29:304][315]LogAudio: Display: Audio Device (ID: 82) registered with world 'Main_Menu'.
+[2026.05.19-15.30.29:304][315]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2026.05.19-15.30.29:310][315]LogStreaming: Display: FlushAsyncLoading(748): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.30.29:310][315]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-15.30.29:313][315]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-16.30.29
+[2026.05.19-15.30.29:314][315]LogWorld: Bringing up level for play took: 0.004226
+[2026.05.19-15.30.29:318][315]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2026.05.19-15.30.29:327][315]PIE: Server logged in
+[2026.05.19-15.30.29:331][315]PIE: Play in editor total start time 0.203 seconds.
+[2026.05.19-15.30.30:823][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.30:823][456]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.30:824][456]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-15.30.30:824][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.30:826][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-15.30.30:834][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.30:873][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.30:874][456]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2026.05.19-15.30.30:874][456]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82, StreamState=4
+[2026.05.19-15.30.30:876][456]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82, StreamState=2
+[2026.05.19-15.30.30:889][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.05.19-15.30.31:007][457]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2026.05.19-15.30.31:887][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-15.30.31:888][532]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.31:894][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006382s)
+[2026.05.19-15.30.31:894][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006432s)
+[2026.05.19-15.30.31:936][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.19-15.30.31:938][532]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-15.30.31:941][532]LogPlayLevel: PIE: World Init took: (0.002362s)
+[2026.05.19-15.30.31:942][532]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-15.30.31:942][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-15.30.31:942][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-15.30.31:942][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-15.30.31:942][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-15.30.31:942][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-15.30.31:945][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-15.30.32:054][532]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-15.30.32:055][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-15.30.32:055][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-15.30.32:055][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-15.30.32:056][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2026.05.19-15.30.32:056][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2026.05.19-15.30.32:059][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2026.05.19-15.30.32:059][532]LogInit: FAudioDevice initialized with ID 83.
+[2026.05.19-15.30.32:059][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2026.05.19-15.30.32:059][532]LogAudio: Display: Audio Device (ID: 83) registered with world 'Main_Menu'.
+[2026.05.19-15.30.32:059][532]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2026.05.19-15.30.32:064][532]LogStreaming: Display: FlushAsyncLoading(749): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.30.32:064][532]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-15.30.32:068][532]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-16.30.32
+[2026.05.19-15.30.32:069][532]LogWorld: Bringing up level for play took: 0.004165
+[2026.05.19-15.30.32:073][532]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2026.05.19-15.30.32:073][532]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.05.19-15.30.32:076][532]PIE: Server logged in
+[2026.05.19-15.30.32:079][532]PIE: Play in editor total start time 0.192 seconds.
+[2026.05.19-15.30.35:454][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.35:454][802]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-15.30.35:454][802]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-15.30.35:455][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.35:457][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-15.30.35:465][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.30.35:504][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-15.30.35:504][802]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2026.05.19-15.30.35:505][802]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83, StreamState=4
+[2026.05.19-15.30.35:508][802]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83, StreamState=2
+[2026.05.19-15.30.35:520][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.05.19-15.30.35:630][803]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2026.05.19-15.30.48:966][ 53]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.19-15.30.48:986][ 53]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.19-15.30.48:998][ 53]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.19-15.30.52:064][ 53]LogContentBrowser: Attempting asset rename: NewFolder -> Cutscenes
+[2026.05.19-15.30.52:065][ 53]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.19-15.30.57:348][ 53]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.19-15.30.57:369][ 53]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Cutscenes/StartingCutscenes.StartingCutscenes
+[2026.05.19-15.30.57:369][ 53]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Cutscenes/StartingCutscenes.StartingCutscenes
+[2026.05.19-15.30.57:371][ 53]LogActorFactory: Actor Factory spawned LevelSequence /Game/Cutscenes/StartingCutscenes.StartingCutscenes as actor: LevelSequenceActor /Game/Horror_Game/Main_Menu.Main_Menu:PersistentLevel.LevelSequenceActor_0
+[2026.05.19-15.30.57:371][ 53]LogActorFactory: Actor Factory spawned LevelSequence /Game/Cutscenes/StartingCutscenes.StartingCutscenes as actor: LevelSequenceActor /Game/Horror_Game/Main_Menu.Main_Menu:PersistentLevel.LevelSequenceActor_0
+[2026.05.19-15.30.57:402][ 53]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscenes/StartingCutscenes.StartingCutscenes
+[2026.05.19-15.30.57:527][ 53]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.05.19-15.30.57:527][ 53]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.05.19-15.30.57:578][ 53]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.05.19-15.30.57:599][ 53]LogStreaming: Display: FlushAsyncLoading(750): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.31.35:440][374]Cmd: SELECT NONE
+[2026.05.19-15.31.39:251][705]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.05.19-15.31.39:260][705]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.05.19-15.31.54:486][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.05.19-15.31.55:735][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-15.31.55:834][ 33]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cutscenes/StartingCutscenes.StartingCutscenes
+	Asset Type: LevelSequence
+[2026.05.19-15.31.56:412][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.19-15.31.56:454][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.05.19-15.31.56:497][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.05.19-15.32.04:517][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.19-15.32.05:574][716]LogSlate: Window 'Save Content' being destroyed
+[2026.05.19-15.32.05:591][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.32.05:733][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-15.32.05:770][716]LogSavePackage: Moving output files for package: /Game/Horror_Game/Main_Menu
+[2026.05.19-15.32.05:771][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Main_Menu7F3FFBBA49C78CC2E667F4B3F9AA8338.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Main_Menu.umap'
+[2026.05.19-15.32.05:797][716]LogFileHelpers: Saving map 'Main_Menu' took 0.149
+[2026.05.19-15.32.05:797][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sign/HangingSign] ([1] browsable assets)...
+[2026.05.19-15.32.05:797][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sign/HangingSign]
+[2026.05.19-15.32.05:797][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sign/HangingSign" FILE="../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Sign/HangingSign.uasset" SILENT=true
+[2026.05.19-15.32.05:808][716]LogSavePackage: Moving output files for package: /Game/Sign/HangingSign
+[2026.05.19-15.32.05:808][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/HangingSignFB81E858456C2526E7557FA2ACBC8FAB.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Sign/HangingSign.uasset'
+[2026.05.19-15.32.05:811][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sign/HangingSign_lambert2_BaseColor] ([1] browsable assets)...
+[2026.05.19-15.32.05:811][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sign/HangingSign_lambert2_BaseColor]
+[2026.05.19-15.32.05:844][716]LogSavePackage: Moving output files for package: /Game/Sign/HangingSign_lambert2_BaseColor
+[2026.05.19-15.32.05:844][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/HangingSign_lambert2_BaseColorD6AC784743B25ECCD9EC6C878BC186B8.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Sign/HangingSign_lambert2_BaseColor.uasset'
+[2026.05.19-15.32.05:848][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sign/HangingSign_lambert2_Normal] ([1] browsable assets)...
+[2026.05.19-15.32.05:848][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sign/HangingSign_lambert2_Normal]
+[2026.05.19-15.32.05:902][716]LogSavePackage: Moving output files for package: /Game/Sign/HangingSign_lambert2_Normal
+[2026.05.19-15.32.05:902][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/HangingSign_lambert2_NormalBDE4F31A4F3375A8706603B86927717C.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Sign/HangingSign_lambert2_Normal.uasset'
+[2026.05.19-15.32.05:904][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sign/HangingSign_lambert2_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.05.19-15.32.05:904][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sign/HangingSign_lambert2_OcclusionRoughnessMetallic]
+[2026.05.19-15.32.05:931][716]LogSavePackage: Moving output files for package: /Game/Sign/HangingSign_lambert2_OcclusionRoughnessMetallic
+[2026.05.19-15.32.05:931][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/HangingSign_lambert2_OcclusionRo6EECC848487EB9D97F6D1BA8920861D2.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Sign/HangingSign_lambert2_OcclusionRoughnessMetallic.uasset'
+[2026.05.19-15.32.05:934][716]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/SignPost/SignPost_lambert2_BaseColor] ([1] browsable assets)...
+[2026.05.19-15.32.05:936][716]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/SignPost/SignPost_lambert2_BaseColor.SignPost_lambert2_BaseColor]
+[2026.05.19-15.32.05:936][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/SignPost/SignPost_lambert2_BaseColor]
+[2026.05.19-15.32.05:952][716]LogSavePackage: Moving output files for package: /Game/assets/SignPost/SignPost_lambert2_BaseColor
+[2026.05.19-15.32.05:952][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SignPost_lambert2_BaseColorF05A53A04008DFB28E5FCFAFB2E79FFC.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/assets/SignPost/SignPost_lambert2_BaseColor.uasset'
+[2026.05.19-15.32.05:954][716]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/SignPost/SignPost_lambert2_Normal] ([1] browsable assets)...
+[2026.05.19-15.32.05:957][716]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/SignPost/SignPost_lambert2_Normal.SignPost_lambert2_Normal]
+[2026.05.19-15.32.05:957][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/SignPost/SignPost_lambert2_Normal]
+[2026.05.19-15.32.05:976][716]LogSavePackage: Moving output files for package: /Game/assets/SignPost/SignPost_lambert2_Normal
+[2026.05.19-15.32.05:976][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SignPost_lambert2_Normal8901472647DB45A83B6BD2AFD41DE117.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/assets/SignPost/SignPost_lambert2_Normal.uasset'
+[2026.05.19-15.32.05:978][716]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/SignPost/SignPost_lambert2_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2026.05.19-15.32.05:979][716]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/assets/SignPost/SignPost_lambert2_OcclusionRoughnessMetallic.SignPost_lambert2_OcclusionRoughnessMetallic]
+[2026.05.19-15.32.05:981][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/SignPost/SignPost_lambert2_OcclusionRoughnessMetallic]
+[2026.05.19-15.32.05:995][716]LogSavePackage: Moving output files for package: /Game/assets/SignPost/SignPost_lambert2_OcclusionRoughnessMetallic
+[2026.05.19-15.32.05:995][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SignPost_lambert2_OcclusionRough5FED6CD24BA928362D4E3BB8F8E0C331.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/assets/SignPost/SignPost_lambert2_OcclusionRoughnessMetallic.uasset'
+[2026.05.19-15.32.05:998][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Horror_Game/UI/VCR_OSD_MONO_1_001] ([1] browsable assets)...
+[2026.05.19-15.32.05:998][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/UI/VCR_OSD_MONO_1_001]
+[2026.05.19-15.32.06:002][716]LogSavePackage: Moving output files for package: /Game/Horror_Game/UI/VCR_OSD_MONO_1_001
+[2026.05.19-15.32.06:002][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/VCR_OSD_MONO_1_0015A93962540033D9795058E803D74BCF9.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/UI/VCR_OSD_MONO_1_001.uasset'
+[2026.05.19-15.32.06:004][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Horror_Game/UI/VCR_OSD_MONO_1_001_Font] ([1] browsable assets)...
+[2026.05.19-15.32.06:004][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/UI/VCR_OSD_MONO_1_001_Font]
+[2026.05.19-15.32.06:009][716]LogSavePackage: Moving output files for package: /Game/Horror_Game/UI/VCR_OSD_MONO_1_001_Font
+[2026.05.19-15.32.06:009][716]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/VCR_OSD_MONO_1_001_FontFA1E04B34E18CC94305763AC7E731A65.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/UI/VCR_OSD_MONO_1_001_Font.uasset'
+[2026.05.19-15.32.06:082][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 490.927 ms (total: 8.19 sec)
+[2026.05.19-15.32.06:082][716]LogStreaming: Display: FlushAsyncLoading(751): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.32.06:359][716]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-15.32.06:403][716]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Horror_Game/Town_Map.Town_Map
+[2026.05.19-15.32.06:403][716]Cmd: MAP LOAD FILE="../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.19-15.32.06:452][716]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-15.32.06:452][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.32.06:505][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-15.32.06:512][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.19-15.32.06:532][716]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-15.32.06:534][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-15.32.06:775][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.19-15.32.06:826][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.19-15.32.07:059][716]LogAudio: Display: Audio Device (ID: 1) registered with world 'Town_Map'.
+[2026.05.19-15.32.07:059][716]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-15.32.07:228][716]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.19-15.32.07:285][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.19-15.32.07:309][716]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.19-15.32.07:309][716]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2026.05.19-15.32.07:401][716]LogContentValidation: Display: Starting to validate 10 assets
+[2026.05.19-15.32.07:401][716]LogContentValidation: Enabled validators:
+[2026.05.19-15.32.07:401][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.32.07:401][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.32.07:401][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.32.07:401][716]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.32.07:401][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.32.07:401][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/Sign/HangingSign Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/Sign/HangingSign_lambert2_BaseColor Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/Sign/HangingSign_lambert2_Normal Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/Sign/HangingSign_lambert2_OcclusionRoughnessMetallic Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/assets/SignPost/SignPost_lambert2_BaseColor Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/assets/SignPost/SignPost_lambert2_Normal Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/assets/SignPost/SignPost_lambert2_OcclusionRoughnessMetallic Validating asset
+[2026.05.19-15.32.07:402][716]AssetCheck: /Game/Horror_Game/UI/VCR_OSD_MONO_1_001 Validating asset
+[2026.05.19-15.32.07:403][716]AssetCheck: /Game/Horror_Game/UI/VCR_OSD_MONO_1_001_Font Validating asset
+[2026.05.19-15.32.07:518][716]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.19-15.32.10:033][767]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.19-15.32.23:890][196]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.19-15.33.08:757][731]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (22 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.24)
+[2026.05.19-15.33.09:124][743]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.36)
+[2026.05.19-15.33.12:206][837]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (56 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.31)
+[2026.05.19-15.33.19:985][897]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.19-15.33.20:026][897]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene
+[2026.05.19-15.33.20:026][897]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene
+[2026.05.19-15.33.20:029][897]LogActorFactory: Actor Factory spawned LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene as actor: LevelSequenceActor /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.LevelSequenceActor_1
+[2026.05.19-15.33.20:029][897]LogActorFactory: Actor Factory spawned LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene as actor: LevelSequenceActor /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.LevelSequenceActor_1
+[2026.05.19-15.33.20:054][897]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene
+[2026.05.19-15.33.20:141][897]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.05.19-15.33.20:141][897]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.05.19-15.33.20:188][897]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.05.19-15.33.28:696][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8119.367676
+[2026.05.19-15.33.28:856][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.33.28:856][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8119.512695, Update Interval: 345.195465
+[2026.05.19-15.33.40:055][820]Cmd: TRANSACTION UNDO
+[2026.05.19-15.33.40:055][820]LogEditorTransaction: Undo Drop Actors
+[2026.05.19-15.34.50:756][239]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.19-15.34.50:791][239]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.19-15.34.50:810][240]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.19-15.34.54:477][515]LogContentBrowser: Attempting asset rename: NewFolder -> SoundEffects
+[2026.05.19-15.34.54:477][515]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.19-15.35.01:415][703]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\old-car-cold-start-sfx_G.wav)
+[2026.05.19-15.35.01:434][703]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave old-car-cold-start-sfx_G...
+[2026.05.19-15.35.01:558][703]LogAudioDerivedData: Display: old-car-cold-start-sfx_G compressed to 20.18% (from 3,517KB to 709KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.01:560][703]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G.old-car-cold-start-sfx_G: Duration=20.42 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261285 bytes, ChunkN=261731)
+[2026.05.19-15.35.01:569][703]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave old-car-cold-start-sfx_G...
+[2026.05.19-15.35.01:572][703]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\engine-rumble_136bpm_C#_major.wav)
+[2026.05.19-15.35.01:585][703]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave engine-rumble_136bpm_C__major...
+[2026.05.19-15.35.01:691][703]LogAudioDerivedData: Display: engine-rumble_136bpm_C__major compressed to 15.63% (from 3,275KB to 512KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.01:692][703]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major.engine-rumble_136bpm_C__major: Duration=34.94 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=262139 bytes, ChunkN=262109)
+[2026.05.19-15.35.01:693][703]LogAudioDerivedData: Display: old-car-cold-start-sfx_G compressed to 20.18% (from 3,517KB to 709KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.01:694][703]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G.old-car-cold-start-sfx_G: Duration=20.42 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261285 bytes, ChunkN=261731)
+[2026.05.19-15.35.01:704][703]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave engine-rumble_136bpm_C__major...
+[2026.05.19-15.35.01:811][705]LogAudioDerivedData: Display: engine-rumble_136bpm_C__major compressed to 15.63% (from 3,275KB to 512KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.01:812][705]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major.engine-rumble_136bpm_C__major: Duration=34.94 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=262139 bytes, ChunkN=262109)
+[2026.05.19-15.35.06:287][765]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm.wav)
+[2026.05.19-15.35.06:310][765]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm...
+[2026.05.19-15.35.06:507][765]LogAudioDerivedData: Display: vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm compressed to 19.41% (from 5,511KB to 1,069KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.06:509][765]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm.vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm: Duration=32.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=6, Chunk0=28 bytes, Chunk1=262055 bytes, ChunkN=261825)
+[2026.05.19-15.35.06:517][765]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm...
+[2026.05.19-15.35.06:714][767]LogAudioDerivedData: Display: vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm compressed to 19.41% (from 5,511KB to 1,069KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.06:716][767]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm.vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm: Duration=32.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=6, Chunk0=28 bytes, Chunk1=262055 bytes, ChunkN=261825)
+[2026.05.19-15.35.07:972][772]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\horror-ambience_150bpm_D_minor.wav)
+[2026.05.19-15.35.10:395][772]LogSlate: Window 'Message' being destroyed
+[2026.05.19-15.35.10:406][772]Message dialog closed, result: Yes, title: Message, text: Use the selected Sound Wave 'vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm' in the Content Browser as a template for sound(s) being imported?
+[2026.05.19-15.35.10:407][772]Imported audio has DC offsets larger than 100 at the end of 2 channels - may pop and not loop well: 'horror-ambience_150bpm_D_minor'
+[2026.05.19-15.35.10:417][772]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave horror-ambience_150bpm_D_minor...
+[2026.05.19-15.35.10:497][772]LogAudioDerivedData: Display: horror-ambience_150bpm_D_minor compressed to 17.79% (from 2,480KB to 441KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.10:498][772]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor.horror-ambience_150bpm_D_minor: Duration=14.40 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262073 bytes, ChunkN=189835)
+[2026.05.19-15.35.10:503][772]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave horror-ambience_150bpm_D_minor...
+[2026.05.19-15.35.10:584][775]LogAudioDerivedData: Display: horror-ambience_150bpm_D_minor compressed to 17.79% (from 2,480KB to 441KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.35.10:584][775]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor.horror-ambience_150bpm_D_minor: Duration=14.40 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262073 bytes, ChunkN=189835)
+[2026.05.19-15.35.42:644][516]LogSlate: Window 'Use Audio Clock Source?' being destroyed
+[2026.05.19-15.36.01:247][892]Cmd: TRANSACTION UNDO
+[2026.05.19-15.36.01:247][892]LogEditorTransaction: Undo Move Keys or Sections
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: ================================================
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Total job queries 2,934, among them cache hits 1,650 (56.24%), DDC hits 965 (32.89%), Duplicates 225 (7.67%)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Tracking 1,059 distinct input hashes that result in 736 distinct outputs (69.50%)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: RAM used: 8.26 MiB of 1.60 GiB budget. Usage: 0.50%
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Shaders Compiled: 94
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100%)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Average time worker was idle: 379.49 s
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.35 s
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Job execution time: average 1.83 s, max 5.65 s
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Job life time (pending + execution): average 1.97 s, max 5.69
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Shader code size: total 1.231 MiB, numShaders 104, average 12.127 KiB, min 1.727 KiB, max 28.449 KiB
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.81 s
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 1.07 jobs/batch
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Total thread time: 120.762 s
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Total thread preprocess time: 50.266 s
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Percentage time preprocessing: 41.62%
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Effective parallelization: 2.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.282068
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 2.74 sec, max 3.40 sec, min 2.28 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    6 times, average 2.72 sec, max 3.25 sec, min 2.36 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 2.12 sec, max 2.51 sec, min 1.83 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.94 sec, max 2.22 sec, min 1.74 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.50% of total time (compiled    6 times, average 2.72 sec, max 3.25 sec, min 2.36 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.32% of total time (compiled    5 times, average 2.74 sec, max 3.40 sec, min 2.28 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.64% of total time (compiled   18 times, average 0.71 sec, max 0.91 sec, min 0.52 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.19% of total time (compiled    8 times, average 1.54 sec, max 2.33 sec, min 1.20 sec)
+[2026.05.19-15.36.20:559][403]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.87% of total time (compiled    5 times, average 1.66 sec, max 2.24 sec, min 1.25 sec)
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: Materials Translated:    503
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: Material Total Translate Time: 0.29 s
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: Material Translation Only: 0.16 s (56%)
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: Material Cache Hits: 100 (20%)
+[2026.05.19-15.36.20:560][403]LogShaderCompilers: Display: ================================================
+[2026.05.19-15.38.33:677][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.05.19-15.38.34:671][528]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-15.38.34:739][528]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cutscenes/SoundEffects/vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm.vintage-chopped-mix-with-vocals-side-music-on-the-side_75bpm
+	Asset Type: SoundWave
+[2026.05.19-15.38.35:226][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.19-15.38.35:268][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.05.19-15.38.35:310][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.19-15.38.44:923][885]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\VintageMusicForRadio.wav)
+[2026.05.19-15.38.44:924][885]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'VintageMusicForRadio'
+[2026.05.19-15.38.44:929][885]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave VintageMusicForRadio...
+[2026.05.19-15.38.44:970][885]LogAudioDerivedData: Display: VintageMusicForRadio compressed to 33.88% (from 999KB to 338KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.38.44:972][885]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/VintageMusicForRadio.VintageMusicForRadio: Duration=32.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262031 bytes, ChunkN=84879)
+[2026.05.19-15.38.44:977][885]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave VintageMusicForRadio...
+[2026.05.19-15.38.45:019][886]LogAudioDerivedData: Display: VintageMusicForRadio compressed to 33.88% (from 999KB to 338KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.38.45:020][886]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/VintageMusicForRadio.VintageMusicForRadio: Duration=32.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=262031 bytes, ChunkN=84879)
+[2026.05.19-15.39.52:679][730]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\granular-old-tape-noise-sfx_98bpm.wav)
+[2026.05.19-15.39.54:666][730]LogSlate: Window 'Message' being destroyed
+[2026.05.19-15.39.54:677][730]Message dialog closed, result: Yes, title: Message, text: Use the selected Sound Wave 'VintageMusicForRadio' in the Content Browser as a template for sound(s) being imported?
+[2026.05.19-15.39.54:678][730]Imported audio has DC offsets larger than 100 at the end of 2 channels and the start of 2 channels - may pop and not loop well: 'granular-old-tape-noise-sfx_98bpm'
+[2026.05.19-15.39.54:683][730]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave granular-old-tape-noise-sfx_98bpm...
+[2026.05.19-15.39.54:731][730]LogAudioDerivedData: Display: granular-old-tape-noise-sfx_98bpm compressed to 18.31% (from 1,375KB to 251KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.39.54:733][730]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm.granular-old-tape-noise-sfx_98bpm: Duration=7.98 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=257783 bytes, ChunkN=0)
+[2026.05.19-15.39.54:736][730]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave granular-old-tape-noise-sfx_98bpm...
+[2026.05.19-15.39.54:783][732]LogAudioDerivedData: Display: granular-old-tape-noise-sfx_98bpm compressed to 18.31% (from 1,375KB to 251KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.39.54:784][732]LogAudio: Display: Chunk stats for (SoundWave /Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm.granular-old-tape-noise-sfx_98bpm: Duration=7.98 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=257783 bytes, ChunkN=0)
+[2026.05.19-15.39.56:633][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8507.306641
+[2026.05.19-15.39.56:772][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.39.56:772][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8507.431641, Update Interval: 311.601929
+[2026.05.19-15.41.44:513][ 86]Cmd: TRANSACTION UNDO
+[2026.05.19-15.41.44:513][ 86]LogEditorTransaction: Undo Move Keys or Sections
+[2026.05.19-15.42.24:754][ 76]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.42.24:759][ 76]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave TheTwoWillBecomeOne...
+[2026.05.19-15.42.24:813][ 76]LogAudioDerivedData: Display: TheTwoWillBecomeOne compressed to 15.95% (from 1,504KB to 239KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.42.24:814][ 76]LogAudio: Display: Chunk stats for (SoundWave /Game/Horror_Game/Audio/Other/VA_lines/Monster/TheTwoWillBecomeOne.TheTwoWillBecomeOne: Duration=8.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=245739 bytes, ChunkN=0)
+[2026.05.19-15.42.46:830][444]LogStreaming: Display: FlushAsyncLoading(754): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.42.46:833][444]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave CarBreakDown...
+[2026.05.19-15.42.46:848][444]LogAudioDerivedData: Display: CarBreakDown compressed to 7.47% (from 495KB to 36KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.42.46:849][444]LogAudio: Display: Chunk stats for (SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown: Duration=5.25 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=37859 bytes, ChunkN=0)
+[2026.05.19-15.42.56:054][896]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown
+[2026.05.19-15.42.56:054][896]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown
+[2026.05.19-15.42.56:054][896]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-15.42.56:059][896]LogActorFactory: Actor Factory spawned SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown as actor: AmbientSound /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.AmbientSound_0
+[2026.05.19-15.42.56:060][896]LogActorFactory: Actor Factory spawned SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown as actor: AmbientSound /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.AmbientSound_0
+[2026.05.19-15.42.56:510][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2026.05.19-15.42.56:515][919]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2026.05.19-15.43.35:487][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.19-15.43.36:248][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Horror_Game/Town_Map_Auto5
+[2026.05.19-15.43.36:249][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map_Auto54EAB28E043BF4FA9DA0C3FB3C13A9D14.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Horror_Game/Town_Map_Auto5.umap'
+[2026.05.19-15.43.36:255][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Horror_Game/Town_Map' took 0.811
+[2026.05.19-15.43.36:255][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.811
+[2026.05.19-15.43.36:256][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/StartingCutscene] ([1] browsable assets)...
+[2026.05.19-15.43.36:256][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/StartingCutscene]
+[2026.05.19-15.43.36:270][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cutscenes/StartingCutscene_Auto5
+[2026.05.19-15.43.36:270][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/StartingCutscene_Auto5909C29CB46D9BD4351BAC29D90054B34.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Cutscenes/StartingCutscene_Auto5.uasset'
+[2026.05.19-15.43.36:271][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G] ([1] browsable assets)...
+[2026.05.19-15.43.36:278][701]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G.old-car-cold-start-sfx_G]
+[2026.05.19-15.43.36:278][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G]
+[2026.05.19-15.43.36:295][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G_Auto5
+[2026.05.19-15.43.36:296][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/old-car-cold-start-sfx_G_Auto533F0A2814EAC8440E5E4ECA83034D543.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G_Auto5.uasset'
+[2026.05.19-15.43.36:297][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major] ([1] browsable assets)...
+[2026.05.19-15.43.36:303][701]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major.engine-rumble_136bpm_C__major]
+[2026.05.19-15.43.36:303][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major]
+[2026.05.19-15.43.36:317][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major_Auto5
+[2026.05.19-15.43.36:317][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/engine-rumble_136bpm_C__major_Au62FB2A2B4495FA34AEA2788DC1FA20F3.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major_Auto5.uasset'
+[2026.05.19-15.43.36:318][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor] ([1] browsable assets)...
+[2026.05.19-15.43.36:323][701]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor.horror-ambience_150bpm_D_minor]
+[2026.05.19-15.43.36:323][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor]
+[2026.05.19-15.43.36:337][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor_Auto5
+[2026.05.19-15.43.36:337][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/horror-ambience_150bpm_D_minor_A0EEAC5064C69896FB5E2B388DF204E44.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor_Auto5.uasset'
+[2026.05.19-15.43.36:338][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cutscenes/SoundEffects/VintageMusicForRadio] ([1] browsable assets)...
+[2026.05.19-15.43.36:342][701]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Cutscenes/SoundEffects/VintageMusicForRadio.VintageMusicForRadio]
+[2026.05.19-15.43.36:342][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/VintageMusicForRadio]
+[2026.05.19-15.43.36:351][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cutscenes/SoundEffects/VintageMusicForRadio_Auto5
+[2026.05.19-15.43.36:352][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/VintageMusicForRadio_Auto5A53B847A483902BFCEDD5A87C07ED3C8.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Cutscenes/SoundEffects/VintageMusicForRadio_Auto5.uasset'
+[2026.05.19-15.43.36:353][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm] ([1] browsable assets)...
+[2026.05.19-15.43.36:357][701]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm.granular-old-tape-noise-sfx_98bpm]
+[2026.05.19-15.43.36:357][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm]
+[2026.05.19-15.43.36:366][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm_Auto5
+[2026.05.19-15.43.36:366][701]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/granular-old-tape-noise-sfx_98bp4113C5A345137790422846862E49A3ED.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Autosaves/Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm_Auto5.uasset'
+[2026.05.19-15.43.36:367][701]LogFileHelpers: Auto-saving content packages took 0.112
+[2026.05.19-15.46.01:347][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8872.052734
+[2026.05.19-15.46.01:501][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.46.01:502][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8872.193359, Update Interval: 314.048279
+[2026.05.19-15.46.23:342][916]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown
+[2026.05.19-15.46.34:059][535]LogSlate: Window 'CarBreakDown' being destroyed
+[2026.05.19-15.46.34:068][535]LogSlate: Window 'CarBreakDown' being destroyed
+[2026.05.19-15.47.05:729][787]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown
+[2026.05.19-15.47.16:585][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.47.16:646][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown] ([1] browsable assets)...
+[2026.05.19-15.47.16:649][420]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown]
+[2026.05.19-15.47.16:649][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown]
+[2026.05.19-15.47.16:659][420]LogSavePackage: Moving output files for package: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown
+[2026.05.19-15.47.16:660][420]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/CarBreakDownDFE69741421A2C959051D4BC70A85760.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.uasset'
+[2026.05.19-15.47.16:673][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.430 ms (total: 8.28 sec)
+[2026.05.19-15.47.16:726][420]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-15.47.16:726][420]LogContentValidation: Enabled validators:
+[2026.05.19-15.47.16:726][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.47.16:726][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.47.16:726][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.47.16:726][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.47.16:726][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.47.16:726][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.47.16:726][420]AssetCheck: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown Validating asset
+[2026.05.19-15.47.16:766][420]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.19-15.47.23:966][866]LogSlate: Window 'CarBreakDown' being destroyed
+[2026.05.19-15.47.23:974][866]LogSlate: Window 'CarBreakDown' being destroyed
+[2026.05.19-15.47.28:426][161]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown
+[2026.05.19-15.47.34:902][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.47.34:961][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown] ([1] browsable assets)...
+[2026.05.19-15.47.34:964][524]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown]
+[2026.05.19-15.47.34:964][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown]
+[2026.05.19-15.47.34:972][524]LogSavePackage: Moving output files for package: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown
+[2026.05.19-15.47.34:973][524]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/CarBreakDown3DF5A00A4665C304633DA1B8666B5C27.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.uasset'
+[2026.05.19-15.47.34:987][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.578 ms (total: 8.37 sec)
+[2026.05.19-15.47.35:043][524]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-15.47.35:043][524]LogContentValidation: Enabled validators:
+[2026.05.19-15.47.35:043][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.47.35:043][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.47.35:043][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.47.35:043][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.47.35:043][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.47.35:043][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.47.35:043][524]AssetCheck: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown Validating asset
+[2026.05.19-15.47.36:081][585]LogSlate: Window 'CarBreakDown' being destroyed
+[2026.05.19-15.47.36:089][585]LogSlate: Window 'CarBreakDown' being destroyed
+[2026.05.19-15.51.58:922][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2026.05.19-15.51.59:936][196]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.19-15.52.00:240][196]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.05.19-15.52.00:249][196]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.05.19-15.52.00:285][196]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown
+	Asset Type: SoundWave
+[2026.05.19-15.52.00:807][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-15.52.00:853][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.19-15.52.00:895][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.19-15.52.07:600][461]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\2504926\Downloads\CarBreakDown (2).wav)
+[2026.05.19-15.52.07:600][461]Imported audio has DC offsets larger than 100 at the end of 1 channel - may pop and not loop well: 'CarBreakDown__2_'
+[2026.05.19-15.52.07:604][461]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave CarBreakDown__2_...
+[2026.05.19-15.52.07:618][461]LogAudioDerivedData: Display: CarBreakDown__2_ compressed to 8.22% (from 492KB to 40KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.52.07:618][461]LogAudio: Display: Chunk stats for (SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown__2_.CarBreakDown__2_: Duration=5.25 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=41447 bytes, ChunkN=0)
+[2026.05.19-15.52.07:620][461]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave CarBreakDown__2_...
+[2026.05.19-15.52.07:634][461]LogAudioDerivedData: Display: CarBreakDown__2_ compressed to 8.22% (from 492KB to 40KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.05.19-15.52.07:635][461]LogAudio: Display: Chunk stats for (SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown__2_.CarBreakDown__2_: Duration=5.25 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=41447 bytes, ChunkN=0)
+[2026.05.19-15.52.08:267][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9239.014648
+[2026.05.19-15.52.08:991][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.52.08:991][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9239.372070, Update Interval: 326.662811
+[2026.05.19-15.52.10:456][532]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.19-15.52.10:496][532]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.19-15.52.17:141][916]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene
+[2026.05.19-15.52.17:232][916]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.05.19-15.52.17:232][916]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.05.19-15.52.17:280][916]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.05.19-15.52.29:263][431]LogContentBrowser: Attempting asset rename: CarBreakDown__2_ -> CarBreakDown
+[2026.05.19-15.52.29:402][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.52.29:402][431]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown] ([1] browsable assets)...
+[2026.05.19-15.52.29:405][431]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.CarBreakDown]
+[2026.05.19-15.52.29:405][431]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown]
+[2026.05.19-15.52.29:413][431]LogSavePackage: Moving output files for package: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown
+[2026.05.19-15.52.29:413][431]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/CarBreakDown24F7DAED40A2F93337113B9DDD037D4A.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown.uasset'
+[2026.05.19-15.52.29:415][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.219 ms (total: 8.38 sec)
+[2026.05.19-15.52.29:587][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.19-15.52.29:635][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.19-15.52.29:679][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.19-15.52.29:728][431]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-15.52.29:728][431]LogContentValidation: Enabled validators:
+[2026.05.19-15.52.29:728][431]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.52.29:728][431]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.52.29:728][431]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.52.29:728][431]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.52.29:728][431]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.52.29:728][431]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.52.29:729][431]AssetCheck: /Game/Horror_Game/Audio/Other/VA_lines/MercenaryVirgil/CarBreakDown Validating asset
+[2026.05.19-15.53.20:810][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.53.20:961][871]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.05.19-15.53.20:962][871]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-15.53.20:965][871]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-15.53.20:968][871]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-15.53.21:063][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.05.19-15.53.21:756][871]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-15.53.21:757][871]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_MapB368235C4EA505E4CD3B65AE83FB9094.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-15.53.21:800][871]LogFileHelpers: Saving map 'Town_Map' took 0.824
+[2026.05.19-15.53.21:813][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 9.38 sec)
+[2026.05.19-15.53.21:879][871]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-15.53.21:879][871]LogContentValidation: Enabled validators:
+[2026.05.19-15.53.21:879][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.53.21:879][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.53.21:879][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.53.21:879][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.53.21:879][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.53.21:879][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.53.21:879][871]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-15.53.32:083][424]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2026.05.19-15.53.35:759][561]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2026.05.19-15.53.40:313][694]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.42)
+[2026.05.19-15.53.43:904][791]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (17 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.14)
+[2026.05.19-15.53.50:913][931]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.54)
+[2026.05.19-15.53.53:025][983]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.67)
+[2026.05.19-15.54.00:452][186]Cmd: EDIT COPY
+[2026.05.19-15.54.00:744][195]Cmd: EDIT PASTE
+[2026.05.19-15.54.01:742][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Set Transform Key entirely.
+[2026.05.19-15.54.01:793][213]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (32 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.68)
+[2026.05.19-15.54.17:105][559]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.58)
+[2026.05.19-15.55.40:918][922]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (46 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2026.05.19-15.55.41:618][940]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.21)
+[2026.05.19-15.56.36:502][104]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -1720.00,-16830.00,10.00
+[2026.05.19-15.56.48:618][290]Cmd: DELETE
+[2026.05.19-15.56.48:618][290]Cmd: ACTOR DELETE
+[2026.05.19-15.56.48:663][290]LogEditorActor: Deleted Actor: CineCameraActor
+[2026.05.19-15.56.48:755][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.05.19-15.56.48:761][290]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2026.05.19-15.57.22:324][942]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2026.05.19-15.57.22:382][943]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.34)
+[2026.05.19-15.57.23:150][957]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.32)
+[2026.05.19-15.57.23:328][960]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.59)
+[2026.05.19-15.57.23:393][961]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.68)
+[2026.05.19-15.58.17:005][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9607.720703
+[2026.05.19-15.58.17:286][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.58.17:286][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9607.945312, Update Interval: 320.918610
+[2026.05.19-15.59.12:987][439]Cmd: TRANSACTION UNDO
+[2026.05.19-15.59.12:987][439]LogEditorTransaction: Undo Add Keys at Current Time
+[2026.05.19-15.59.13:317][441]Cmd: TRANSACTION UNDO
+[2026.05.19-15.59.13:317][441]LogEditorTransaction: Undo Add Keys at Current Time
+[2026.05.19-15.59.41:047][973]Cmd: TRANSACTION UNDO
+[2026.05.19-15.59.41:047][973]LogEditorTransaction: Undo Add Keys at Current Time
+[2026.05.19-16.00.12:533][582]Cmd: TRANSACTION UNDO
+[2026.05.19-16.00.12:533][582]LogEditorTransaction: Undo Add Keys at Current Time
+[2026.05.19-16.01.18:306][197]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2026.05.19-16.02.22:146][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.02.22:461][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.05.19-16.02.23:130][130]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.02.23:131][130]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map2C1747CC4701C4B4894DF89559DA3E96.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.02.23:163][130]LogFileHelpers: Saving map 'Town_Map' took 0.800
+[2026.05.19-16.02.23:175][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.02 sec (total: 10.4 sec)
+[2026.05.19-16.02.23:247][130]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.02.23:247][130]LogContentValidation: Enabled validators:
+[2026.05.19-16.02.23:247][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.02.23:247][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.02.23:247][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.02.23:247][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.02.23:247][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.02.23:247][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.02.23:249][130]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.02.58:123][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.02.58:164][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/StartingCutscene] ([1] browsable assets)...
+[2026.05.19-16.02.58:164][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/StartingCutscene]
+[2026.05.19-16.02.58:180][527]LogSavePackage: Moving output files for package: /Game/Cutscenes/StartingCutscene
+[2026.05.19-16.02.58:180][527]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/StartingCutsceneCFCA6C0745163F4F9FD243BFF12C17C2.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/StartingCutscene.uasset'
+[2026.05.19-16.02.58:192][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.494 ms (total: 10.4 sec)
+[2026.05.19-16.02.58:248][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.02.58:249][527]LogContentValidation: Enabled validators:
+[2026.05.19-16.02.58:249][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.02.58:249][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.02.58:249][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.02.58:249][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.02.58:249][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.02.58:249][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.02.58:253][527]AssetCheck: /Game/Cutscenes/StartingCutscene Validating asset
+[2026.05.19-16.02.58:488][527]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.19-16.03.03:006][577]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.05.19-16.03.03:015][577]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.05.19-16.03.44:879][992]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene
+[2026.05.19-16.03.44:969][992]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.05.19-16.03.44:969][992]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.05.19-16.03.45:017][992]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.05.19-16.04.32:036][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9982.788086
+[2026.05.19-16.04.32:282][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.04.32:282][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9982.983398, Update Interval: 304.667511
+[2026.05.19-16.05.31:475][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.05.31:541][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/StartingCutscene] ([1] browsable assets)...
+[2026.05.19-16.05.31:541][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/StartingCutscene]
+[2026.05.19-16.05.31:559][349]LogSavePackage: Moving output files for package: /Game/Cutscenes/StartingCutscene
+[2026.05.19-16.05.31:560][349]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/StartingCutscene5C50BFFE4ABFCF699537728EB086118E.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/StartingCutscene.uasset'
+[2026.05.19-16.05.31:571][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.520 ms (total: 10.5 sec)
+[2026.05.19-16.05.31:625][349]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.05.31:625][349]LogContentValidation: Enabled validators:
+[2026.05.19-16.05.31:625][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.05.31:625][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.05.31:625][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.05.31:625][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.05.31:625][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.05.31:625][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.05.31:627][349]AssetCheck: /Game/Cutscenes/StartingCutscene Validating asset
