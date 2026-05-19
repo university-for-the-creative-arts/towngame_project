@@ -12011,3 +12011,1402 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.19-16.16.23:649][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10694.428711
 [2026.05.19-16.16.24:648][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.19-16.16.24:648][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10695.094727, Update Interval: 305.916321
+[2026.05.19-16.18.45:577][509]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Horror_Game/UI/WBP-Start_menu.WBP-Start_menu
+[2026.05.19-16.18.45:577][509]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_146
+[2026.05.19-16.18.45:585][509]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_147
+[2026.05.19-16.19.59:036][710]LogDerivedDataCache: C:/Users/2504926/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.19-16.22.28:095][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11058.782227
+[2026.05.19-16.22.28:227][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.22.28:227][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11058.903320, Update Interval: 339.418304
+[2026.05.19-16.25.24:338][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.05.19-16.25.24:363][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.25.24:425][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Horror_Game/UI/WBP-Start_menu] ([2] browsable assets)...
+[2026.05.19-16.25.24:429][828]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Horror_Game/UI/WBP-Start_menu.WBP-Start_menu]
+[2026.05.19-16.25.24:429][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/UI/WBP-Start_menu]
+[2026.05.19-16.25.24:450][828]LogSavePackage: Moving output files for package: /Game/Horror_Game/UI/WBP-Start_menu
+[2026.05.19-16.25.24:451][828]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/WBP-Start_menu892D9383450041ED953AF7B869181773.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/UI/WBP-Start_menu.uasset'
+[2026.05.19-16.25.24:463][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.258 ms (total: 13.9 sec)
+[2026.05.19-16.25.24:509][828]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.25.24:509][828]LogContentValidation: Enabled validators:
+[2026.05.19-16.25.24:509][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.25.24:509][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.25.24:509][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.25.24:509][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.25.24:509][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.25.24:510][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.25.24:510][828]AssetCheck: /Game/Horror_Game/UI/WBP-Start_menu Validating asset
+[2026.05.19-16.25.26:432][952]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.25.26:447][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.25.26:447][952]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.25.26:562][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114096s)
+[2026.05.19-16.25.26:562][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.114157s)
+[2026.05.19-16.25.26:605][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.05.19-16.25.26:611][952]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.25.26:614][952]LogPlayLevel: PIE: World Init took: (0.002843s)
+[2026.05.19-16.25.26:615][952]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.25.26:615][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.25.26:615][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.25.26:615][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.25.26:615][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.25.26:615][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.25.26:617][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.25.26:736][952]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.25.26:736][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.25.26:736][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.25.26:736][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.25.26:737][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2026.05.19-16.25.26:737][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2026.05.19-16.25.26:740][952]LogInit: FAudioDevice initialized with ID 87.
+[2026.05.19-16.25.26:740][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2026.05.19-16.25.26:740][952]LogAudio: Display: Audio Device (ID: 87) registered with world 'Town_Map'.
+[2026.05.19-16.25.26:740][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2026.05.19-16.25.26:740][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2026.05.19-16.25.26:746][952]LogStreaming: Display: FlushAsyncLoading(850): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.25.26:746][952]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.25.26:786][952]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.25.26
+[2026.05.19-16.25.26:788][952]LogWorld: Bringing up level for play took: 0.040767
+[2026.05.19-16.25.26:791][952]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2026.05.19-16.25.26:810][952]PIE: Server logged in
+[2026.05.19-16.25.26:813][952]PIE: Play in editor total start time 0.367 seconds.
+[2026.05.19-16.25.26:834][952]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.25.26:834][952]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.25.29:989][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.25.29:990][ 59]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.25.29:991][ 59]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.25.30:001][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.30:003][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.25.30:012][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.30:060][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.25.30:060][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2026.05.19-16.25.30:061][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87, StreamState=4
+[2026.05.19-16.25.30:063][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87, StreamState=2
+[2026.05.19-16.25.30:071][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.25.30:082][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.19-16.25.30:151][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2026.05.19-16.25.42:063][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-16.25.44:464][ 37]LogSlate: Window 'Save Content' being destroyed
+[2026.05.19-16.25.44:479][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.25.44:531][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/SoundEffects/VintageMusicForRadio] ([1] browsable assets)...
+[2026.05.19-16.25.44:531][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/VintageMusicForRadio]
+[2026.05.19-16.25.44:541][ 37]LogSavePackage: Moving output files for package: /Game/Cutscenes/SoundEffects/VintageMusicForRadio
+[2026.05.19-16.25.44:542][ 37]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/VintageMusicForRadio7F5A333740830F2F64C2F6ACE94BEC8B.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/SoundEffects/VintageMusicForRadio.uasset'
+[2026.05.19-16.25.44:546][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major] ([1] browsable assets)...
+[2026.05.19-16.25.44:546][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major]
+[2026.05.19-16.25.44:559][ 37]LogSavePackage: Moving output files for package: /Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major
+[2026.05.19-16.25.44:559][ 37]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/engine-rumble_136bpm_C__major9491D19145B2A28DCF2CFCBEC8514EAF.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major.uasset'
+[2026.05.19-16.25.44:561][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm] ([1] browsable assets)...
+[2026.05.19-16.25.44:561][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm]
+[2026.05.19-16.25.44:569][ 37]LogSavePackage: Moving output files for package: /Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm
+[2026.05.19-16.25.44:569][ 37]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/granular-old-tape-noise-sfx_98bp11CE41AF416FFC95E89A86B5FC4DFF34.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm.uasset'
+[2026.05.19-16.25.44:571][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor] ([1] browsable assets)...
+[2026.05.19-16.25.44:571][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor]
+[2026.05.19-16.25.44:585][ 37]LogSavePackage: Moving output files for package: /Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor
+[2026.05.19-16.25.44:585][ 37]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/horror-ambience_150bpm_D_minor104F41354C4DD284EEBE0E95398411DD.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor.uasset'
+[2026.05.19-16.25.44:587][ 37]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G] ([1] browsable assets)...
+[2026.05.19-16.25.44:587][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G]
+[2026.05.19-16.25.44:602][ 37]LogSavePackage: Moving output files for package: /Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G
+[2026.05.19-16.25.44:602][ 37]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/old-car-cold-start-sfx_GFD0109FD4A32CE4F65375A9B270F764A.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/SoundEffects/old-car-cold-start-sfx_G.uasset'
+[2026.05.19-16.25.44:665][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.981 ms (total: 14.1 sec)
+[2026.05.19-16.25.44:665][ 37]LogStreaming: Display: FlushAsyncLoading(859): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.25.44:752][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.25.44:757][ 37]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Horror_Game/Main_Menu.Main_Menu
+[2026.05.19-16.25.44:757][ 37]Cmd: MAP LOAD FILE="../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.19-16.25.44:832][ 37]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.25.44:833][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.44:895][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.25.44:917][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2026.05.19-16.25.44:937][ 37]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.25.44:937][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.44:988][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.05.19-16.25.45:034][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.19-16.25.45:088][ 37]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2026.05.19-16.25.45:088][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.25.45:110][ 37]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.19-16.25.45:154][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.19-16.25.45:181][ 37]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.19-16.25.45:181][ 37]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.068ms to complete.
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: Display: Starting to validate 5 assets
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: Enabled validators:
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.25.45:270][ 37]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.25.45:270][ 37]AssetCheck: /Game/Cutscenes/SoundEffects/VintageMusicForRadio Validating asset
+[2026.05.19-16.25.45:270][ 37]AssetCheck: /Game/Cutscenes/SoundEffects/engine-rumble_136bpm_C__major Validating asset
+[2026.05.19-16.25.45:270][ 37]AssetCheck: /Game/Cutscenes/SoundEffects/granular-old-tape-noise-sfx_98bpm Validating asset
+[2026.05.19-16.25.45:270][ 37]AssetCheck: /Game/Cutscenes/SoundEffects/horror-ambience_150bpm_D_minor Validating asset
+[2026.05.19-16.25.45:271][ 37]AssetCheck: /Game/Cutscenes/SoundEffects/old-car-cold-start-sfx_G Validating asset
+[2026.05.19-16.25.45:341][ 37]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.19-16.25.48:083][239]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.25.48:097][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.25.48:118][239]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.25.48:125][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006465s)
+[2026.05.19-16.25.48:125][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006525s)
+[2026.05.19-16.25.48:167][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.19-16.25.48:178][239]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.25.48:180][239]LogPlayLevel: PIE: World Init took: (0.002588s)
+[2026.05.19-16.25.48:181][239]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2026.05.19-16.25.48:181][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.25.48:181][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.25.48:181][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.25.48:181][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.25.48:182][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.25.48:182][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.25.48:182][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.25.48:182][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.25.48:182][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.25.48:182][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.25.48:182][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.25.48:184][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.25.48:287][239]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.25.48:288][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.25.48:288][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.25.48:288][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.25.48:289][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2026.05.19-16.25.48:289][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2026.05.19-16.25.48:292][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2026.05.19-16.25.48:292][239]LogInit: FAudioDevice initialized with ID 88.
+[2026.05.19-16.25.48:292][239]LogAudio: Display: Audio Device (ID: 88) registered with world 'Main_Menu'.
+[2026.05.19-16.25.48:292][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2026.05.19-16.25.48:292][239]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2026.05.19-16.25.48:298][239]LogStreaming: Display: FlushAsyncLoading(861): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.25.48:300][239]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.25.48:303][239]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-17.25.48
+[2026.05.19-16.25.48:304][239]LogWorld: Bringing up level for play took: 0.003436
+[2026.05.19-16.25.48:308][239]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2026.05.19-16.25.48:316][239]PIE: Server logged in
+[2026.05.19-16.25.48:320][239]PIE: Play in editor total start time 0.223 seconds.
+[2026.05.19-16.25.49:724][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.05.19-16.25.49:727][372]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Horror_Game/Town_Map"
+[2026.05.19-16.25.49:727][372]LogNet: Browse: /Game/Horror_Game/Town_Map
+[2026.05.19-16.25.49:727][372]LogLoad: LoadMap: /Game/Horror_Game/Town_Map
+[2026.05.19-16.25.49:727][372]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.25.49:728][372]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.25.49:728][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.49:806][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.25.49:809][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.25.49:815][372]LogStreaming: Display: FlushAsyncLoading(863): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.25.50:063][372]LogAudio: Display: Audio Device (ID: 88) registered with world 'Town_Map'.
+[2026.05.19-16.25.50:063][372]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.25.50:066][372]LogPlayLevel: PIE: World Init took: (0.002720s)
+[2026.05.19-16.25.50:066][372]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.25.50:213][372]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.25.50
+[2026.05.19-16.25.50:214][372]LogWorld: Bringing up level for play took: 0.133418
+[2026.05.19-16.25.50:231][372]LogLoad: Took 0.503658 seconds to LoadMap(/Game/Horror_Game/Town_Map)
+[2026.05.19-16.25.50:231][372]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Horror_Game/Town_Map
+[2026.05.19-16.25.50:232][372]LoadErrors: Error: The summary for the package '/DialogQuestSystem/UI/Themes/DA_DQS_DefaultUITheme' is invalid. Check that the file is of the expected type and not corrupted.
+[2026.05.19-16.25.50:260][372]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.25.50:260][372]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.25.53:270][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.25.53:270][495]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.25.53:271][495]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.25.53:279][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.53:282][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.25.53:292][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.25.53:339][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.25.53:340][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2026.05.19-16.25.53:340][495]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88, StreamState=4
+[2026.05.19-16.25.53:344][495]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88, StreamState=2
+[2026.05.19-16.25.53:367][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.05.19-16.25.53:422][496]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2026.05.19-16.26.19:241][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.26.19:264][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.26.19:330][261]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Horror_Game/UI/WBP-Start_menu] ([2] browsable assets)...
+[2026.05.19-16.26.19:333][261]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Horror_Game/UI/WBP-Start_menu.WBP-Start_menu]
+[2026.05.19-16.26.19:333][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/UI/WBP-Start_menu]
+[2026.05.19-16.26.19:351][261]LogSavePackage: Moving output files for package: /Game/Horror_Game/UI/WBP-Start_menu
+[2026.05.19-16.26.19:352][261]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/WBP-Start_menuE15BC4A54D25FBB5DDEBB4A5F46E0974.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/UI/WBP-Start_menu.uasset'
+[2026.05.19-16.26.19:362][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.170 ms (total: 14.2 sec)
+[2026.05.19-16.26.19:428][261]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.26.19:428][261]LogContentValidation: Enabled validators:
+[2026.05.19-16.26.19:428][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.26.19:428][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.26.19:428][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.26.19:428][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.26.19:428][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.26.19:429][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.26.19:429][261]AssetCheck: /Game/Horror_Game/UI/WBP-Start_menu Validating asset
+[2026.05.19-16.26.24:136][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.05.19-16.26.27:491][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.05.19-16.26.33:353][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.26.33:366][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.26.33:388][762]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.26.33:395][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006509s)
+[2026.05.19-16.26.33:395][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006565s)
+[2026.05.19-16.26.33:438][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.19-16.26.33:445][762]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.26.33:446][762]LogPlayLevel: PIE: World Init took: (0.002374s)
+[2026.05.19-16.26.33:448][762]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.26.33:448][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.26.33:448][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.26.33:448][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.26.33:448][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.26.33:448][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.26.33:451][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.26.33:552][762]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.26.33:552][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.26.33:552][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.26.33:552][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.26.33:553][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2026.05.19-16.26.33:553][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2026.05.19-16.26.33:557][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2026.05.19-16.26.33:557][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2026.05.19-16.26.33:557][762]LogInit: FAudioDevice initialized with ID 89.
+[2026.05.19-16.26.33:557][762]LogAudio: Display: Audio Device (ID: 89) registered with world 'Main_Menu'.
+[2026.05.19-16.26.33:557][762]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2026.05.19-16.26.33:564][762]LogStreaming: Display: FlushAsyncLoading(873): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.26.33:564][762]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.26.33:567][762]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-17.26.33
+[2026.05.19-16.26.33:567][762]LogWorld: Bringing up level for play took: 0.003623
+[2026.05.19-16.26.33:571][762]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2026.05.19-16.26.33:579][762]PIE: Server logged in
+[2026.05.19-16.26.33:584][762]PIE: Play in editor total start time 0.218 seconds.
+[2026.05.19-16.26.35:071][897]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.05.19-16.26.35:075][897]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Horror_Game/Town_Map"
+[2026.05.19-16.26.35:075][897]LogNet: Browse: /Game/Horror_Game/Town_Map
+[2026.05.19-16.26.35:075][897]LogLoad: LoadMap: /Game/Horror_Game/Town_Map
+[2026.05.19-16.26.35:075][897]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.26.35:077][897]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.26.35:077][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.26.35:150][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.26.35:154][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-16.26.35:159][897]LogStreaming: Display: FlushAsyncLoading(874): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.26.35:395][897]LogAudio: Display: Audio Device (ID: 89) registered with world 'Town_Map'.
+[2026.05.19-16.26.35:395][897]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.26.35:397][897]LogPlayLevel: PIE: World Init took: (0.002419s)
+[2026.05.19-16.26.35:397][897]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.26.35:549][897]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.26.35
+[2026.05.19-16.26.35:550][897]LogWorld: Bringing up level for play took: 0.139633
+[2026.05.19-16.26.35:568][897]LogLoad: Took 0.492296 seconds to LoadMap(/Game/Horror_Game/Town_Map)
+[2026.05.19-16.26.35:568][897]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Horror_Game/Town_Map
+[2026.05.19-16.26.35:597][897]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.26.35:597][897]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.26.38:550][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.26.38:550][997]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.26.38:551][997]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.26.38:558][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.26.38:583][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.26.38:593][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.26.38:642][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.26.38:642][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2026.05.19-16.26.38:642][997]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89, StreamState=4
+[2026.05.19-16.26.38:644][997]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89, StreamState=2
+[2026.05.19-16.26.38:654][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.26.38:667][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.05.19-16.26.38:721][998]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2026.05.19-16.26.44:198][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.26.44:204][556]LogStreaming: Display: FlushAsyncLoading(884): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.26.44:474][556]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.26.44:515][556]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Horror_Game/Town_Map.Town_Map
+[2026.05.19-16.26.44:515][556]Cmd: MAP LOAD FILE="../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.19-16.26.44:562][556]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.26.44:562][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.26.44:615][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.26.44:618][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.05.19-16.26.44:644][556]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.26.44:646][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.26.44:863][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2026.05.19-16.26.44:918][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.26.45:157][556]LogAudio: Display: Audio Device (ID: 1) registered with world 'Town_Map'.
+[2026.05.19-16.26.45:157][556]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.26.45:320][556]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.19-16.26.45:373][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.26.45:397][556]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.19-16.26.45:397][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2026.05.19-16.29.05:707][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11456.308594
+[2026.05.19-16.29.06:017][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.29.06:017][220]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11456.610352, Update Interval: 311.625732
+[2026.05.19-16.29.46:801][159]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.19-16.29.46:880][159]LogSlate: Window 'Content Browser' being destroyed
+[2026.05.19-16.29.48:655][218]LogStreaming: Display: FlushAsyncLoading(886): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.29.50:591][273]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Town_Map
+[2026.05.19-16.29.50:591][273]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_154
+[2026.05.19-16.29.59:512][540]LogSlate: Window 'Town_Map' being destroyed
+[2026.05.19-16.29.59:588][540]LogSlate: Window 'Town_Map' being destroyed
+[2026.05.19-16.29.59:598][540]LogWorld: UWorld::CleanupWorld for World_154, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.29.59:598][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.29.59:725][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.05.19-16.30.36:795][735]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Town_Map
+[2026.05.19-16.30.36:796][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_155
+[2026.05.19-16.31.11:390][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.31.11:405][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.31.11:560][ 84]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-16.31.11:560][ 84]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.05.19-16.31.11:561][ 84]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-16.31.11:569][ 84]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Weightmap_124 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-16.31.11:570][ 84]LogTexture: Display: Building textures: /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Landscape_2.Weightmap_147 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2026.05.19-16.31.11:665][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.31.12:361][ 84]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.31.12:362][ 84]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map51D572E54D3D388D613BD89A62144EB1.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.31.12:404][ 84]LogFileHelpers: Saving map 'Town_Map' took 0.829
+[2026.05.19-16.31.12:415][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 15.2 sec)
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: Enabled validators:
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.31.12:462][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.31.12:463][ 84]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.31.34:923][644]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerVolume
+[2026.05.19-16.31.34:923][644]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerVolume
+[2026.05.19-16.31.34:926][644]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerVolume as actor: TriggerVolume /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.TriggerVolume_0
+[2026.05.19-16.31.34:931][644]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerVolume as actor: TriggerVolume /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.TriggerVolume_0
+[2026.05.19-16.31.35:858][670]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.17)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: ================================================
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Total job queries 3,027, among them cache hits 1,740 (57.48%), DDC hits 967 (31.95%), Duplicates 225 (7.43%)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Tracking 1,062 distinct input hashes that result in 739 distinct outputs (69.59%)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: RAM used: 8.28 MiB of 1.60 GiB budget. Usage: 0.51%
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Shaders Compiled: 95
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Jobs assigned 95, completed 95 (100%)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Average time worker was idle: 418.86 s
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.35 s
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Job execution time: average 1.83 s, max 5.65 s
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Job life time (pending + execution): average 1.97 s, max 5.69
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Shader code size: total 1.237 MiB, numShaders 105, average 12.07 KiB, min 1.727 KiB, max 28.449 KiB
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.14 s
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.07 jobs/batch
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Average processing rate: 2.15 jobs/sec
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Total thread time: 121.289 s
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Total thread preprocess time: 52 s
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Percentage time preprocessing: 42.87%
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Effective parallelization: 2.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.274775
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 2.74 sec, max 3.40 sec, min 2.28 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    6 times, average 2.72 sec, max 3.25 sec, min 2.36 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 2.12 sec, max 2.51 sec, min 1.83 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.94 sec, max 2.22 sec, min 1.74 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.44% of total time (compiled    6 times, average 2.72 sec, max 3.25 sec, min 2.36 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.27% of total time (compiled    5 times, average 2.74 sec, max 3.40 sec, min 2.28 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.02% of total time (compiled   19 times, average 0.70 sec, max 0.91 sec, min 0.52 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.14% of total time (compiled    8 times, average 1.54 sec, max 2.33 sec, min 1.20 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.84% of total time (compiled    5 times, average 1.66 sec, max 2.24 sec, min 1.25 sec)
+[2026.05.19-16.33.21:534][234]LogShaderCompilers: Display: === Material stats ===
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: Materials Translated:    551
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: Material Translation Only: 0.19 s (60%)
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: Material Cache Hits: 148 (27%)
+[2026.05.19-16.33.21:535][234]LogShaderCompilers: Display: ================================================
+[2026.05.19-16.34.42:338][593]LogEditorTransaction: Undo Add Node
+[2026.05.19-16.34.50:402][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11801.053711
+[2026.05.19-16.34.50:630][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.34.50:630][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11801.244141, Update Interval: 305.500671
+[2026.05.19-16.37.01:670][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:670][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:702][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:702][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:702][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:702][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:702][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:702][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:731][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:731][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:731][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:759][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.01:759][252]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-16.37.20:139][521]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To PlayerStart  to imply a specific type.
+[2026.05.19-16.37.20:139][521]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.05.19-16.37.20:143][521]LogStreaming: Display: FlushAsyncLoading(887): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.37.20:272][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.05.19-16.37.21:058][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.37.21:280][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.37.21:969][545]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.37.21:969][545]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map0EE73A9D4DB20093912B44AAA297D931.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.37.22:003][545]LogFileHelpers: Saving map 'Town_Map' took 0.809
+[2026.05.19-16.37.22:014][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 956.271 ms (total: 16.1 sec)
+[2026.05.19-16.37.22:064][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.37.22:065][545]LogContentValidation: Enabled validators:
+[2026.05.19-16.37.22:065][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.37.22:065][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.37.22:065][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.37.22:065][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.37.22:065][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.37.22:065][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.37.22:066][545]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.37.24:244][615]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To PlayerStart  to imply a specific type.
+[2026.05.19-16.37.24:244][615]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.05.19-16.37.24:358][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.19-16.38.11:059][950]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To PlayerStart  to imply a specific type.
+[2026.05.19-16.38.11:059][950]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.05.19-16.38.11:169][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.19-16.39.34:508][782]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FirstPersonCharacter  to imply a specific type.
+[2026.05.19-16.39.34:508][782]LogBlueprint: Error: [AssetLog] C:\Users\2504926\Documents\GitHub\TownGame_Project\NornalTown_Game\Content\Horror_Game\Town_Map.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.05.19-16.39.34:615][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.05.19-16.39.48:480][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.39.48:501][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.39.48:628][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.19-16.39.49:311][ 69]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.39.49:312][ 69]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_MapB1DC0B0146AE5EEF88694DA3213B047C.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.39.49:345][ 69]LogFileHelpers: Saving map 'Town_Map' took 0.804
+[2026.05.19-16.39.49:354][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 853.818 ms (total: 17.0 sec)
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: Enabled validators:
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.39.49:424][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.39.49:425][ 69]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.39.50:474][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.39.50:684][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-16.39.51:363][101]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.39.51:364][101]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map79C3545D4B47A14BA2182BA26C6C2E3A.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.39.51:407][101]LogFileHelpers: Saving map 'Town_Map' took 0.811
+[2026.05.19-16.39.51:416][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 943.192 ms (total: 17.9 sec)
+[2026.05.19-16.39.51:479][101]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.39.51:479][101]LogContentValidation: Enabled validators:
+[2026.05.19-16.39.51:479][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.39.51:479][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.39.51:479][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.39.51:479][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.39.51:479][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.39.51:479][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.39.51:480][101]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.39.53:819][175]LogSlate: Window 'Town_Map' being destroyed
+[2026.05.19-16.39.53:897][175]LogSlate: Window 'Town_Map' being destroyed
+[2026.05.19-16.39.53:908][175]LogWorld: UWorld::CleanupWorld for World_155, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.39.53:908][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.39.54:005][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.39.54:606][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.39.54:624][196]LogPlayLevel: [PlayLevel] Compiling WBP-Start_menu before play...
+[2026.05.19-16.39.54:697][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.39.54:763][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Horror_Game/UI/WBP-Start_menu] ([2] browsable assets)...
+[2026.05.19-16.39.54:767][196]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Horror_Game/UI/WBP-Start_menu.WBP-Start_menu]
+[2026.05.19-16.39.54:767][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Horror_Game/UI/WBP-Start_menu]
+[2026.05.19-16.39.54:788][196]LogSavePackage: Moving output files for package: /Game/Horror_Game/UI/WBP-Start_menu
+[2026.05.19-16.39.54:789][196]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/WBP-Start_menu7BC1D90245305C92BBF874A9AF34798E.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/UI/WBP-Start_menu.uasset'
+[2026.05.19-16.39.54:800][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.566 ms (total: 18.0 sec)
+[2026.05.19-16.39.54:842][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.39.54:848][196]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2026.05.19-16.39.54:848][196]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.39.54:959][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110285s)
+[2026.05.19-16.39.54:959][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.110342s)
+[2026.05.19-16.39.54:999][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.39.55:003][196]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.39.55:006][196]LogPlayLevel: PIE: World Init took: (0.002579s)
+[2026.05.19-16.39.55:006][196]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2026.05.19-16.39.55:006][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.39.55:008][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.39.55:008][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.39.55:008][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.39.55:008][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.39.55:008][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.39.55:008][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.39.55:008][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.39.55:008][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.39.55:008][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.39.55:008][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.39.55:011][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.39.55:118][196]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.39.55:118][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.39.55:118][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.39.55:118][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.39.55:119][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2026.05.19-16.39.55:119][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2026.05.19-16.39.55:123][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2026.05.19-16.39.55:123][196]LogInit: FAudioDevice initialized with ID 90.
+[2026.05.19-16.39.55:123][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2026.05.19-16.39.55:123][196]LogAudio: Display: Audio Device (ID: 90) registered with world 'Town_Map'.
+[2026.05.19-16.39.55:123][196]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2026.05.19-16.39.55:129][196]LogStreaming: Display: FlushAsyncLoading(888): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.39.55:129][196]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.39.55:171][196]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.39.55
+[2026.05.19-16.39.55:173][196]LogWorld: Bringing up level for play took: 0.042356
+[2026.05.19-16.39.55:175][196]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2026.05.19-16.39.55:196][196]PIE: Server logged in
+[2026.05.19-16.39.55:201][196]PIE: Play in editor total start time 0.579 seconds.
+[2026.05.19-16.39.55:202][196]LoadErrors: Error: The summary for the package '/DialogQuestSystem/UI/Themes/DA_DQS_DefaultUITheme' is invalid. Check that the file is of the expected type and not corrupted.
+[2026.05.19-16.39.55:220][196]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.39.55:220][196]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.39.55:255][197]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.39.55:255][197]LogContentValidation: Enabled validators:
+[2026.05.19-16.39.55:255][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.39.55:255][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.39.55:255][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.39.55:255][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.39.55:255][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.39.55:255][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.39.55:256][197]AssetCheck: /Game/Horror_Game/UI/WBP-Start_menu Validating asset
+[2026.05.19-16.39.59:261][321]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.40.24:911][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.40.24:911][126]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.40.24:914][126]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.40.24:919][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.40.24:937][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.40.24:947][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.40.24:996][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.40.24:999][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2026.05.19-16.40.24:999][126]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90, StreamState=4
+[2026.05.19-16.40.25:002][126]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90, StreamState=2
+[2026.05.19-16.40.25:021][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.05.19-16.40.25:142][127]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2026.05.19-16.40.25:218][128]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (65 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.20)
+[2026.05.19-16.40.39:407][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.40.39:422][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.40.39:423][700]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.40.39:535][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112883s)
+[2026.05.19-16.40.39:535][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.112936s)
+[2026.05.19-16.40.39:573][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.05.19-16.40.39:579][700]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.40.39:581][700]LogPlayLevel: PIE: World Init took: (0.002376s)
+[2026.05.19-16.40.39:583][700]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.40.39:583][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.40.39:583][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.40.39:583][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.40.39:583][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.40.39:583][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.40.39:586][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.40.39:691][700]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.40.39:691][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.40.39:691][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.40.39:691][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.40.39:691][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2026.05.19-16.40.39:692][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2026.05.19-16.40.39:695][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2026.05.19-16.40.39:695][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2026.05.19-16.40.39:695][700]LogInit: FAudioDevice initialized with ID 91.
+[2026.05.19-16.40.39:695][700]LogAudio: Display: Audio Device (ID: 91) registered with world 'Town_Map'.
+[2026.05.19-16.40.39:695][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2026.05.19-16.40.39:701][700]LogStreaming: Display: FlushAsyncLoading(897): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.40.39:701][700]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.40.39:741][700]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.40.39
+[2026.05.19-16.40.39:743][700]LogWorld: Bringing up level for play took: 0.041583
+[2026.05.19-16.40.39:746][700]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2026.05.19-16.40.39:765][700]PIE: Server logged in
+[2026.05.19-16.40.39:769][700]PIE: Play in editor total start time 0.347 seconds.
+[2026.05.19-16.40.39:788][700]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.40.39:788][700]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.40.41:120][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12151.805664
+[2026.05.19-16.40.41:325][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.40.41:325][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12151.982422, Update Interval: 330.489807
+[2026.05.19-16.40.42:426][787]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.40.43:411][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.40.43:411][817]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.40.43:413][817]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.40.43:419][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.40.43:438][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.40.43:448][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.40.43:488][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.40.43:492][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2026.05.19-16.40.43:492][817]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91, StreamState=4
+[2026.05.19-16.40.43:495][817]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91, StreamState=2
+[2026.05.19-16.40.43:514][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.05.19-16.40.43:630][818]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2026.05.19-16.40.57:294][338]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Horror_Game/Town_Map.Town_Map:PersistentLevel.Town_Map
+[2026.05.19-16.40.57:294][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_158
+[2026.05.19-16.41.17:204][776]LogSlate: Window 'Town_Map' being destroyed
+[2026.05.19-16.42.28:311][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-16.42.28:332][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.42.28:485][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.05.19-16.42.29:169][876]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.42.29:170][876]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map999D260D470B48B8A66273BC9C84A083.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.42.29:202][876]LogFileHelpers: Saving map 'Town_Map' took 0.805
+[2026.05.19-16.42.29:213][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 881.599 ms (total: 18.9 sec)
+[2026.05.19-16.42.29:279][876]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.42.29:279][876]LogContentValidation: Enabled validators:
+[2026.05.19-16.42.29:279][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.42.29:279][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.42.29:279][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.42.29:279][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.42.29:279][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.42.29:279][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.42.29:280][876]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.42.31:001][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.42.31:015][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.42.31:016][931]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.42.31:129][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112700s)
+[2026.05.19-16.42.31:129][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.112760s)
+[2026.05.19-16.42.31:175][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.05.19-16.42.31:181][931]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.42.31:184][931]LogPlayLevel: PIE: World Init took: (0.003037s)
+[2026.05.19-16.42.31:185][931]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.42.31:185][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.42.31:185][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.42.31:185][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.42.31:185][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.42.31:185][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.42.31:189][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.42.31:293][931]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.42.31:294][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.42.31:294][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.42.31:294][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.42.31:294][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2026.05.19-16.42.31:295][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2026.05.19-16.42.31:298][931]LogInit: FAudioDevice initialized with ID 92.
+[2026.05.19-16.42.31:298][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2026.05.19-16.42.31:298][931]LogAudio: Display: Audio Device (ID: 92) registered with world 'Town_Map'.
+[2026.05.19-16.42.31:298][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2026.05.19-16.42.31:298][931]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2026.05.19-16.42.31:304][931]LogStreaming: Display: FlushAsyncLoading(906): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.42.31:304][931]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.42.31:346][931]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.42.31
+[2026.05.19-16.42.31:348][931]LogWorld: Bringing up level for play took: 0.042581
+[2026.05.19-16.42.31:351][931]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2026.05.19-16.42.31:376][931]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.42.31:378][931]PIE: Server logged in
+[2026.05.19-16.42.31:381][931]PIE: Play in editor total start time 0.366 seconds.
+[2026.05.19-16.42.31:402][931]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.42.31:402][931]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.42.31:635][934]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2026.05.19-16.42.36:222][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.42.36:222][ 79]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.42.36:225][ 79]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.42.36:230][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.42.36:259][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.42.36:269][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.42.36:311][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.42.36:312][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2026.05.19-16.42.36:313][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92, StreamState=4
+[2026.05.19-16.42.36:315][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92, StreamState=2
+[2026.05.19-16.42.36:334][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.05.19-16.42.36:436][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2026.05.19-16.42.37:029][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.42.37:043][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.42.37:044][ 96]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.42.37:160][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116131s)
+[2026.05.19-16.42.37:160][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.116184s)
+[2026.05.19-16.42.37:204][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.05.19-16.42.37:210][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.42.37:212][ 96]LogPlayLevel: PIE: World Init took: (0.002629s)
+[2026.05.19-16.42.37:213][ 96]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.42.37:213][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.42.37:213][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.42.37:213][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.42.37:213][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.42.37:213][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.42.37:216][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.42.37:319][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.42.37:320][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.42.37:320][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.42.37:320][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.42.37:321][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2026.05.19-16.42.37:321][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2026.05.19-16.42.37:324][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2026.05.19-16.42.37:324][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2026.05.19-16.42.37:324][ 96]LogInit: FAudioDevice initialized with ID 93.
+[2026.05.19-16.42.37:324][ 96]LogAudio: Display: Audio Device (ID: 93) registered with world 'Town_Map'.
+[2026.05.19-16.42.37:324][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2026.05.19-16.42.37:330][ 96]LogStreaming: Display: FlushAsyncLoading(907): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.42.37:330][ 96]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.42.37:371][ 96]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.42.37
+[2026.05.19-16.42.37:372][ 96]LogWorld: Bringing up level for play took: 0.041765
+[2026.05.19-16.42.37:375][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2026.05.19-16.42.37:400][ 96]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.42.37:402][ 96]PIE: Server logged in
+[2026.05.19-16.42.37:405][ 96]PIE: Play in editor total start time 0.362 seconds.
+[2026.05.19-16.42.37:425][ 96]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.42.37:425][ 96]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.42.37:582][ 99]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2026.05.19-16.42.52:392][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.42.52:392][566]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.42.52:394][566]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.42.52:399][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.42.52:422][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.42.52:432][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.42.52:476][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.42.52:479][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2026.05.19-16.42.52:479][566]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93, StreamState=4
+[2026.05.19-16.42.52:481][566]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93, StreamState=2
+[2026.05.19-16.42.52:503][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.05.19-16.42.52:603][567]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2026.05.19-16.42.54:120][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.42.54:135][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.42.54:135][604]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.42.54:244][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109123s)
+[2026.05.19-16.42.54:244][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.109174s)
+[2026.05.19-16.42.54:284][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.42.54:288][604]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.42.54:291][604]LogPlayLevel: PIE: World Init took: (0.002579s)
+[2026.05.19-16.42.54:293][604]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.42.54:293][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.42.54:293][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.42.54:293][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.42.54:293][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.42.54:293][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.42.54:296][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.42.54:410][604]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.42.54:410][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.42.54:410][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.42.54:410][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.42.54:410][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2026.05.19-16.42.54:410][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2026.05.19-16.42.54:414][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2026.05.19-16.42.54:414][604]LogInit: FAudioDevice initialized with ID 94.
+[2026.05.19-16.42.54:414][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2026.05.19-16.42.54:414][604]LogAudio: Display: Audio Device (ID: 94) registered with world 'Town_Map'.
+[2026.05.19-16.42.54:414][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2026.05.19-16.42.54:420][604]LogStreaming: Display: FlushAsyncLoading(908): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.42.54:420][604]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.42.54:461][604]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.42.54
+[2026.05.19-16.42.54:462][604]LogWorld: Bringing up level for play took: 0.041476
+[2026.05.19-16.42.54:465][604]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2026.05.19-16.42.54:490][604]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.42.54:491][604]PIE: Server logged in
+[2026.05.19-16.42.54:496][604]PIE: Play in editor total start time 0.361 seconds.
+[2026.05.19-16.42.54:516][604]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.42.54:516][604]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.42.54:673][607]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2026.05.19-16.43.25:893][528]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-16.43.25:893][528]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.05.19-16.43.25:893][528]LogBlueprintUserMessages: [BP_NPC-OldmanRosco_C_1] Hello
+[2026.05.19-16.43.29:294][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.43.29:294][636]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.43.29:295][636]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.43.29:301][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.43.29:318][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.43.29:329][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.43.29:375][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.43.29:378][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2026.05.19-16.43.29:378][636]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94, StreamState=4
+[2026.05.19-16.43.29:381][636]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94, StreamState=2
+[2026.05.19-16.43.29:401][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.05.19-16.43.29:502][637]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2026.05.19-16.43.31:979][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.43.31:993][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.43.31:993][697]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.43.32:098][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104830s)
+[2026.05.19-16.43.32:098][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.104891s)
+[2026.05.19-16.43.32:138][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.43.32:142][697]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.43.32:145][697]LogPlayLevel: PIE: World Init took: (0.002465s)
+[2026.05.19-16.43.32:147][697]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.43.32:147][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.43.32:147][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.43.32:147][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.43.32:147][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.43.32:147][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.43.32:150][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.43.32:252][697]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.43.32:252][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.43.32:252][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.43.32:252][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.43.32:253][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2026.05.19-16.43.32:253][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2026.05.19-16.43.32:256][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2026.05.19-16.43.32:256][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2026.05.19-16.43.32:256][697]LogInit: FAudioDevice initialized with ID 95.
+[2026.05.19-16.43.32:256][697]LogAudio: Display: Audio Device (ID: 95) registered with world 'Town_Map'.
+[2026.05.19-16.43.32:256][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2026.05.19-16.43.32:263][697]LogStreaming: Display: FlushAsyncLoading(909): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.43.32:263][697]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.43.32:304][697]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.43.32
+[2026.05.19-16.43.32:305][697]LogWorld: Bringing up level for play took: 0.042019
+[2026.05.19-16.43.32:308][697]LogOnline: OSS: Created online subsystem instance for: :Context_133
+[2026.05.19-16.43.32:334][697]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.43.32:335][697]PIE: Server logged in
+[2026.05.19-16.43.32:339][697]PIE: Play in editor total start time 0.346 seconds.
+[2026.05.19-16.43.32:358][697]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.43.32:358][697]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.43.32:524][700]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2026.05.19-16.43.39:084][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.43.39:084][902]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.43.39:086][902]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.43.39:092][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.43.39:120][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.43.39:130][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.43.39:173][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.43.39:176][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2026.05.19-16.43.39:176][902]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95, StreamState=4
+[2026.05.19-16.43.39:179][902]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95, StreamState=2
+[2026.05.19-16.43.39:198][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.05.19-16.43.39:314][903]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2026.05.19-16.44.17:171][954]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscenes/StartingCutscene.StartingCutscene
+[2026.05.19-16.44.17:260][954]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.05.19-16.44.17:260][954]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.05.19-16.44.17:306][954]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.05.19-16.47.00:636][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12531.349609
+[2026.05.19-16.47.00:873][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.47.00:873][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12531.538086, Update Interval: 353.801697
+[2026.05.19-16.49.02:367][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.05.19-16.49.02:390][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.49.02:542][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.05.19-16.49.03:225][288]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.49.03:225][288]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map9827FD964C1FECF6D5D92CBCAA263566.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.49.03:259][288]LogFileHelpers: Saving map 'Town_Map' took 0.803
+[2026.05.19-16.49.03:270][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 880.043 ms (total: 19.8 sec)
+[2026.05.19-16.49.03:339][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.49.03:339][288]LogContentValidation: Enabled validators:
+[2026.05.19-16.49.03:339][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.49.03:339][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.49.03:339][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.49.03:339][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.49.03:339][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.49.03:339][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.49.03:340][288]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.49.05:174][371]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.49.05:189][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.49.05:189][371]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.49.05:293][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103201s)
+[2026.05.19-16.49.05:293][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.103269s)
+[2026.05.19-16.49.05:335][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.05.19-16.49.05:341][371]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.49.05:344][371]LogPlayLevel: PIE: World Init took: (0.002622s)
+[2026.05.19-16.49.05:345][371]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.49.05:345][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.49.05:345][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.49.05:345][371]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.49.05:345][371]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.49.05:345][371]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.49.05:348][371]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.49.05:463][371]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.49.05:463][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.49.05:463][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.49.05:463][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.49.05:463][371]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2026.05.19-16.49.05:463][371]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2026.05.19-16.49.05:467][371]LogInit: FAudioDevice initialized with ID 96.
+[2026.05.19-16.49.05:467][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2026.05.19-16.49.05:467][371]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2026.05.19-16.49.05:467][371]LogAudio: Display: Audio Device (ID: 96) registered with world 'Town_Map'.
+[2026.05.19-16.49.05:467][371]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 96
+[2026.05.19-16.49.05:474][371]LogStreaming: Display: FlushAsyncLoading(910): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.49.05:474][371]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.49.05:514][371]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.49.05
+[2026.05.19-16.49.05:517][371]LogWorld: Bringing up level for play took: 0.042278
+[2026.05.19-16.49.05:520][371]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2026.05.19-16.49.05:545][371]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.49.05:547][371]PIE: Server logged in
+[2026.05.19-16.49.05:551][371]PIE: Play in editor total start time 0.362 seconds.
+[2026.05.19-16.49.05:570][371]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.49.05:570][371]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.49.06:722][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.49.06:722][405]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.49.06:723][405]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.49.06:732][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.49.06:734][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.49.06:734][405]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Town_Map, Actor: /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map:PersistentLevel.CineCameraActor_2
+[2026.05.19-16.49.06:761][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.49.06:803][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.49.06:806][405]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 96
+[2026.05.19-16.49.06:806][405]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96, StreamState=4
+[2026.05.19-16.49.06:808][405]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96, StreamState=2
+[2026.05.19-16.49.06:827][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.05.19-16.49.06:934][406]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2026.05.19-16.49.16:806][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-16.49.16:825][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.49.16:951][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.05.19-16.49.17:636][405]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.49.17:637][405]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_MapAD10BAD44CD5A910A6E48EBA9FDE244B.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.49.17:673][405]LogFileHelpers: Saving map 'Town_Map' took 0.807
+[2026.05.19-16.49.17:681][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 855.004 ms (total: 20.6 sec)
+[2026.05.19-16.49.17:733][405]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.49.17:733][405]LogContentValidation: Enabled validators:
+[2026.05.19-16.49.17:733][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.49.17:733][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.49.17:733][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.49.17:733][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.49.17:733][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.49.17:733][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.49.17:735][405]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.49.19:318][459]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.49.19:333][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.49.19:333][459]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.49.19:436][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102923s)
+[2026.05.19-16.49.19:436][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.102981s)
+[2026.05.19-16.49.19:478][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.19-16.49.19:483][459]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.49.19:486][459]LogPlayLevel: PIE: World Init took: (0.002437s)
+[2026.05.19-16.49.19:487][459]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.49.19:487][459]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.49.19:487][459]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.49.19:487][459]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.49.19:487][459]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.49.19:487][459]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.49.19:490][459]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.49.19:594][459]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.49.19:594][459]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.49.19:595][459]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.49.19:595][459]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.49.19:595][459]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2026.05.19-16.49.19:595][459]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2026.05.19-16.49.19:599][459]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2026.05.19-16.49.19:599][459]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2026.05.19-16.49.19:599][459]LogInit: FAudioDevice initialized with ID 97.
+[2026.05.19-16.49.19:599][459]LogAudio: Display: Audio Device (ID: 97) registered with world 'Town_Map'.
+[2026.05.19-16.49.19:599][459]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 97
+[2026.05.19-16.49.19:605][459]LogStreaming: Display: FlushAsyncLoading(911): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.49.19:605][459]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.49.19:646][459]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.49.19
+[2026.05.19-16.49.19:648][459]LogWorld: Bringing up level for play took: 0.042201
+[2026.05.19-16.49.19:651][459]LogOnline: OSS: Created online subsystem instance for: :Context_135
+[2026.05.19-16.49.19:676][459]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.49.19:677][459]PIE: Server logged in
+[2026.05.19-16.49.19:681][459]PIE: Play in editor total start time 0.349 seconds.
+[2026.05.19-16.49.19:701][459]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.49.19:701][459]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.49.20:290][476]LogStreaming: Display: FlushAsyncLoading(912): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.49.22:452][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.49.22:452][551]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.49.22:454][551]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.49.22:460][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.49.22:466][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.49.22:466][551]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Town_Map, Actor: /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map:PersistentLevel.CineCameraActor_2
+[2026.05.19-16.49.22:494][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.49.22:539][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.49.22:543][551]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 97
+[2026.05.19-16.49.22:543][551]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97, StreamState=4
+[2026.05.19-16.49.22:545][551]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97, StreamState=2
+[2026.05.19-16.49.22:566][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.05.19-16.49.22:669][552]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2026.05.19-16.49.27:690][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.05.19-16.49.27:710][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.49.27:836][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.19-16.49.28:537][984]LogSavePackage: Moving output files for package: /Game/Horror_Game/Town_Map
+[2026.05.19-16.49.28:538][984]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Town_Map2B97095B49355D1B0FE0F1960E5B2718.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Town_Map.umap'
+[2026.05.19-16.49.28:575][984]LogFileHelpers: Saving map 'Town_Map' took 0.824
+[2026.05.19-16.49.28:582][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 872.250 ms (total: 21.5 sec)
+[2026.05.19-16.49.28:650][984]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.49.28:650][984]LogContentValidation: Enabled validators:
+[2026.05.19-16.49.28:650][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.49.28:651][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.49.28:651][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.49.28:651][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.49.28:651][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.49.28:651][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.49.28:652][984]AssetCheck: /Game/Horror_Game/Town_Map Validating asset
+[2026.05.19-16.49.30:495][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.49.30:510][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.49.30:511][ 86]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.49.30:615][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104534s)
+[2026.05.19-16.49.30:615][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Town_Map.Town_Map to /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map (0.104586s)
+[2026.05.19-16.49.30:658][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.05.19-16.49.30:663][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.49.30:666][ 86]LogPlayLevel: PIE: World Init took: (0.002465s)
+[2026.05.19-16.49.30:667][ 86]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.49.30:667][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.49.30:667][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.49.30:667][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.49.30:667][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.49.30:667][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.49.30:670][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.49.30:776][ 86]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.49.30:777][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.49.30:777][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.49.30:777][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.49.30:777][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2026.05.19-16.49.30:777][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2026.05.19-16.49.30:780][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2026.05.19-16.49.30:780][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2026.05.19-16.49.30:780][ 86]LogInit: FAudioDevice initialized with ID 98.
+[2026.05.19-16.49.30:780][ 86]LogAudio: Display: Audio Device (ID: 98) registered with world 'Town_Map'.
+[2026.05.19-16.49.30:780][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 98
+[2026.05.19-16.49.30:786][ 86]LogStreaming: Display: FlushAsyncLoading(920): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.49.30:786][ 86]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.49.30:828][ 86]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.49.30
+[2026.05.19-16.49.30:829][ 86]LogWorld: Bringing up level for play took: 0.042203
+[2026.05.19-16.49.30:832][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2026.05.19-16.49.30:857][ 86]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.49.30:858][ 86]PIE: Server logged in
+[2026.05.19-16.49.30:862][ 86]PIE: Play in editor total start time 0.353 seconds.
+[2026.05.19-16.49.30:882][ 86]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.49.30:882][ 86]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.49.50:487][777]LogStreaming: Display: FlushAsyncLoading(921): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.49.58:834][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.49.58:834][ 53]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.49.58:834][ 53]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.49.58:843][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.49.58:846][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.49.58:846][ 53]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Town_Map, Actor: /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map:PersistentLevel.CineCameraActor_2
+[2026.05.19-16.49.58:873][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.49.58:917][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.49.58:920][ 53]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 98
+[2026.05.19-16.49.58:920][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98, StreamState=4
+[2026.05.19-16.49.58:923][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98, StreamState=2
+[2026.05.19-16.49.58:943][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.19-16.49.59:062][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2026.05.19-16.50.12:707][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.05.19-16.50.13:705][498]LogSlate: Window 'Save Content' being destroyed
+[2026.05.19-16.50.13:722][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.50.13:774][498]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscenes/StartingCutscene] ([1] browsable assets)...
+[2026.05.19-16.50.13:774][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscenes/StartingCutscene]
+[2026.05.19-16.50.13:791][498]LogSavePackage: Moving output files for package: /Game/Cutscenes/StartingCutscene
+[2026.05.19-16.50.13:792][498]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/StartingCutsceneD17611474B1EAD784F8DBCAAA693547B.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Cutscenes/StartingCutscene.uasset'
+[2026.05.19-16.50.13:857][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.684 ms (total: 21.6 sec)
+[2026.05.19-16.50.13:857][498]LogStreaming: Display: FlushAsyncLoading(929): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.50.13:918][498]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.50.13:922][498]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Horror_Game/Main_Menu.Main_Menu
+[2026.05.19-16.50.13:922][498]Cmd: MAP LOAD FILE="../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.05.19-16.50.13:972][498]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.05.19-16.50.13:981][498]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.05.19-16.50.14:100][498]LogWorld: UWorld::CleanupWorld for World_158, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.50.14:100][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.14:153][498]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.50.14:154][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.14:205][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.50.14:221][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2026.05.19-16.50.14:241][498]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.50.14:241][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.14:288][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.05.19-16.50.14:333][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.19-16.50.14:380][498]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2026.05.19-16.50.14:380][498]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.50.14:422][498]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.19-16.50.14:468][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.50.14:494][498]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.19-16.50.14:494][498]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2026.05.19-16.50.14:574][498]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.50.14:574][498]LogContentValidation: Enabled validators:
+[2026.05.19-16.50.14:574][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.50.14:574][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.50.14:574][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.50.14:574][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.50.14:574][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.50.14:574][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.50.14:574][498]AssetCheck: /Game/Cutscenes/StartingCutscene Validating asset
+[2026.05.19-16.50.14:952][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.05.19-16.50.16:482][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.50.16:497][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.50.16:497][578]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.50.16:505][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006781s)
+[2026.05.19-16.50.16:505][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006832s)
+[2026.05.19-16.50.16:548][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.19-16.50.16:554][578]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.50.16:556][578]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2026.05.19-16.50.16:557][578]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.50.16:557][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.50.16:557][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.50.16:557][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.50.16:557][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.50.16:557][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.50.16:561][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.50.16:666][578]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.50.16:666][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.50.16:666][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.50.16:666][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.50.16:667][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=99
+[2026.05.19-16.50.16:667][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=99
+[2026.05.19-16.50.16:670][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=99
+[2026.05.19-16.50.16:670][578]LogInit: FAudioDevice initialized with ID 99.
+[2026.05.19-16.50.16:670][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=99
+[2026.05.19-16.50.16:670][578]LogAudio: Display: Audio Device (ID: 99) registered with world 'Main_Menu'.
+[2026.05.19-16.50.16:670][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 99
+[2026.05.19-16.50.16:677][578]LogStreaming: Display: FlushAsyncLoading(931): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.50.16:679][578]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.50.16:685][578]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-17.50.16
+[2026.05.19-16.50.16:686][578]LogWorld: Bringing up level for play took: 0.005908
+[2026.05.19-16.50.16:689][578]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2026.05.19-16.50.16:697][578]PIE: Server logged in
+[2026.05.19-16.50.16:701][578]PIE: Play in editor total start time 0.204 seconds.
+[2026.05.19-16.50.25:355][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.50.25:355][246]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.50.25:355][246]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.50.25:356][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.25:357][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.50.25:365][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.25:405][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.50.25:406][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 99
+[2026.05.19-16.50.25:406][246]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99, StreamState=4
+[2026.05.19-16.50.25:408][246]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99, StreamState=2
+[2026.05.19-16.50.25:421][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.05.19-16.50.25:478][247]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2026.05.19-16.50.25:646][259]Cmd: SELECT NONE
+[2026.05.19-16.50.27:502][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.50.27:516][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.50.27:564][418]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.50.27:571][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006450s)
+[2026.05.19-16.50.27:571][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006505s)
+[2026.05.19-16.50.27:610][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.05.19-16.50.27:615][418]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.50.27:619][418]LogPlayLevel: PIE: World Init took: (0.004069s)
+[2026.05.19-16.50.27:620][418]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.50.27:620][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.50.27:620][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.50.27:620][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.50.27:620][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.50.27:620][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.50.27:623][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.50.27:735][418]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.50.27:735][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.50.27:736][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.50.27:736][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.50.27:736][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=100
+[2026.05.19-16.50.27:736][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=100
+[2026.05.19-16.50.27:740][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=100
+[2026.05.19-16.50.27:740][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=100
+[2026.05.19-16.50.27:740][418]LogInit: FAudioDevice initialized with ID 100.
+[2026.05.19-16.50.27:740][418]LogAudio: Display: Audio Device (ID: 100) registered with world 'Main_Menu'.
+[2026.05.19-16.50.27:740][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 100
+[2026.05.19-16.50.27:745][418]LogStreaming: Display: FlushAsyncLoading(933): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.50.27:745][418]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.50.27:748][418]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-17.50.27
+[2026.05.19-16.50.27:749][418]LogWorld: Bringing up level for play took: 0.003505
+[2026.05.19-16.50.27:752][418]LogOnline: OSS: Created online subsystem instance for: :Context_138
+[2026.05.19-16.50.27:761][418]PIE: Server logged in
+[2026.05.19-16.50.27:764][418]PIE: Play in editor total start time 0.249 seconds.
+[2026.05.19-16.50.28:745][488]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.05.19-16.50.28:747][488]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Horror_Game/Town_Map"
+[2026.05.19-16.50.28:747][488]LogNet: Browse: /Game/Horror_Game/Town_Map
+[2026.05.19-16.50.28:747][488]LogLoad: LoadMap: /Game/Horror_Game/Town_Map
+[2026.05.19-16.50.28:747][488]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.50.28:749][488]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.50.28:749][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.28:791][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.50.28:795][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.05.19-16.50.28:801][488]LogStreaming: Display: FlushAsyncLoading(934): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.50.29:048][488]LogAudio: Display: Audio Device (ID: 100) registered with world 'Town_Map'.
+[2026.05.19-16.50.29:048][488]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.50.29:050][488]LogPlayLevel: PIE: World Init took: (0.002475s)
+[2026.05.19-16.50.29:051][488]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.50.29:194][488]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.50.29
+[2026.05.19-16.50.29:195][488]LogWorld: Bringing up level for play took: 0.131345
+[2026.05.19-16.50.29:220][488]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.50.29:220][488]LogLoad: Took 0.472742 seconds to LoadMap(/Game/Horror_Game/Town_Map)
+[2026.05.19-16.50.29:220][488]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Horror_Game/Town_Map
+[2026.05.19-16.50.29:250][488]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.50.29:250][488]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.50.29:404][491]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2026.05.19-16.50.32:735][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.50.32:735][594]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.50.32:737][594]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.50.32:742][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.32:758][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.50.32:767][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.50.32:815][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.50.32:816][594]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 100
+[2026.05.19-16.50.32:816][594]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100, StreamState=4
+[2026.05.19-16.50.32:818][594]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100, StreamState=2
+[2026.05.19-16.50.32:839][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.05.19-16.50.32:899][595]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2026.05.19-16.50.36:516][877]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Horror_Game/Main_Menu.Main_Menu:PersistentLevel.Main_Menu
+[2026.05.19-16.50.36:516][877]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_159
+[2026.05.19-16.51.35:321][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.51.35:338][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.51.35:482][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.51.35:523][399]LogSavePackage: Moving output files for package: /Game/Horror_Game/Main_Menu
+[2026.05.19-16.51.35:524][399]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Main_MenuEE6A71704A4431C85EC6A084396C98A0.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Main_Menu.umap'
+[2026.05.19-16.51.35:548][399]LogFileHelpers: Saving map 'Main_Menu' took 0.151
+[2026.05.19-16.51.35:558][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.495 ms (total: 21.9 sec)
+[2026.05.19-16.51.35:627][399]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.51.35:627][399]LogContentValidation: Enabled validators:
+[2026.05.19-16.51.35:627][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.51.35:627][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.51.35:627][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.51.35:627][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.51.35:627][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.51.35:627][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.51.35:628][399]AssetCheck: /Game/Horror_Game/Main_Menu Validating asset
+[2026.05.19-16.51.36:541][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.51.36:676][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.19-16.51.36:715][454]LogSavePackage: Moving output files for package: /Game/Horror_Game/Main_Menu
+[2026.05.19-16.51.36:716][454]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Main_Menu9F6153A24032D972548AC58666C6B437.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Main_Menu.umap'
+[2026.05.19-16.51.36:739][454]LogFileHelpers: Saving map 'Main_Menu' took 0.145
+[2026.05.19-16.51.36:750][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.818 ms (total: 22.1 sec)
+[2026.05.19-16.51.36:810][454]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.51.36:810][454]LogContentValidation: Enabled validators:
+[2026.05.19-16.51.36:810][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.51.36:810][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.51.36:810][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.51.36:811][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.51.36:811][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.51.36:811][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.51.36:811][454]AssetCheck: /Game/Horror_Game/Main_Menu Validating asset
+[2026.05.19-16.52.17:690][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.19-16.52.17:707][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-16.52.17:840][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.19-16.52.17:879][ 81]LogSavePackage: Moving output files for package: /Game/Horror_Game/Main_Menu
+[2026.05.19-16.52.17:880][ 81]LogSavePackage: Moving '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Saved/Main_MenuBE2DB3CA4B8E45A48EDA8EA49DCDBBA9.tmp' to '../../../../../../Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Content/Horror_Game/Main_Menu.umap'
+[2026.05.19-16.52.17:903][ 81]LogFileHelpers: Saving map 'Main_Menu' took 0.144
+[2026.05.19-16.52.17:913][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.625 ms (total: 22.3 sec)
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: Enabled validators:
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-16.52.17:977][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-16.52.17:977][ 81]AssetCheck: /Game/Horror_Game/Main_Menu Validating asset
+[2026.05.19-16.52.19:152][153]LogSlate: Window 'Main_Menu' being destroyed
+[2026.05.19-16.52.19:158][153]LogSlate: Window 'Main_Menu' being destroyed
+[2026.05.19-16.52.19:168][153]LogWorld: UWorld::CleanupWorld for World_159, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.52.19:168][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.52.19:259][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.19-16.52.20:091][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.19-16.52.20:104][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.19-16.52.20:104][225]LogPlayLevel: Creating play world package: /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.52.20:111][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006559s)
+[2026.05.19-16.52.20:111][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Horror_Game/Main_Menu.Main_Menu to /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu (0.006605s)
+[2026.05.19-16.52.20:150][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.05.19-16.52.20:155][225]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.05.19-16.52.20:159][225]LogPlayLevel: PIE: World Init took: (0.004083s)
+[2026.05.19-16.52.20:160][225]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.19-16.52.20:160][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.19-16.52.20:160][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.19-16.52.20:160][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.19-16.52.20:160][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.19-16.52.20:160][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.19-16.52.20:163][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.19-16.52.20:270][225]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2026.05.19-16.52.20:270][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.19-16.52.20:270][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.19-16.52.20:270][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.19-16.52.20:270][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=101
+[2026.05.19-16.52.20:270][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=101
+[2026.05.19-16.52.20:274][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=101
+[2026.05.19-16.52.20:274][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=101
+[2026.05.19-16.52.20:274][225]LogInit: FAudioDevice initialized with ID 101.
+[2026.05.19-16.52.20:275][225]LogAudio: Display: Audio Device (ID: 101) registered with world 'Main_Menu'.
+[2026.05.19-16.52.20:275][225]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 101
+[2026.05.19-16.52.20:281][225]LogStreaming: Display: FlushAsyncLoading(936): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.20:281][225]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.52.20:285][225]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.05.19-17.52.20
+[2026.05.19-16.52.20:285][225]LogWorld: Bringing up level for play took: 0.003450
+[2026.05.19-16.52.20:288][225]LogOnline: OSS: Created online subsystem instance for: :Context_140
+[2026.05.19-16.52.20:297][225]PIE: Server logged in
+[2026.05.19-16.52.20:300][225]PIE: Play in editor total start time 0.197 seconds.
+[2026.05.19-16.52.20:307][225]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.52.20:307][225]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.52.25:742][652]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.05.19-16.52.25:744][652]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Horror_Game/Town_Map"
+[2026.05.19-16.52.25:744][652]LogNet: Browse: /Game/Horror_Game/Town_Map
+[2026.05.19-16.52.25:744][652]LogLoad: LoadMap: /Game/Horror_Game/Town_Map
+[2026.05.19-16.52.25:744][652]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Main_Menu
+[2026.05.19-16.52.25:745][652]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.52.25:746][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.52.25:817][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.19-16.52.25:822][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.05.19-16.52.25:827][652]LogStreaming: Display: FlushAsyncLoading(937): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.26:069][652]LogAudio: Display: Audio Device (ID: 101) registered with world 'Town_Map'.
+[2026.05.19-16.52.26:069][652]LogChaosDD: Creating Chaos Debug Draw Scene for world Town_Map
+[2026.05.19-16.52.26:071][652]LogPlayLevel: PIE: World Init took: (0.002370s)
+[2026.05.19-16.52.26:071][652]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.19-16.52.26:236][652]LogWorld: Bringing World /Game/Horror_Game/UEDPIE_0_Town_Map.Town_Map up for play (max tick rate 0) at 2026.05.19-17.52.26
+[2026.05.19-16.52.26:238][652]LogWorld: Bringing up level for play took: 0.152187
+[2026.05.19-16.52.26:261][652]LogMovieScene: Starting new camera cut: 'CineCameraActor_0'
+[2026.05.19-16.52.26:262][652]LogLoad: Took 0.517799 seconds to LoadMap(/Game/Horror_Game/Town_Map)
+[2026.05.19-16.52.26:262][652]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Horror_Game/Town_Map
+[2026.05.19-16.52.26:292][652]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'boons_freak-rain-sound-188158'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.52.26:292][652]LogAudio: Warning: Detected orphaned sound which is not a one-shot '36301272-forest-ambiance-light-wind-birds-screeching-trees-158554'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.05.19-16.52.26:483][655]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2026.05.19-16.52.45:944][274]LogStreaming: Display: FlushAsyncLoading(939): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.45:954][274]LoadErrors: Error: The summary for the package '/DialogQuestSystem/UI/Themes/DA_DQS_DefaultUITheme' is invalid. Check that the file is of the expected type and not corrupted.
+[2026.05.19-16.52.54:195][541]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.19-16.52.54:196][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.05.19-16.52.54:196][541]LogStreaming: Display: FlushAsyncLoading(947): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.54:200][541]LogBlueprintUserMessages: [BP_NPC-OldmanRosco_C_1] Hello
+[2026.05.19-16.52.55:599][584]LogStreaming: Display: FlushAsyncLoading(950): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.57:531][643]LogStreaming: Display: FlushAsyncLoading(953): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.58:193][663]LogStreaming: Display: FlushAsyncLoading(956): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.58:588][675]LogStreaming: Display: FlushAsyncLoading(959): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.58:816][682]LogStreaming: Display: FlushAsyncLoading(962): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.59:174][693]LogStreaming: Display: FlushAsyncLoading(965): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.52.59:664][708]LogStreaming: Display: FlushAsyncLoading(968): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.00:188][724]LogStreaming: Display: FlushAsyncLoading(971): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.00:710][740]LogStreaming: Display: FlushAsyncLoading(974): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.01:241][756]LogStreaming: Display: FlushAsyncLoading(977): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.01:731][771]LogStreaming: Display: FlushAsyncLoading(980): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.02:219][786]LogStreaming: Display: FlushAsyncLoading(983): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.02:709][801]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.19-16.53.02:709][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.05.19-16.53.02:709][801]LogStreaming: Display: FlushAsyncLoading(986): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.19-16.53.03:444][822]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.17)
+[2026.05.19-16.53.06:499][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.53.06:499][908]LogWorld: BeginTearingDown for /Game/Horror_Game/UEDPIE_0_Town_Map
+[2026.05.19-16.53.06:500][908]LogWorld: UWorld::CleanupWorld for Town_Map, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.53.06:506][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.53.06:542][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.19-16.53.06:553][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.53.06:607][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.19-16.53.06:607][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 101
+[2026.05.19-16.53.06:607][908]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101, StreamState=4
+[2026.05.19-16.53.06:610][908]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101, StreamState=2
+[2026.05.19-16.53.06:632][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.05.19-16.53.06:693][909]LogPlayLevel: Display: Destroying online subsystem :Context_140
