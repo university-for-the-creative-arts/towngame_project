@@ -13410,3 +13410,13 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.19-16.53.06:610][908]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101, StreamState=2
 [2026.05.19-16.53.06:632][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
 [2026.05.19-16.53.06:693][909]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2026.05.19-16.53.29:151][412]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Horror_Game/Main_Menu.Main_Menu:PersistentLevel.Main_Menu
+[2026.05.19-16.53.29:151][412]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_160
+[2026.05.19-16.53.43:937][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12934.655273
+[2026.05.19-16.53.44:938][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-16.53.44:938][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12935.322266, Update Interval: 352.481445
+[2026.05.19-16.57.47:344][622]LogSlate: Window 'Main_Menu' being destroyed
+[2026.05.19-16.57.47:348][622]LogSlate: Window 'Main_Menu' being destroyed
+[2026.05.19-16.57.47:392][622]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2026.05.19-16.57.47:392][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.19-16.57.47:628][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
