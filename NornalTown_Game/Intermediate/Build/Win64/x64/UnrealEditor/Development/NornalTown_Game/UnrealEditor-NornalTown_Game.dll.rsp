@@ -36,9 +36,9 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Module.NornalTown_Game.cpp.obj"
-"C:/Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Default.rc2.res"
+"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Module.NornalTown_Game.cpp.obj"
+"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/UnrealEditor/Development/NornalTown_Game/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "delayimp.lib"
 "wininet.lib"
@@ -65,6 +65,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Binaries/Win64/UnrealEditor-NornalTown_Game.dll"
-/PDB:"C:/Users/2504926/Documents/GitHub/TownGame_Project/NornalTown_Game/Binaries/Win64/UnrealEditor-NornalTown_Game.pdb"
+/OUT:"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Binaries/Win64/UnrealEditor-NornalTown_Game.dll"
+/PDB:"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Binaries/Win64/UnrealEditor-NornalTown_Game.pdb"
 /ignore:4078
