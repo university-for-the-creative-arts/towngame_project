@@ -2,9 +2,9 @@
 
 **Interactive Narrative** \[Insert Unit Name]
 
-**Student Name:** \[Your Full Name]
+**Game Development Student Name:** \[Your Full Name]
 
-**Student ID:** \[UCA ID]
+**Game Development Student ID:** \[UCA ID]
 
 **Total Word Count:** \[XXXX]
 
