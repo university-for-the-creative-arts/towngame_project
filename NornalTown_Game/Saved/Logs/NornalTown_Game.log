@@ -10917,3 +10917,44 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.19-14.54.56:533][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5807.196289
 [2026.05.19-14.54.57:533][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.19-14.54.57:533][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5807.863281, Update Interval: 331.848511
+[2026.05.19-15.01.13:261][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6183.922363
+[2026.05.19-15.01.14:262][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.01.14:262][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6184.589844, Update Interval: 321.244537
+[2026.05.19-15.02.29:691][624]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.05.19-15.02.29:693][624]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.05.19-15.02.29:792][624]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.05.19-15.02.29:793][624]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.05.19-15.07.17:649][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6548.308594
+[2026.05.19-15.07.18:649][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.07.18:649][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6548.975586, Update Interval: 342.606293
+[2026.05.19-15.10.27:406][ 57]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-15.10.27:406][ 57]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-15.10.27:406][ 57]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-15.10.27:406][ 57]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-15.10.27:406][ 57]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-15.10.27:406][ 57]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.8:63119, Sequence=0
+[2026.05.19-15.13.52:698][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6943.353027
+[2026.05.19-15.13.53:698][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.13.53:698][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6944.020508, Update Interval: 341.216461
+[2026.05.19-15.19.59:012][771]LogDerivedDataCache: C:/Users/2504926/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.19-15.20.33:418][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7344.072266
+[2026.05.19-15.20.34:419][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.19-15.20.34:419][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7344.738281, Update Interval: 343.137299
+[2026.05.19-15.21.52:330][111]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers / Headphones (Realtek Audio), InstanceID=1
+[2026.05.19-15.21.52:331][111]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{ff23b27d-384d-49fd-863b-b53f64c77e83}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.19-15.21.52:331][111]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers / Headphones (Realtek Audio), InstanceID=80
+[2026.05.19-15.21.52:331][111]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{ff23b27d-384d-49fd-863b-b53f64c77e83}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.19-15.21.52:427][111]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{ff23b27d-384d-49fd-863b-b53f64c77e83}]
+[2026.05.19-15.21.52:427][111]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.19-15.21.52:427][111]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{ff23b27d-384d-49fd-863b-b53f64c77e83}]
+[2026.05.19-15.21.52:427][111]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.19-15.21.52:427][111]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.19-15.21.52:427][111]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.19-15.21.53:431][114]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ff23b27d-384d-49fd-863b-b53f64c77e83}, Name=Speakers / Headphones (Realtek Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=685.74
+[2026.05.19-15.21.53:431][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.19-15.21.53:431][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.19-15.21.53:434][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.19-15.21.53:438][114]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ff23b27d-384d-49fd-863b-b53f64c77e83}, Name=Speakers / Headphones (Realtek Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=80, DurationMS=758.76
+[2026.05.19-15.21.53:438][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2026.05.19-15.21.53:438][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2026.05.19-15.21.53:440][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
