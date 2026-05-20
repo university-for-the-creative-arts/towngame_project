@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\2417142\\downloads\\towngame_project-main\\towngame_project-main\\nornaltown_game 5.6\\plugins\\dialogquestsystem\\source\\dqsui\\private\\dqsuimodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\2417142\\downloads\\towngame_project-main\\towngame_project-main\\nornaltown_game 5.6\\intermediate\\build\\win64\\x64\\nornaltown_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\2417142\\downloads\\towngame_project-main\\towngame_project-main\\nornaltown_game 5.6\\plugins\\dialogquestsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dqsui\\definitions.dqsui.h",
+            "c:\\users\\2417142\\downloads\\towngame_project-main\\towngame_project-main\\nornaltown_game 5.6\\plugins\\dialogquestsystem\\source\\dqsui\\public\\dqsuimodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

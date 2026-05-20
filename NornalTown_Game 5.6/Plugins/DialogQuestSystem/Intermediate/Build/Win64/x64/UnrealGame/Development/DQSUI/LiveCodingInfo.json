@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DQSUI.cpp.obj": [
+			"DQSDefaultDialogueWidget.gen.cpp.obj",
+			"DQSDefaultQuestLogWidget.gen.cpp.obj",
+			"DQSDefaultQuestTrackerWidget.gen.cpp.obj",
+			"DQSDialogueViewModel.gen.cpp.obj",
+			"DQSDialogueWidgetBase.gen.cpp.obj",
+			"DQSQuestLogWidgetBase.gen.cpp.obj",
+			"DQSQuestTrackerWidgetBase.gen.cpp.obj",
+			"DQSQuestViewModel.gen.cpp.obj",
+			"DQSUI.init.gen.cpp.obj",
+			"DQSUISettings.gen.cpp.obj",
+			"DQSDefaultDialogueWidget.cpp.obj",
+			"DQSDefaultQuestLogWidget.cpp.obj",
+			"DQSDefaultQuestTrackerWidget.cpp.obj",
+			"DQSDialogueViewModel.cpp.obj",
+			"DQSDialogueWidgetBase.cpp.obj",
+			"DQSQuestLogWidgetBase.cpp.obj",
+			"DQSQuestTrackerWidgetBase.cpp.obj",
+			"DQSQuestViewModel.cpp.obj",
+			"DQSUIModule.cpp.obj",
+			"DQSUISettings.cpp.obj"
+		]
+	}
+}
