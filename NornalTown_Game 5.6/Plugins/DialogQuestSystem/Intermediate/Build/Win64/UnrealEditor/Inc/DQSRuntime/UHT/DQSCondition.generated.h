@@ -20,15 +20,15 @@ class UDialogQuestSubsystem;
 class UObject;
 
 // ********** Begin Class UDQSCondition ************************************************************
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDescribeCondition); \
 	DECLARE_FUNCTION(execEvaluate);
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_CALLBACK_WRAPPERS
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_CALLBACK_WRAPPERS
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDQSCondition_NoRegister();
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSCondition(); \
 	friend struct Z_Construct_UClass_UDQSCondition_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSCondition)
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSCondition(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -51,14 +51,14 @@ public: \
 	NO_API virtual ~UDQSCondition();
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_21_PROLOG
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_21_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_CALLBACK_WRAPPERS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_INCLASS_NO_PURE_DECLS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_CALLBACK_WRAPPERS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -70,7 +70,7 @@ class UDQSCondition;
 // ********** Begin Class UDQSCondition_HasTag *****************************************************
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDQSCondition_HasTag_NoRegister();
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSCondition_HasTag(); \
 	friend struct Z_Construct_UClass_UDQSCondition_HasTag_Statics; \
@@ -81,7 +81,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSCondition_HasTag)
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSCondition_HasTag(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -93,12 +93,12 @@ public: \
 	NO_API virtual ~UDQSCondition_HasTag();
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_38_PROLOG
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_38_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_INCLASS_NO_PURE_DECLS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_41_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -110,7 +110,7 @@ class UDQSCondition_HasTag;
 // ********** Begin Class UDQSCondition_BoolVariable ***********************************************
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDQSCondition_BoolVariable_NoRegister();
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSCondition_BoolVariable(); \
 	friend struct Z_Construct_UClass_UDQSCondition_BoolVariable_Statics; \
@@ -121,7 +121,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSCondition_BoolVariable)
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSCondition_BoolVariable(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -133,12 +133,12 @@ public: \
 	NO_API virtual ~UDQSCondition_BoolVariable();
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_54_PROLOG
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_54_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_INCLASS_NO_PURE_DECLS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_57_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -150,7 +150,7 @@ class UDQSCondition_BoolVariable;
 // ********** Begin Class UDQSCondition_IntVariable ************************************************
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDQSCondition_IntVariable_NoRegister();
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSCondition_IntVariable(); \
 	friend struct Z_Construct_UClass_UDQSCondition_IntVariable_Statics; \
@@ -161,7 +161,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSCondition_IntVariable)
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSCondition_IntVariable(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -173,12 +173,12 @@ public: \
 	NO_API virtual ~UDQSCondition_IntVariable();
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_79_PROLOG
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_79_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_INCLASS_NO_PURE_DECLS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_82_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -190,7 +190,7 @@ class UDQSCondition_IntVariable;
 // ********** Begin Class UDQSCondition_QuestStatus ************************************************
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDQSCondition_QuestStatus_NoRegister();
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSCondition_QuestStatus(); \
 	friend struct Z_Construct_UClass_UDQSCondition_QuestStatus_Statics; \
@@ -201,7 +201,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSCondition_QuestStatus)
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSCondition_QuestStatus(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -213,12 +213,12 @@ public: \
 	NO_API virtual ~UDQSCondition_QuestStatus();
 
 
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_107_PROLOG
-#define FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_107_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_INCLASS_NO_PURE_DECLS \
-	FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h_110_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -228,7 +228,7 @@ class UDQSCondition_QuestStatus;
 // ********** End Class UDQSCondition_QuestStatus **************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2417142_Downloads_TownGame_Project_main_TownGame_Project_main_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h
+#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSCondition_h
 
 // ********** Begin Enum EDQSIntComparisonOperation ************************************************
 #define FOREACH_ENUM_EDQSINTCOMPARISONOPERATION(op) \

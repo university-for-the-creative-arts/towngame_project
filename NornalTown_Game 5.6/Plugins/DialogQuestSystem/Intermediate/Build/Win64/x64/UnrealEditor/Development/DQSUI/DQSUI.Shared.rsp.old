@@ -288,7 +288,7 @@
 /I "Editor/AnimationEditMode/Public"
 /I "C:/Users/2417142/Downloads/TownGame_Project-main/TownGame_Project-main/NornalTown_Game 5.6/Plugins/DialogQuestSystem/Intermediate/Build/Win64/UnrealEditor/Inc/DQSRuntime/UHT"
 /I "C:/Users/2417142/Downloads/TownGame_Project-main/TownGame_Project-main/NornalTown_Game 5.6/Plugins/DialogQuestSystem/Source/DQSRuntime/Public"
-/I "C:/Users/2417142/Downloads/TownGame_Project-main/TownGame_Project-main/NornalTown_Game 5.6/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd"
+/I "C:/Users/2417142/Downloads/TownGame_Project-main/TownGame_Project-main/NornalTown_Game 5.6/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/UnrealEd"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"
