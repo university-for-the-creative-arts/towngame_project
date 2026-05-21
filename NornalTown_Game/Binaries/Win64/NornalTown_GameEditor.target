@@ -26,31 +26,7 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.pdb",
-			"Type": "SymbolFile"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidDeviceDetection.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidPlatformEditor.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidRuntimeSettings.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatform.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatformControls.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/Android/UnrealEditor-AndroidTargetPlatformSettings.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -1626,15 +1602,7 @@
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatASTC.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatDXT.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor-TextureFormatETC2.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
@@ -1896,14 +1864,6 @@
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealEditor.version",
 			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/astcenc_thunk_win64_4.2.0.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/astcenc_thunk_win64_5.0.1.dll",
-			"Type": "DynamicLibrary"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/oo2tex_win64_2.9.10.dll",
@@ -24868,10 +24828,6 @@
 			"Type": "NonUFS"
 		},
 		{
-			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.pdb",
-			"Type": "DebugNonUFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/Win64/EOSSDK-Win64-Shipping.dll",
 			"Type": "NonUFS"
 		},
@@ -24885,14 +24841,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UnrealBuildAccelerator/x64/UbaHost.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/astcenc_thunk_win64_4.2.0.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Win64/astcenc_thunk_win64_5.0.1.dll",
 			"Type": "NonUFS"
 		},
 		{

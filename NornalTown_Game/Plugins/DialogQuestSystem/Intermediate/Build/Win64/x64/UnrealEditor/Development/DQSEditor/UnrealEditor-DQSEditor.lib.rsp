@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-DQSEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSEditor/Module.DQSEditor.cpp.obj"
-"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSEditor/Default.rc2.res"
-/OUT:"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSEditor/UnrealEditor-DQSEditor.lib"
+"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSEditor/Module.DQSEditor.cpp.obj"
+"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSEditor/Default.rc2.res"
+/OUT:"C:/Users/sasha/OneDrive/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSEditor/UnrealEditor-DQSEditor.lib"

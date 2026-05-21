@@ -866,7 +866,7 @@ UDQSAction_TriggerDialogueEvent::~UDQSAction_TriggerDialogueEvent() {}
 // ********** End Class UDQSAction_TriggerDialogueEvent ********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics
+struct Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EDQSDialogueEventTargetMode_StaticEnum, TEXT("EDQSDialogueEventTargetMode"), &Z_Registration_Info_UEnum_EDQSDialogueEventTargetMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3575262926U) },
@@ -880,10 +880,10 @@ struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project
 		{ Z_Construct_UClass_UDQSAction_TriggerDialogueEvent, UDQSAction_TriggerDialogueEvent::StaticClass, TEXT("UDQSAction_TriggerDialogueEvent"), &Z_Registration_Info_UClass_UDQSAction_TriggerDialogueEvent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDQSAction_TriggerDialogueEvent), 2691739499U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_1754113993(TEXT("/Script/DQSRuntime"),
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_1754113993(TEXT("/Script/DQSRuntime"),
+	Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::ClassInfo),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSAction_h__Script_DQSRuntime_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -231,14 +231,14 @@ UDQSDefaultQuestTrackerWidget::~UDQSDefaultQuestTrackerWidget() {}
 // ********** End Class UDQSDefaultQuestTrackerWidget **********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_Statics
+struct Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UDQSDefaultQuestTrackerWidget, UDQSDefaultQuestTrackerWidget::StaticClass, TEXT("UDQSDefaultQuestTrackerWidget"), &Z_Registration_Info_UClass_UDQSDefaultQuestTrackerWidget, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDQSDefaultQuestTrackerWidget), 3974881490U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_4273884378(TEXT("/Script/DQSUI"),
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_4273884378(TEXT("/Script/DQSUI"),
+	Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDefaultQuestTrackerWidget_h__Script_DQSUI_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

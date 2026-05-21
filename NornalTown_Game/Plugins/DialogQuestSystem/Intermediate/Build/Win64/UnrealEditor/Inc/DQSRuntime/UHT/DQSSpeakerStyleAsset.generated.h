@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class UDQSSpeakerStyleAsset ****************************************************
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDQSSpeakerStyleAsset_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSSpeakerStyleAsset(); \
 	friend struct Z_Construct_UClass_UDQSSpeakerStyleAsset_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSSpeakerStyleAsset)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSSpeakerStyleAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +42,12 @@ public: \
 	NO_API virtual ~UDQSSpeakerStyleAsset();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_11_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_GENERATED_BODY \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_11_PROLOG
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,6 +57,6 @@ class UDQSSpeakerStyleAsset;
 // ********** End Class UDQSSpeakerStyleAsset ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h
+#define CURRENT_FILE_ID FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSSpeakerStyleAsset_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

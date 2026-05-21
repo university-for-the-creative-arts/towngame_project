@@ -1,9 +1,0 @@
-{
-	"BuildId": "43139311",
-	"Modules": 
-	{
-		"DQSEditor": "UnrealEditor-DQSEditor.dll",
-		"DQSRuntime": "UnrealEditor-DQSRuntime.dll",
-		"DQSUI": "UnrealEditor-DQSUI.dll"
-	}
-}

@@ -27,35 +27,35 @@ struct FDQSVariableValue;
 struct FGameplayTag;
 
 // ********** Begin Delegate FDQSDialogueLineUpdatedSignature **************************************
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_14_DELEGATE \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_14_DELEGATE \
 DQSRUNTIME_API void FDQSDialogueLineUpdatedSignature_DelegateWrapper(const FMulticastScriptDelegate& DQSDialogueLineUpdatedSignature, FDQSActiveDialogueLine const& ActiveLine);
 
 
 // ********** End Delegate FDQSDialogueLineUpdatedSignature ****************************************
 
 // ********** Begin Delegate FDQSDialogueEndedSignature ********************************************
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_15_DELEGATE \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_15_DELEGATE \
 DQSRUNTIME_API void FDQSDialogueEndedSignature_DelegateWrapper(const FMulticastScriptDelegate& DQSDialogueEndedSignature);
 
 
 // ********** End Delegate FDQSDialogueEndedSignature **********************************************
 
 // ********** Begin Delegate FDQSQuestUpdatedSignature *********************************************
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_16_DELEGATE \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_16_DELEGATE \
 DQSRUNTIME_API void FDQSQuestUpdatedSignature_DelegateWrapper(const FMulticastScriptDelegate& DQSQuestUpdatedSignature, FDQSQuestStatusUpdate const& Update);
 
 
 // ********** End Delegate FDQSQuestUpdatedSignature ***********************************************
 
 // ********** Begin Delegate FDQSDialogueEventTriggeredSignature ***********************************
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_17_DELEGATE \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_17_DELEGATE \
 DQSRUNTIME_API void FDQSDialogueEventTriggeredSignature_DelegateWrapper(const FMulticastScriptDelegate& DQSDialogueEventTriggeredSignature, FGameplayTag EventTag, FName EventName, UObject* Context);
 
 
 // ********** End Delegate FDQSDialogueEventTriggeredSignature *************************************
 
 // ********** Begin Class UDialogQuestSubsystem ****************************************************
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execGetQuestState); \
 	DECLARE_FUNCTION(execGetAllQuestStates); \
 	DECLARE_FUNCTION(execGetCurrentDialogueLine); \
@@ -80,7 +80,7 @@ DQSRUNTIME_API void FDQSDialogueEventTriggeredSignature_DelegateWrapper(const FM
 
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDialogQuestSubsystem_NoRegister();
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_INCLASS_NO_PURE_DECLS \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDialogQuestSubsystem(); \
 	friend struct Z_Construct_UClass_UDialogQuestSubsystem_Statics; \
@@ -91,7 +91,7 @@ public: \
 	DECLARE_SERIALIZER(UDialogQuestSubsystem)
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_ENHANCED_CONSTRUCTORS \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UDialogQuestSubsystem(UDialogQuestSubsystem&&) = delete; \
 	UDialogQuestSubsystem(const UDialogQuestSubsystem&) = delete; \
@@ -101,13 +101,13 @@ public: \
 	NO_API virtual ~UDialogQuestSubsystem();
 
 
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_19_PROLOG
-#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_GENERATED_BODY \
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_19_PROLOG
+#define FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_INCLASS_NO_PURE_DECLS \
-	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_ENHANCED_CONSTRUCTORS \
+	FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_INCLASS_NO_PURE_DECLS \
+	FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h_22_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -117,6 +117,6 @@ class UDialogQuestSubsystem;
 // ********** End Class UDialogQuestSubsystem ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h
+#define CURRENT_FILE_ID FID_Users_sasha_OneDrive_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DialogQuestSubsystem_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
