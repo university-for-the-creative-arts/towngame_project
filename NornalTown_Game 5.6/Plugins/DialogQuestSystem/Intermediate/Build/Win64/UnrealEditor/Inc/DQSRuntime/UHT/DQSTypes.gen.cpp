@@ -1911,7 +1911,7 @@ UScriptStruct* Z_Construct_UScriptStruct_FDQSSaveSnapshot()
 // ********** End ScriptStruct FDQSSaveSnapshot ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics
+struct Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EDQSValueType_StaticEnum, TEXT("EDQSValueType"), &Z_Registration_Info_UEnum_EDQSValueType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1691549452U) },
@@ -1938,10 +1938,10 @@ struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project
 		{ FDQSSaveSnapshot::StaticStruct, Z_Construct_UScriptStruct_FDQSSaveSnapshot_Statics::NewStructOps, TEXT("DQSSaveSnapshot"), &Z_Registration_Info_UScriptStruct_FDQSSaveSnapshot, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FDQSSaveSnapshot), 1289688289U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_3030507511(TEXT("/Script/DQSRuntime"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_3030507511(TEXT("/Script/DQSRuntime"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h__Script_DQSRuntime_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

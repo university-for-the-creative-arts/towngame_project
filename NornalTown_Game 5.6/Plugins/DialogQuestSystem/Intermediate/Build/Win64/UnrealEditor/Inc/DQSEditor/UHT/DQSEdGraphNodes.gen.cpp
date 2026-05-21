@@ -536,7 +536,7 @@ UDQSQuestGraphSchema::~UDQSQuestGraphSchema() {}
 // ********** End Class UDQSQuestGraphSchema *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_Statics
+struct Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UDQSDialogueEdGraph, UDQSDialogueEdGraph::StaticClass, TEXT("UDQSDialogueEdGraph"), &Z_Registration_Info_UClass_UDQSDialogueEdGraph, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDQSDialogueEdGraph), 2389447939U) },
@@ -547,8 +547,8 @@ struct Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project
 		{ Z_Construct_UClass_UDQSQuestGraphSchema, UDQSQuestGraphSchema::StaticClass, TEXT("UDQSQuestGraphSchema"), &Z_Registration_Info_UClass_UDQSQuestGraphSchema, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UDQSQuestGraphSchema), 3744852946U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_3824141730(TEXT("/Script/DQSEditor"),
-	Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_3824141730(TEXT("/Script/DQSEditor"),
+	Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Student_Documents_GitHub_TownGame_Project_NornalTown_Game_5_6_Plugins_DialogQuestSystem_Source_DQSEditor_Public_DQSEdGraphNodes_h__Script_DQSEditor_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
