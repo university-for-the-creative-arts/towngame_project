@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FDQSVariableValue *************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_85_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_85_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSVariableValue_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -26,7 +26,7 @@ struct FDQSVariableValue;
 // ********** End ScriptStruct FDQSVariableValue ***************************************************
 
 // ********** Begin ScriptStruct FDQSGraphMetadata *************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_115_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_115_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSGraphMetadata_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -35,7 +35,7 @@ struct FDQSGraphMetadata;
 // ********** End ScriptStruct FDQSGraphMetadata ***************************************************
 
 // ********** Begin ScriptStruct FDQSSpeakerDefinition *********************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_142_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_142_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSSpeakerDefinition_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -44,7 +44,7 @@ struct FDQSSpeakerDefinition;
 // ********** End ScriptStruct FDQSSpeakerDefinition ***********************************************
 
 // ********** Begin ScriptStruct FDQSDialoguePresentationOverride **********************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_160_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_160_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSDialoguePresentationOverride_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -53,7 +53,7 @@ struct FDQSDialoguePresentationOverride;
 // ********** End ScriptStruct FDQSDialoguePresentationOverride ************************************
 
 // ********** Begin ScriptStruct FDQSQuestHook *****************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_175_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_175_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSQuestHook_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -62,7 +62,7 @@ struct FDQSQuestHook;
 // ********** End ScriptStruct FDQSQuestHook *******************************************************
 
 // ********** Begin ScriptStruct FDQSDialogueChoice ************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_190_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_190_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSDialogueChoice_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -71,7 +71,7 @@ struct FDQSDialogueChoice;
 // ********** End ScriptStruct FDQSDialogueChoice **************************************************
 
 // ********** Begin ScriptStruct FDQSDialogueNode **************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_214_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_214_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSDialogueNode_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -80,7 +80,7 @@ struct FDQSDialogueNode;
 // ********** End ScriptStruct FDQSDialogueNode ****************************************************
 
 // ********** Begin ScriptStruct FDQSQuestNode *****************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_265_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_265_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSQuestNode_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -89,7 +89,7 @@ struct FDQSQuestNode;
 // ********** End ScriptStruct FDQSQuestNode *******************************************************
 
 // ********** Begin ScriptStruct FDQSDialogueChoicePayload *****************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_304_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_304_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSDialogueChoicePayload_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -98,7 +98,7 @@ struct FDQSDialogueChoicePayload;
 // ********** End ScriptStruct FDQSDialogueChoicePayload *******************************************
 
 // ********** Begin ScriptStruct FDQSActiveDialogueLine ********************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_319_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_319_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSActiveDialogueLine_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -107,7 +107,7 @@ struct FDQSActiveDialogueLine;
 // ********** End ScriptStruct FDQSActiveDialogueLine **********************************************
 
 // ********** Begin ScriptStruct FDQSDialogueSessionState ******************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_358_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_358_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSDialogueSessionState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -116,7 +116,7 @@ struct FDQSDialogueSessionState;
 // ********** End ScriptStruct FDQSDialogueSessionState ********************************************
 
 // ********** Begin ScriptStruct FDQSQuestRuntimeState *********************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_379_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_379_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSQuestRuntimeState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -125,7 +125,7 @@ struct FDQSQuestRuntimeState;
 // ********** End ScriptStruct FDQSQuestRuntimeState ***********************************************
 
 // ********** Begin ScriptStruct FDQSQuestStatusUpdate *********************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_403_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_403_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSQuestStatusUpdate_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -134,7 +134,7 @@ struct FDQSQuestStatusUpdate;
 // ********** End ScriptStruct FDQSQuestStatusUpdate ***********************************************
 
 // ********** Begin ScriptStruct FDQSSaveSnapshot **************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_430_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h_430_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDQSSaveSnapshot_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -143,7 +143,7 @@ struct FDQSSaveSnapshot;
 // ********** End ScriptStruct FDQSSaveSnapshot ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h
+#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSTypes_h
 
 // ********** Begin Enum EDQSValueType *************************************************************
 #define FOREACH_ENUM_EDQSVALUETYPE(op) \

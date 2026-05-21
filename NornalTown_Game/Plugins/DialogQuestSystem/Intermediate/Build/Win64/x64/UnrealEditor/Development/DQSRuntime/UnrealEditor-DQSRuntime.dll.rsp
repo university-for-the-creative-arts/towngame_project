@@ -36,9 +36,9 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
-"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/Module.DQSRuntime.cpp.obj"
-"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/Default.rc2.res"
+"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Intermediate/Build/Win64/x64/NornalTown_GameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/Module.DQSRuntime.cpp.obj"
+"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DQSRuntime/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
@@ -69,6 +69,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Binaries/Win64/UnrealEditor-DQSRuntime.dll"
-/PDB:"C:/Users/2511279/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Binaries/Win64/UnrealEditor-DQSRuntime.pdb"
+/OUT:"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Binaries/Win64/UnrealEditor-DQSRuntime.dll"
+/PDB:"C:/Users/2406616/Documents/GitHub/TownGame_Project/NornalTown_Game/Plugins/DialogQuestSystem/Binaries/Win64/UnrealEditor-DQSRuntime.pdb"
 /ignore:4078
