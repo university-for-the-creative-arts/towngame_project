@@ -20,7 +20,7 @@ class UDQSSpeakerStyleAsset;
 class UTexture2D;
 
 // ********** Begin Class UDialogueGraphAsset ******************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execResolveSpeakerStyle); \
 	DECLARE_FUNCTION(execResolveSpeakerPortrait); \
 	DECLARE_FUNCTION(execResolveSpeakerName);
@@ -28,7 +28,7 @@ class UTexture2D;
 
 DQSRUNTIME_API UClass* Z_Construct_UClass_UDialogueGraphAsset_NoRegister();
 
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDialogueGraphAsset(); \
 	friend struct Z_Construct_UClass_UDialogueGraphAsset_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(UDialogueGraphAsset)
 
 
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UDialogueGraphAsset(UDialogueGraphAsset&&) = delete; \
 	UDialogueGraphAsset(const UDialogueGraphAsset&) = delete; \
@@ -49,13 +49,13 @@ public: \
 	NO_API virtual ~UDialogueGraphAsset();
 
 
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_11_PROLOG
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_11_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -65,6 +65,6 @@ class UDialogueGraphAsset;
 // ********** End Class UDialogueGraphAsset ********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h
+#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSRuntime_Public_DQSDialogueGraphAsset_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

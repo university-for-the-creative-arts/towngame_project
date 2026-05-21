@@ -20,14 +20,14 @@ class UObject;
 struct FDQSActiveDialogueLine;
 
 // ********** Begin Delegate FDQSDialogueViewModelChangedSignature *********************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_10_DELEGATE \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_10_DELEGATE \
 DQSUI_API void FDQSDialogueViewModelChangedSignature_DelegateWrapper(const FMulticastScriptDelegate& DQSDialogueViewModelChangedSignature);
 
 
 // ********** End Delegate FDQSDialogueViewModelChangedSignature ***********************************
 
 // ********** Begin Class UDQSDialogueViewModel ****************************************************
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execHandleDialogueEnded); \
 	DECLARE_FUNCTION(execHandleDialogueUpdated); \
 	DECLARE_FUNCTION(execGetCurrentLine); \
@@ -37,7 +37,7 @@ DQSUI_API void FDQSDialogueViewModelChangedSignature_DelegateWrapper(const FMult
 
 DQSUI_API UClass* Z_Construct_UClass_UDQSDialogueViewModel_NoRegister();
 
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDQSDialogueViewModel(); \
 	friend struct Z_Construct_UClass_UDQSDialogueViewModel_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_SERIALIZER(UDQSDialogueViewModel)
 
 
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDQSDialogueViewModel(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -60,13 +60,13 @@ public: \
 	NO_API virtual ~UDQSDialogueViewModel();
 
 
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_12_PROLOG
-#define FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_GENERATED_BODY \
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_12_PROLOG
+#define FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -76,6 +76,6 @@ class UDQSDialogueViewModel;
 // ********** End Class UDQSDialogueViewModel ******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_2511279_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h
+#define CURRENT_FILE_ID FID_Users_2406616_Documents_GitHub_TownGame_Project_NornalTown_Game_Plugins_DialogQuestSystem_Source_DQSUI_Public_DQSDialogueViewModel_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
