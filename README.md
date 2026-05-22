@@ -8,9 +8,7 @@
 
 **Total Word Count:** 0000
 
-**Build Link:** https://github.com/University-for-the-Creative-Arts/TownGame_Project or Itch-io link
-
-**Video Demonstration Link:** video link
+**Build Link:** https://github.com/University-for-the-Creative-Arts/TownGame_Project
 
 ---
 
@@ -32,6 +30,14 @@ The name of this Project is called "interactive narrative".The task for the proj
 >* Which types of sources did you avoid and why?
 >* How does the research relate to the user experience, technical approach, or creative aim?
 
+The research source was Old Texas, Farm Town, U.S.A in the 70s and references to mimic/shape-shifter. these are relvant to the task because of the horror theme and theme options we pick in my team. 
+
+Old Western American in the 70s for creepiness, looks and vibe, better horror in older times.
+
+modern world and tech for advanced tech, too much well-known info on the internet and believability.
+
+art style and quality for when the map is made,also the sound quality for the to of game
+
 #### Sources
 
 >For each source, provide:
@@ -43,6 +49,12 @@ The name of this Project is called "interactive narrative".The task for the proj
 >You may include both **academic resources** and **industry examples** (e.g. documentation, games, developer talks). You are encouraged to include plenty of images, videos and diagrams.
 
 > You should have at least 1 game source as inspiration, 1 documentation/tutorial source and 1 academic source at a minimum.
+
+no, i'm not human
+game options tutorial
+
+
+
 
 ---
 
@@ -140,11 +152,14 @@ public class HelloWorld : MonoBehaviour
 >* Third-party 3D models, audio, textures, or code
 >* Code snippets from tutorials or forums
 >* AI-generated or AI-assisted assets (e.g. ChatGPT, GitHub Copilot, DALL·E)
+* DQS Plugin
+* Version Control - Git & Github IDE
+* Assets from  Assetville, a Town Asset Pack provided to the project.
 
-List these clearly, with context where needed.
+>List these clearly, with context where needed.
 
-Example:
-
+>Example:
+>
 > The following assets were created or modified with the use of GPT-4o:
 >
 > * `Test.cs` – generated structure with manual revision
